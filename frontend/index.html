@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cricket Analytics Platform | AI-Powered Match Prediction</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css?v=1.2">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <!-- ===========================
+       NAVBAR
+       =========================== -->
+  <nav>
+    <div class="nav-container">
+      <a href="#home" class="nav-brand">
+        🏏 Cricket Analytics
+      </a>
+      
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#match-predictor">Match Predictor</a></li>
+        <li><a href="#world-cup">World Cup Predictor</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+      
+      <div class="nav-right">
+        <button class="dark-toggle">🌙</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ===========================
+       PAGE 1: HOME
+       =========================== -->
+  <main id="home" class="page active">
+    <!-- HERO SECTION -->
+    <section class="hero">
+      <div class="hero-container">
+        <div class="hero-text-side">
+          <div class="hero-top">
+            <span class="hero-pill">Premium Sports Analytics</span>
+            <span class="hero-label">AI-driven predictive intelligence</span>
+          </div>
+          <h1>🏏 Predict Cricket Like Never Before</h1>
+          <p class="hero-copy">
+            AI-powered match prediction with world cup simulation and real-time insights.
+            Turn data into winning decisions, one match at a time.
+          </p>
+          <div class="hero-buttons">
+            <button class="btn btn-primary btn-large" data-page="match-predictor">
+              ⚡ Predict Match
+            </button>
+            <button class="btn btn-secondary btn-large" data-page="world-cup">
+              🏆 Simulate World Cup
+            </button>
+          </div>
+        </div>
+        <div class="hero-visual-side">
+          <div class="hero-image-glow-wrapper">
+            <img src="assets/analytics_hero.png" alt="Cricket Telemetry Insights" class="hero-dashboard-img">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- METRICS STRIP -->
+    <section class="hero-action-strip">
+      <div class="container">
+        <div class="hero-action-panel">
+          <div class="hero-action-card">
+            <span class="hero-action-value">293</span>
+            <p>Predictive features</p>
+          </div>
+          <div class="hero-action-card">
+            <span class="hero-action-value">XGBoost</span>
+            <p>AI engine</p>
+          </div>
+          <div class="hero-action-card">
+            <span class="hero-action-value">1000+</span>
+            <p>Simulations</p>
+          </div>
+          <div class="hero-action-card">
+            <span class="hero-action-value">90%+</span>
+            <p>Accuracy</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="overview-section">
+      <div class="overview-panel">
+        <div class="overview-content">
+          <p class="eyebrow">Match Intelligence</p>
+          <h2>Data-driven predictions with a premium sports analytics dashboard.</h2>
+          <p>
+            This interface is designed for clarity, speed, and high-level insight. Every prediction and simulation is presented with elegant glass surfaces, smooth transitions, and a focused premium aesthetic.
+          </p>
+        </div>
+        <div class="overview-metrics">
+          <div class="overview-item">
+            <strong>Predictive depth</strong>
+            <span>293 advanced variables</span>
+          </div>
+          <div class="overview-item">
+            <strong>Tournament vision</strong>
+            <span>1000+ simulated paths</span>
+          </div>
+          <div class="overview-item">
+            <strong>Accuracy focus</strong>
+            <span>90%+ predicted reliability</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===========================
+       PAGE 2: MATCH PREDICTOR
+       =========================== -->
+  <main id="match-predictor" class="page">
+    <div class="container">
+      <h2 style="margin-bottom: 1rem; color: var(--primary);">⚡ Match Predictor</h2>
+      <p style="color: var(--text-light); margin-bottom: 2rem;">
+        Select teams, venue, and toss details to get AI-powered match predictions
+      </p>
+
+      <div class="predictor-grid">
+        <!-- LEFT SIDE: INPUT FORM -->
+        <div class="glass-card input-form-visual">
+          <h3 class="predictor-card-title">Configure Matchup</h3>
+          
+          <div class="vs-setup-row">
+            <!-- Team 1 Selector Card -->
+            <div class="team-selector-card" id="team1-selector-card">
+              <div class="team-flag-preview" id="team1-flag-display">🏏</div>
+              <div class="form-group">
+                <label for="team1">Team 1</label>
+                <select id="team1">
+                  <option value="">Select Team</option>
+                </select>
+              </div>
+            </div>
+
+            <!-- VS Circle Badge -->
+            <div class="vs-badge-container">
+              <div class="vs-badge-circle">VS</div>
+            </div>
+
+            <!-- Team 2 Selector Card -->
+            <div class="team-selector-card" id="team2-selector-card">
+              <div class="team-flag-preview" id="team2-flag-display">🏏</div>
+              <div class="form-group">
+                <label for="team2">Team 2</label>
+                <select id="team2">
+                  <option value="">Select Team</option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <!-- Bottom Config Rows -->
+          <div class="match-config-row">
+            <div class="form-group">
+              <label for="venue">Venue 🌍</label>
+              <select id="venue">
+                <option value="">Select Venue</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="toss-winner">Toss Winner 🏆</label>
+              <select id="toss-winner">
+                <option value="">Select Toss Winner</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="toss-decision">Toss Decision 📊</label>
+              <select id="toss-decision">
+                <option value="">Select Decision</option>
+                <option value="bat">Bat First</option>
+                <option value="field">Field First</option>
+              </select>
+            </div>
+          </div>
+
+          <button class="btn btn-primary btn-large predict-btn" data-action="predict">
+            ⚡ Run Match Prediction
+          </button>
+        </div>
+
+        <!-- RIGHT SIDE: RESULTS -->
+        <div class="results-section">
+          <div class="empty-state-card">
+            <div class="empty-icon">📊</div>
+            <p>Select match settings and run the simulation to view telemetry insights</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ===========================
+       PAGE 3: WORLD CUP PREDICTOR
+       =========================== -->
+  <main id="world-cup" class="page">
+    <div class="container">
+      <!-- TOURNAMENT HEADER -->
+      <div class="tournament-header">
+        <div class="tournament-header-text">
+          <h1>🏆 2027 ODI World Cup Predictor</h1>
+          <p>Run 1,000+ AI-powered simulations to forecast the tournament champion and odds</p>
+        </div>
+        <button class="btn btn-primary btn-large simulate-btn" data-action="simulate">
+          ⚡ Run Simulations
+        </button>
+      </div>
+
+      <!-- SIMULATION DASHBOARD (Initially Hidden until simulated) -->
+      <div id="world-cup-dashboard" class="world-cup-dashboard" style="display: none;">
+        <!-- TOP 3 PODIUM -->
+        <h3 class="section-title text-center">🏆 Projected Podium Finishers</h3>
+        <div id="podium-container" class="podium-container"></div>
+        
+        <!-- GRID LAYOUT FOR CHART & TABLE -->
+        <div class="simulation-dashboard-grid">
+          <!-- Chart Column -->
+          <div class="glass-card chart-card">
+            <h3 class="card-title">Win Probability Distribution</h3>
+            <div id="chart-container" class="chart-container-canvas">
+              <canvas id="tournament-chart"></canvas>
+            </div>
+          </div>
+
+          <!-- Standings Column -->
+          <div class="glass-card standings-card">
+            <h3 class="card-title">Full Tournament Odds</h3>
+            <div id="probability-table-container"></div>
+          </div>
+        </div>
+
+        <!-- OTHER CONTENDERS -->
+        <div class="other-contenders-section">
+          <h3 class="section-title text-center">Remaining Teams</h3>
+          <div class="world-cup-results" id="team-cards-container"></div>
+        </div>
+      </div>
+
+      <!-- EMPTY STATE -->
+      <div id="world-cup-empty-state" class="empty-state-card">
+        <div class="empty-icon">🏆</div>
+        <p>Click "Run Simulations" to start Monte Carlo simulation modeling</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- ===========================
+       PAGE 4: ABOUT
+       =========================== -->
+  <main id="about" class="page">
+    <section class="about-section">
+      <div class="container">
+        <div class="about-grid">
+          <div>
+            <p class="eyebrow">About the platform</p>
+            <h2>Elite prediction tools built for the cricket era.</h2>
+            <p class="about-copy">
+              From team strength calculations to venue advantage, this platform delivers a sleek analytics experience for match planners and fans. Explore predictive insights, tournament forecasts, and live analysis all from one premium dashboard.
+            </p>
+          </div>
+          <div class="feature-grid">
+            <div class="feature-card">
+              <strong>Live scenario modeling</strong>
+              <p>Simulate toss decisions, venue insights, and win probabilities instantly.</p>
+            </div>
+            <div class="feature-card">
+              <strong>Actionable insights</strong>
+              <p>Get head-to-head and form analysis with every prediction.</p>
+            </div>
+            <div class="feature-card">
+              <strong>Dashboard-first UX</strong>
+              <p>Premium glass panels, animated charts, and focused content.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>&copy; 2026 Cricket Analytics Platform. Powered by AI & Machine Learning.</p>
+  </footer>
+
+  <!-- SCRIPTS -->
+  <script src="js/app.js?v=1.4"></script>
+  <script src="js/predictions.js?v=1.4"></script>
+  <script src="js/world-cup.js?v=1.4"></script>
+</body>
+</html>

@@ -1,0 +1,1175 @@
+date,team1,team2,city,venue,toss_winner,toss_decision,winner,year,home_team,team1_recent_form,team2_recent_form,team1_h2h_wins,team2_h2h_wins,toss_match_win,target,team1_strength,team2_strength
+2015-01-11,New Zealand,Sri Lanka,Christchurch,Hagley Oval,Sri Lanka,bat,New Zealand,2015,New Zealand,0,0,0,0,0,1,0.6271186440677966,0.41899441340782123
+2015-01-12,Ireland,Scotland,Unknown,Dubai International Cricket Stadium,Ireland,field,Ireland,2015,Neutral,0,0,0,0,1,1,0.4024390243902439,0.5714285714285714
+2015-01-15,New Zealand,Sri Lanka,Hamilton,Seddon Park,New Zealand,bat,Sri Lanka,2015,New Zealand,1,0,1,0,0,0,0.6271186440677966,0.41899441340782123
+2015-01-16,South Africa,West Indies,Durban,Kingsmead,South Africa,bat,South Africa,2015,South Africa,0,0,0,0,1,1,0.5828220858895705,0.34591194968553457
+2015-01-16,Australia,England,Unknown,Sydney Cricket Ground,England,bat,Australia,2015,Australia,0,0,0,0,0,1,0.5705882352941176,0.5895953757225434
+2015-01-18,South Africa,West Indies,Johannesburg,New Wanderers Stadium,West Indies,field,South Africa,2015,South Africa,1,0,1,0,0,1,0.5828220858895705,0.34591194968553457
+2015-01-18,Australia,India,Unknown,Melbourne Cricket Ground,India,bat,Australia,2015,Australia,1,0,0,0,0,1,0.5705882352941176,0.673469387755102
+2015-01-20,England,India,Brisbane,"Brisbane Cricket Ground, Woolloongabba",India,bat,England,2015,Neutral,0,0,0,0,0,1,0.5895953757225434,0.673469387755102
+2015-01-20,New Zealand,Sri Lanka,Nelson,Saxton Oval,Sri Lanka,bat,New Zealand,2015,New Zealand,1,1,1,1,0,1,0.6271186440677966,0.41899441340782123
+2015-01-21,South Africa,West Indies,East London,Buffalo Park,West Indies,bat,South Africa,2015,South Africa,2,0,2,0,0,1,0.5828220858895705,0.34591194968553457
+2015-01-23,New Zealand,Sri Lanka,Dunedin,University Oval,Sri Lanka,field,New Zealand,2015,New Zealand,2,1,2,1,0,1,0.6271186440677966,0.41899441340782123
+2015-01-23,Australia,England,Hobart,Bellerive Oval,Australia,field,Australia,2015,Australia,2,1,1,0,1,1,0.5705882352941176,0.5895953757225434
+2015-01-25,New Zealand,Sri Lanka,Dunedin,University Oval,New Zealand,bat,New Zealand,2015,New Zealand,3,1,3,1,1,1,0.6271186440677966,0.41899441340782123
+2015-01-25,South Africa,West Indies,Port Elizabeth,St George's Park,West Indies,field,West Indies,2015,South Africa,3,0,3,0,1,0,0.5828220858895705,0.34591194968553457
+2015-01-28,South Africa,West Indies,Centurion,SuperSport Park,West Indies,field,South Africa,2015,South Africa,3,1,3,1,0,1,0.5828220858895705,0.34591194968553457
+2015-01-29,New Zealand,Sri Lanka,Wellington,Westpac Stadium,Sri Lanka,bat,Sri Lanka,2015,New Zealand,4,1,4,1,1,0,0.6271186440677966,0.41899441340782123
+2015-01-30,England,India,Perth,Western Australia Cricket Association Ground,England,field,England,2015,Neutral,1,0,1,0,1,1,0.5895953757225434,0.673469387755102
+2015-01-31,New Zealand,Pakistan,Wellington,Westpac Stadium,New Zealand,field,New Zealand,2015,New Zealand,3,0,0,0,1,1,0.6271186440677966,0.5123456790123457
+2015-02-01,Australia,England,Perth,Western Australia Cricket Association Ground,England,field,Australia,2015,Australia,3,2,2,0,0,1,0.5705882352941176,0.5895953757225434
+2015-02-03,New Zealand,Pakistan,Napier,McLean Park,New Zealand,bat,New Zealand,2015,New Zealand,4,0,1,0,1,1,0.6271186440677966,0.5123456790123457
+2015-02-14,New Zealand,Sri Lanka,Christchurch,Hagley Oval,Sri Lanka,field,New Zealand,2015,New Zealand,4,2,4,2,0,1,0.6271186440677966,0.41899441340782123
+2015-02-14,Australia,England,Unknown,Melbourne Cricket Ground,England,field,Australia,2015,Australia,4,2,3,0,0,1,0.5705882352941176,0.5895953757225434
+2015-02-15,South Africa,Zimbabwe,Hamilton,Seddon Park,Zimbabwe,field,South Africa,2015,Neutral,4,0,0,0,0,1,0.5828220858895705,0.29357798165137616
+2015-02-15,India,Pakistan,Unknown,Adelaide Oval,India,bat,India,2015,Neutral,0,0,0,0,1,1,0.673469387755102,0.5123456790123457
+2015-02-16,Ireland,West Indies,Nelson,Saxton Oval,Ireland,field,Ireland,2015,Neutral,1,1,0,0,1,1,0.4024390243902439,0.34591194968553457
+2015-02-17,New Zealand,Scotland,Dunedin,University Oval,New Zealand,field,New Zealand,2015,New Zealand,4,0,0,0,1,1,0.6271186440677966,0.5714285714285714
+2015-02-19,United Arab Emirates,Zimbabwe,Nelson,Saxton Oval,Zimbabwe,field,Zimbabwe,2015,Neutral,0,0,0,0,1,0,0.3486238532110092,0.29357798165137616
+2015-02-20,New Zealand,England,Wellington,Westpac Stadium,England,bat,New Zealand,2015,New Zealand,4,2,0,0,0,1,0.6271186440677966,0.5895953757225434
+2015-02-21,Pakistan,West Indies,Christchurch,Hagley Oval,Pakistan,field,West Indies,2015,Neutral,0,1,0,0,0,0,0.5123456790123457,0.34591194968553457
+2015-02-22,India,South Africa,Unknown,Melbourne Cricket Ground,India,bat,India,2015,Neutral,1,4,0,0,1,1,0.673469387755102,0.5828220858895705
+2015-02-23,England,Scotland,Christchurch,Hagley Oval,Scotland,field,England,2015,Neutral,1,0,0,0,0,1,0.5895953757225434,0.5714285714285714
+2015-02-24,West Indies,Zimbabwe,Canberra,Manuka Oval,West Indies,bat,West Indies,2015,Neutral,2,1,0,0,1,1,0.34591194968553457,0.29357798165137616
+2015-02-25,Ireland,United Arab Emirates,Brisbane,"Brisbane Cricket Ground, Woolloongabba",Ireland,field,Ireland,2015,Neutral,2,0,0,0,1,1,0.4024390243902439,0.3486238532110092
+2015-02-26,Bangladesh,Sri Lanka,Unknown,Melbourne Cricket Ground,Sri Lanka,bat,Sri Lanka,2015,Neutral,0,1,0,0,1,0,0.5107913669064749,0.41899441340782123
+2015-02-27,South Africa,West Indies,Unknown,Sydney Cricket Ground,South Africa,bat,South Africa,2015,Neutral,3,3,4,1,1,1,0.5828220858895705,0.34591194968553457
+2015-02-28,India,United Arab Emirates,Perth,Western Australia Cricket Association Ground,United Arab Emirates,bat,India,2015,Neutral,2,0,0,0,0,1,0.673469387755102,0.3486238532110092
+2015-02-28,New Zealand,Australia,Auckland,Eden Park,Australia,bat,New Zealand,2015,New Zealand,5,5,0,0,0,1,0.6271186440677966,0.5705882352941176
+2015-03-01,England,Sri Lanka,Wellington,Westpac Stadium,England,bat,Sri Lanka,2015,Neutral,2,2,0,0,0,0,0.5895953757225434,0.41899441340782123
+2015-03-01,Pakistan,Zimbabwe,Brisbane,"Brisbane Cricket Ground, Woolloongabba",Pakistan,bat,Pakistan,2015,Neutral,0,1,0,0,1,1,0.5123456790123457,0.29357798165137616
+2015-03-03,Ireland,South Africa,Canberra,Manuka Oval,South Africa,bat,South Africa,2015,Neutral,3,3,0,0,1,0,0.4024390243902439,0.5828220858895705
+2015-03-04,Pakistan,United Arab Emirates,Napier,McLean Park,United Arab Emirates,field,Pakistan,2015,Neutral,1,0,0,0,0,1,0.5123456790123457,0.3486238532110092
+2015-03-05,Bangladesh,Scotland,Nelson,Saxton Oval,Bangladesh,field,Bangladesh,2015,Neutral,0,0,0,0,1,1,0.5107913669064749,0.5714285714285714
+2015-03-06,India,West Indies,Perth,Western Australia Cricket Association Ground,West Indies,bat,India,2015,Neutral,3,2,0,0,0,1,0.673469387755102,0.34591194968553457
+2015-03-07,Ireland,Zimbabwe,Hobart,Bellerive Oval,Zimbabwe,field,Ireland,2015,Neutral,3,1,0,0,0,1,0.4024390243902439,0.29357798165137616
+2015-03-07,Pakistan,South Africa,Auckland,Eden Park,South Africa,field,Pakistan,2015,Neutral,2,4,0,0,0,1,0.5123456790123457,0.5828220858895705
+2015-03-08,Australia,Sri Lanka,Unknown,Sydney Cricket Ground,Australia,bat,Australia,2015,Australia,4,3,0,0,1,1,0.5705882352941176,0.41899441340782123
+2015-03-09,Bangladesh,England,Unknown,Adelaide Oval,England,field,Bangladesh,2015,Neutral,1,1,0,0,0,1,0.5107913669064749,0.5895953757225434
+2015-03-10,India,Ireland,Hamilton,Seddon Park,Ireland,bat,India,2015,Neutral,4,4,0,0,0,1,0.673469387755102,0.4024390243902439
+2015-03-11,Scotland,Sri Lanka,Hobart,Bellerive Oval,Sri Lanka,bat,Sri Lanka,2015,Neutral,0,3,0,0,1,0,0.5714285714285714,0.41899441340782123
+2015-03-12,South Africa,United Arab Emirates,Wellington,Westpac Stadium,United Arab Emirates,field,South Africa,2015,Neutral,3,0,0,0,0,1,0.5828220858895705,0.3486238532110092
+2015-03-13,New Zealand,Bangladesh,Hamilton,Seddon Park,New Zealand,field,New Zealand,2015,New Zealand,5,2,0,0,1,1,0.6271186440677966,0.5107913669064749
+2015-03-14,Australia,Scotland,Hobart,Bellerive Oval,Australia,field,Australia,2015,Australia,4,0,0,0,1,1,0.5705882352941176,0.5714285714285714
+2015-03-14,India,Zimbabwe,Auckland,Eden Park,India,field,India,2015,Neutral,5,1,0,0,1,1,0.673469387755102,0.29357798165137616
+2015-03-15,United Arab Emirates,West Indies,Napier,McLean Park,West Indies,field,West Indies,2015,Neutral,0,2,0,0,1,0,0.3486238532110092,0.34591194968553457
+2015-03-15,Ireland,Pakistan,Unknown,Adelaide Oval,Ireland,bat,Pakistan,2015,Neutral,3,3,0,0,0,0,0.4024390243902439,0.5123456790123457
+2015-03-18,South Africa,Sri Lanka,Unknown,Sydney Cricket Ground,Sri Lanka,bat,South Africa,2015,Neutral,3,3,0,0,0,1,0.5828220858895705,0.41899441340782123
+2015-03-19,Bangladesh,India,Unknown,Melbourne Cricket Ground,India,bat,India,2015,Neutral,2,5,0,0,1,0,0.5107913669064749,0.673469387755102
+2015-03-20,Australia,Pakistan,Unknown,Adelaide Oval,Pakistan,bat,Australia,2015,Australia,4,4,0,0,0,1,0.5705882352941176,0.5123456790123457
+2015-03-21,New Zealand,West Indies,Wellington,Westpac Stadium,New Zealand,bat,New Zealand,2015,New Zealand,5,3,0,0,1,1,0.6271186440677966,0.34591194968553457
+2015-03-24,New Zealand,South Africa,Auckland,Eden Park,South Africa,bat,New Zealand,2015,New Zealand,5,4,0,0,0,1,0.6271186440677966,0.5828220858895705
+2015-03-26,Australia,India,Unknown,Sydney Cricket Ground,Australia,bat,Australia,2015,Australia,4,5,1,0,1,1,0.5705882352941176,0.673469387755102
+2015-03-29,Australia,New Zealand,Unknown,Melbourne Cricket Ground,New Zealand,bat,Australia,2015,Australia,4,5,0,1,0,1,0.5705882352941176,0.6271186440677966
+2015-04-17,Bangladesh,Pakistan,Mirpur,Shere Bangla National Stadium,Bangladesh,bat,Bangladesh,2015,Pakistan,2,4,0,0,1,1,0.5107913669064749,0.5123456790123457
+2015-04-19,Bangladesh,Pakistan,Mirpur,Shere Bangla National Stadium,Pakistan,bat,Bangladesh,2015,Pakistan,3,3,1,0,0,1,0.5107913669064749,0.5123456790123457
+2015-04-22,Bangladesh,Pakistan,Mirpur,Shere Bangla National Stadium,Pakistan,bat,Bangladesh,2015,Pakistan,3,2,2,0,0,1,0.5107913669064749,0.5123456790123457
+2015-05-26,Pakistan,Zimbabwe,Lahore,Gaddafi Stadium,Pakistan,bat,Pakistan,2015,Pakistan,1,1,1,0,1,1,0.5123456790123457,0.29357798165137616
+2015-05-29,Pakistan,Zimbabwe,Lahore,Gaddafi Stadium,Pakistan,field,Pakistan,2015,Pakistan,1,0,2,0,1,1,0.5123456790123457,0.29357798165137616
+2015-06-09,England,New Zealand,Birmingham,Edgbaston,New Zealand,field,England,2015,England,1,4,0,1,0,1,0.5895953757225434,0.6271186440677966
+2015-06-12,England,New Zealand,London,Kennington Oval,New Zealand,bat,New Zealand,2015,England,2,3,1,1,1,0,0.5895953757225434,0.6271186440677966
+2015-06-14,England,New Zealand,Southampton,The Rose Bowl,England,bat,New Zealand,2015,Neutral,2,3,1,2,0,0,0.5895953757225434,0.6271186440677966
+2015-06-17,England,New Zealand,Nottingham,Trent Bridge,New Zealand,bat,England,2015,England,1,3,1,3,0,1,0.5895953757225434,0.6271186440677966
+2015-06-18,Bangladesh,India,Mirpur,Shere Bangla National Stadium,Bangladesh,bat,Bangladesh,2015,Neutral,3,4,0,1,1,1,0.5107913669064749,0.673469387755102
+2015-06-20,England,New Zealand,Chester-le-Street,Riverside Ground,England,field,England,2015,England,2,2,2,3,1,1,0.5895953757225434,0.6271186440677966
+2015-06-21,Bangladesh,India,Mirpur,Shere Bangla National Stadium,India,bat,Bangladesh,2015,Neutral,4,3,1,1,0,1,0.5107913669064749,0.673469387755102
+2015-06-24,Bangladesh,India,Mirpur,Shere Bangla National Stadium,Bangladesh,field,India,2015,Neutral,5,2,2,1,0,0,0.5107913669064749,0.673469387755102
+2015-07-10,Bangladesh,South Africa,Mirpur,Shere Bangla National Stadium,Bangladesh,bat,South Africa,2015,Neutral,4,3,0,0,0,0,0.5107913669064749,0.5828220858895705
+2015-07-10,Zimbabwe,India,Unknown,Harare Sports Club,Zimbabwe,field,India,2015,Neutral,0,2,0,1,0,0,0.29357798165137616,0.673469387755102
+2015-07-11,Sri Lanka,Pakistan,Unknown,Rangiri Dambulla International Stadium,Pakistan,field,Pakistan,2015,Neutral,3,2,0,0,1,0,0.41899441340782123,0.5123456790123457
+2015-07-12,Zimbabwe,India,Unknown,Harare Sports Club,Zimbabwe,field,India,2015,Neutral,0,2,0,2,0,0,0.29357798165137616,0.673469387755102
+2015-07-12,Bangladesh,South Africa,Mirpur,Shere Bangla National Stadium,South Africa,bat,Bangladesh,2015,Neutral,3,3,0,1,0,1,0.5107913669064749,0.5828220858895705
+2015-07-14,Zimbabwe,India,Unknown,Harare Sports Club,Zimbabwe,field,India,2015,Neutral,0,3,0,3,0,0,0.29357798165137616,0.673469387755102
+2015-07-15,Sri Lanka,Pakistan,Unknown,Pallekele International Cricket Stadium,Pakistan,bat,Sri Lanka,2015,Sri Lanka,2,3,0,1,0,1,0.41899441340782123,0.5123456790123457
+2015-07-15,Bangladesh,South Africa,Chittagong,Zahur Ahmed Chowdhury Stadium,South Africa,bat,Bangladesh,2015,Bangladesh,3,3,1,1,0,1,0.5107913669064749,0.5828220858895705
+2015-07-19,Sri Lanka,Pakistan,Colombo,R Premadasa Stadium,Pakistan,bat,Pakistan,2015,Sri Lanka,2,3,1,1,1,0,0.41899441340782123,0.5123456790123457
+2015-07-22,Sri Lanka,Pakistan,Colombo,R Premadasa Stadium,Sri Lanka,bat,Pakistan,2015,Sri Lanka,2,4,1,2,0,0,0.41899441340782123,0.5123456790123457
+2015-07-26,Sri Lanka,Pakistan,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,bat,Sri Lanka,2015,Neutral,1,4,1,3,1,1,0.41899441340782123,0.5123456790123457
+2015-08-02,Zimbabwe,New Zealand,Unknown,Harare Sports Club,Zimbabwe,field,Zimbabwe,2015,Neutral,0,2,0,0,1,1,0.29357798165137616,0.6271186440677966
+2015-08-04,Zimbabwe,New Zealand,Unknown,Harare Sports Club,Zimbabwe,bat,New Zealand,2015,Neutral,1,2,1,0,0,0,0.29357798165137616,0.6271186440677966
+2015-08-07,Zimbabwe,New Zealand,Unknown,Harare Sports Club,Zimbabwe,field,New Zealand,2015,Neutral,1,2,1,1,0,0,0.29357798165137616,0.6271186440677966
+2015-08-19,South Africa,New Zealand,Centurion,SuperSport Park,New Zealand,field,South Africa,2015,South Africa,2,2,0,1,0,1,0.5828220858895705,0.6271186440677966
+2015-08-23,South Africa,New Zealand,Potchefstroom,Senwes Park,South Africa,bat,New Zealand,2015,South Africa,2,2,1,1,0,0,0.5828220858895705,0.6271186440677966
+2015-08-26,South Africa,New Zealand,Durban,Kingsmead,South Africa,bat,South Africa,2015,South Africa,2,3,1,2,1,1,0.5828220858895705,0.6271186440677966
+2015-08-27,Ireland,Australia,Belfast,"Civil Service Cricket Club, Stormont",Australia,bat,Australia,2015,Neutral,2,5,0,0,1,0,0.4024390243902439,0.5705882352941176
+2015-09-03,England,Australia,Southampton,The Rose Bowl,Australia,bat,Australia,2015,Neutral,3,5,0,4,1,0,0.5895953757225434,0.5705882352941176
+2015-09-05,England,Australia,London,Lord's,England,field,Australia,2015,England,2,5,0,5,0,0,0.5895953757225434,0.5705882352941176
+2015-09-08,England,Australia,Manchester,Old Trafford,England,bat,England,2015,England,2,5,0,6,1,1,0.5895953757225434,0.5705882352941176
+2015-09-11,England,Australia,Leeds,Headingley,Australia,bat,England,2015,England,3,4,1,6,0,1,0.5895953757225434,0.5705882352941176
+2015-09-13,England,Australia,Manchester,Old Trafford,England,bat,Australia,2015,England,3,3,2,6,0,0,0.5895953757225434,0.5705882352941176
+2015-10-01,Zimbabwe,Pakistan,Unknown,Harare Sports Club,Zimbabwe,field,Pakistan,2015,Neutral,1,3,0,3,0,0,0.29357798165137616,0.5123456790123457
+2015-10-03,Zimbabwe,Pakistan,Unknown,Harare Sports Club,Pakistan,field,Zimbabwe,2015,Neutral,1,3,0,4,0,1,0.29357798165137616,0.5123456790123457
+2015-10-05,Zimbabwe,Pakistan,Unknown,Harare Sports Club,Pakistan,field,Pakistan,2015,Neutral,2,3,1,4,1,0,0.29357798165137616,0.5123456790123457
+2015-10-09,Zimbabwe,Ireland,Unknown,Harare Sports Club,Zimbabwe,field,Zimbabwe,2015,Neutral,1,1,0,1,1,1,0.29357798165137616,0.4024390243902439
+2015-10-11,India,South Africa,Kanpur,Green Park,South Africa,bat,South Africa,2015,India,4,2,1,0,1,0,0.673469387755102,0.5828220858895705
+2015-10-11,Zimbabwe,Ireland,Unknown,Harare Sports Club,Zimbabwe,field,Zimbabwe,2015,Neutral,2,1,1,1,1,1,0.29357798165137616,0.4024390243902439
+2015-10-13,Zimbabwe,Ireland,Unknown,Harare Sports Club,Ireland,field,Ireland,2015,Neutral,3,0,2,1,1,0,0.29357798165137616,0.4024390243902439
+2015-10-14,India,South Africa,Indore,Holkar Cricket Stadium,India,bat,India,2015,Neutral,4,3,1,1,1,1,0.673469387755102,0.5828220858895705
+2015-10-18,India,South Africa,Rajkot,Saurashtra Cricket Association Stadium,South Africa,bat,South Africa,2015,Neutral,4,3,2,1,1,0,0.673469387755102,0.5828220858895705
+2015-10-22,India,South Africa,Chennai,"MA Chidambaram Stadium, Chepauk",India,bat,India,2015,India,3,3,2,2,1,1,0.673469387755102,0.5828220858895705
+2015-10-25,India,South Africa,Mumbai,Wankhede Stadium,South Africa,bat,South Africa,2015,India,3,3,3,2,1,0,0.673469387755102,0.5828220858895705
+2015-11-01,Sri Lanka,West Indies,Colombo,R Premadasa Stadium,Sri Lanka,field,Sri Lanka,2015,Sri Lanka,2,2,0,0,1,1,0.41899441340782123,0.34591194968553457
+2015-11-04,Sri Lanka,West Indies,Colombo,R Premadasa Stadium,West Indies,bat,Sri Lanka,2015,Sri Lanka,3,1,1,0,0,1,0.41899441340782123,0.34591194968553457
+2015-11-07,Bangladesh,Zimbabwe,Mirpur,Shere Bangla National Stadium,Zimbabwe,field,Bangladesh,2015,Neutral,3,3,0,0,0,1,0.5107913669064749,0.29357798165137616
+2015-11-07,Sri Lanka,West Indies,Unknown,Pallekele International Cricket Stadium,Sri Lanka,field,Sri Lanka,2015,Sri Lanka,3,1,2,0,1,1,0.41899441340782123,0.34591194968553457
+2015-11-09,Bangladesh,Zimbabwe,Mirpur,Shere Bangla National Stadium,Zimbabwe,field,Bangladesh,2015,Neutral,3,2,1,0,0,1,0.5107913669064749,0.29357798165137616
+2015-11-11,Bangladesh,Zimbabwe,Mirpur,Shere Bangla National Stadium,Bangladesh,bat,Bangladesh,2015,Neutral,4,2,2,0,1,1,0.5107913669064749,0.29357798165137616
+2015-11-11,England,Pakistan,Abu Dhabi,Sheikh Zayed Stadium,England,bat,Pakistan,2015,Neutral,2,3,0,0,0,0,0.5895953757225434,0.5123456790123457
+2015-11-13,England,Pakistan,Abu Dhabi,Sheikh Zayed Stadium,England,bat,England,2015,Neutral,2,3,0,1,1,1,0.5895953757225434,0.5123456790123457
+2015-11-16,United Arab Emirates,Hong Kong,Dubai,ICC Academy,Hong Kong,bat,Hong Kong,2015,Neutral,0,0,0,0,1,0,0.3486238532110092,0.38461538461538464
+2015-11-17,England,Pakistan,Unknown,Sharjah Cricket Stadium,Pakistan,bat,England,2015,Neutral,3,3,1,1,0,1,0.5895953757225434,0.5123456790123457
+2015-11-20,England,Pakistan,Unknown,Dubai International Cricket Stadium,England,bat,England,2015,Neutral,3,2,2,1,1,1,0.5895953757225434,0.5123456790123457
+2015-12-26,New Zealand,Sri Lanka,Christchurch,Hagley Oval,Sri Lanka,bat,New Zealand,2015,New Zealand,3,4,5,2,0,1,0.6271186440677966,0.41899441340782123
+2015-12-28,New Zealand,Sri Lanka,Christchurch,Hagley Oval,Sri Lanka,bat,New Zealand,2015,New Zealand,3,4,6,2,0,1,0.6271186440677966,0.41899441340782123
+2015-12-31,New Zealand,Sri Lanka,Nelson,Saxton Oval,New Zealand,bat,Sri Lanka,2015,New Zealand,3,3,7,2,0,0,0.6271186440677966,0.41899441340782123
+2016-01-05,New Zealand,Sri Lanka,Mount Maunganui,Bay Oval,Sri Lanka,field,New Zealand,2016,New Zealand,3,3,7,3,0,1,0.6271186440677966,0.41899441340782123
+2016-01-12,Australia,India,Perth,Western Australia Cricket Association Ground,India,bat,Australia,2016,Australia,3,2,2,0,0,1,0.5705882352941176,0.673469387755102
+2016-01-15,Australia,India,Brisbane,"Brisbane Cricket Ground, Woolloongabba",India,bat,Australia,2016,Australia,3,2,3,0,0,1,0.5705882352941176,0.673469387755102
+2016-01-17,Australia,India,Unknown,Melbourne Cricket Ground,Australia,field,Australia,2016,Australia,3,1,4,0,1,1,0.5705882352941176,0.673469387755102
+2016-01-20,Australia,India,Canberra,Manuka Oval,Australia,bat,Australia,2016,Australia,4,1,5,0,1,1,0.5705882352941176,0.673469387755102
+2016-01-23,Australia,India,Unknown,Sydney Cricket Ground,India,field,India,2016,Australia,5,0,6,0,1,0,0.5705882352941176,0.673469387755102
+2016-01-25,New Zealand,Pakistan,Wellington,Basin Reserve,Pakistan,field,New Zealand,2016,New Zealand,3,2,2,0,0,1,0.6271186440677966,0.5123456790123457
+2016-01-31,New Zealand,Pakistan,Auckland,Eden Park,Pakistan,bat,New Zealand,2016,New Zealand,4,1,3,0,0,1,0.6271186440677966,0.5123456790123457
+2016-02-03,South Africa,England,Bloemfontein,Mangaung Oval,England,bat,England,2016,South Africa,3,3,0,0,1,0,0.5828220858895705,0.5895953757225434
+2016-02-03,New Zealand,Australia,Auckland,Eden Park,Australia,field,New Zealand,2016,New Zealand,4,4,1,1,0,1,0.6271186440677966,0.5705882352941176
+2016-02-06,South Africa,England,Port Elizabeth,St George's Park,South Africa,bat,England,2016,South Africa,2,4,0,1,0,0,0.5828220858895705,0.5895953757225434
+2016-02-06,New Zealand,Australia,Wellington,Westpac Stadium,New Zealand,bat,Australia,2016,New Zealand,4,3,2,1,0,0,0.6271186440677966,0.5705882352941176
+2016-02-08,New Zealand,Australia,Hamilton,Seddon Park,Australia,field,New Zealand,2016,New Zealand,4,3,2,2,0,1,0.6271186440677966,0.5705882352941176
+2016-02-09,South Africa,England,Centurion,SuperSport Park,England,bat,South Africa,2016,South Africa,2,5,0,2,0,1,0.5828220858895705,0.5895953757225434
+2016-02-12,South Africa,England,Johannesburg,New Wanderers Stadium,South Africa,field,South Africa,2016,South Africa,2,4,1,2,1,1,0.5828220858895705,0.5895953757225434
+2016-02-14,South Africa,England,Cape Town,Newlands,South Africa,field,South Africa,2016,South Africa,3,3,2,2,1,1,0.5828220858895705,0.5895953757225434
+2016-06-03,West Indies,South Africa,Guyana,Providence Stadium,South Africa,bat,West Indies,2016,Neutral,1,3,1,5,0,1,0.34591194968553457,0.5828220858895705
+2016-06-05,West Indies,Australia,Guyana,Providence Stadium,Australia,field,Australia,2016,Neutral,1,2,0,0,1,0,0.34591194968553457,0.5705882352941176
+2016-06-07,Australia,South Africa,Guyana,Providence Stadium,South Africa,bat,South Africa,2016,Neutral,2,3,0,0,1,0,0.5705882352941176,0.5828220858895705
+2016-06-11,Zimbabwe,India,Unknown,Harare Sports Club,India,field,India,2016,Neutral,1,1,0,4,1,0,0.29357798165137616,0.673469387755102
+2016-06-11,Australia,South Africa,St Kitts,"Warner Park, Basseterre",Australia,bat,Australia,2016,Neutral,2,4,0,1,1,1,0.5705882352941176,0.5828220858895705
+2016-06-13,Zimbabwe,India,Unknown,Harare Sports Club,India,field,India,2016,Neutral,0,2,0,5,1,0,0.29357798165137616,0.673469387755102
+2016-06-13,West Indies,Australia,St Kitts,"Warner Park, Basseterre",West Indies,field,West Indies,2016,Neutral,1,3,0,1,1,1,0.34591194968553457,0.5705882352941176
+2016-06-15,West Indies,South Africa,St Kitts,"Warner Park, Basseterre",West Indies,field,South Africa,2016,Neutral,2,3,2,5,0,0,0.34591194968553457,0.5828220858895705
+2016-06-15,Zimbabwe,India,Unknown,Harare Sports Club,Zimbabwe,bat,India,2016,Neutral,0,3,0,6,0,0,0.29357798165137616,0.673469387755102
+2016-06-18,Ireland,Sri Lanka,Dublin,"The Village, Malahide",Ireland,field,Sri Lanka,2016,Neutral,1,2,0,0,0,0,0.4024390243902439,0.41899441340782123
+2016-06-21,West Indies,Australia,Barbados,"Kensington Oval, Bridgetown",Australia,field,Australia,2016,West Indies,2,2,1,1,1,0,0.34591194968553457,0.5705882352941176
+2016-06-24,West Indies,South Africa,Barbados,"Kensington Oval, Bridgetown",South Africa,field,West Indies,2016,West Indies,2,3,2,6,0,1,0.34591194968553457,0.5828220858895705
+2016-06-24,England,Sri Lanka,Birmingham,Edgbaston,Sri Lanka,bat,England,2016,England,2,2,0,1,0,1,0.5895953757225434,0.41899441340782123
+2016-06-26,West Indies,Australia,Barbados,"Kensington Oval, Bridgetown",Australia,bat,Australia,2016,West Indies,2,3,1,2,1,0,0.34591194968553457,0.5705882352941176
+2016-06-29,England,Sri Lanka,London,Kennington Oval,England,field,England,2016,England,2,2,1,1,1,1,0.5895953757225434,0.41899441340782123
+2016-07-02,England,Sri Lanka,Cardiff,Sophia Gardens,Sri Lanka,field,England,2016,England,2,2,2,1,0,1,0.5895953757225434,0.41899441340782123
+2016-08-14,Scotland,United Arab Emirates,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",United Arab Emirates,field,Scotland,2016,Neutral,0,0,0,0,0,1,0.5714285714285714,0.3486238532110092
+2016-08-16,Scotland,United Arab Emirates,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",United Arab Emirates,bat,Scotland,2016,Neutral,1,0,1,0,0,1,0.5714285714285714,0.3486238532110092
+2016-08-18,Ireland,Pakistan,Dublin,"The Village, Malahide",Ireland,field,Pakistan,2016,Neutral,1,0,0,1,0,0,0.4024390243902439,0.5123456790123457
+2016-08-21,Sri Lanka,Australia,Colombo,R Premadasa Stadium,Australia,field,Australia,2016,Sri Lanka,1,3,0,1,1,0,0.41899441340782123,0.5705882352941176
+2016-08-24,England,Pakistan,Southampton,The Rose Bowl,Pakistan,bat,England,2016,Neutral,3,1,3,1,0,1,0.5895953757225434,0.5123456790123457
+2016-08-24,Sri Lanka,Australia,Colombo,R Premadasa Stadium,Sri Lanka,bat,Sri Lanka,2016,Sri Lanka,1,4,0,2,1,1,0.41899441340782123,0.5705882352941176
+2016-08-27,England,Pakistan,London,Lord's,Pakistan,bat,England,2016,England,4,1,4,1,0,1,0.5895953757225434,0.5123456790123457
+2016-08-28,Sri Lanka,Australia,Unknown,Rangiri Dambulla International Stadium,Sri Lanka,bat,Australia,2016,Neutral,1,3,1,2,0,0,0.41899441340782123,0.5705882352941176
+2016-08-30,England,Pakistan,Nottingham,Trent Bridge,England,bat,England,2016,England,5,1,5,1,1,1,0.5895953757225434,0.5123456790123457
+2016-08-31,Sri Lanka,Australia,Unknown,Rangiri Dambulla International Stadium,Sri Lanka,bat,Australia,2016,Neutral,1,4,1,3,0,0,0.41899441340782123,0.5705882352941176
+2016-09-01,England,Pakistan,Leeds,Headingley,Pakistan,bat,England,2016,England,5,1,6,1,0,1,0.5895953757225434,0.5123456790123457
+2016-09-04,England,Pakistan,Cardiff,Sophia Gardens,Pakistan,field,Pakistan,2016,England,5,1,7,1,1,0,0.5895953757225434,0.5123456790123457
+2016-09-04,Sri Lanka,Australia,Unknown,Pallekele International Cricket Stadium,Sri Lanka,bat,Australia,2016,Sri Lanka,1,4,1,4,0,0,0.41899441340782123,0.5705882352941176
+2016-09-10,Scotland,Hong Kong,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",Scotland,bat,Scotland,2016,Neutral,2,1,0,0,1,1,0.5714285714285714,0.38461538461538464
+2016-09-25,South Africa,Ireland,Benoni,Willowmoore Park,Ireland,field,South Africa,2016,Neutral,2,1,1,0,0,1,0.5828220858895705,0.4024390243902439
+2016-09-27,Australia,Ireland,Benoni,Willowmoore Park,Ireland,bat,Australia,2016,Neutral,4,1,1,0,0,1,0.5705882352941176,0.4024390243902439
+2016-09-30,South Africa,Australia,Centurion,SuperSport Park,South Africa,field,South Africa,2016,South Africa,3,4,1,1,1,1,0.5828220858895705,0.5705882352941176
+2016-09-30,Pakistan,West Indies,Unknown,Sharjah Cricket Stadium,West Indies,field,Pakistan,2016,Neutral,1,2,0,1,0,1,0.5123456790123457,0.34591194968553457
+2016-10-02,Pakistan,West Indies,Unknown,Sharjah Cricket Stadium,Pakistan,bat,Pakistan,2016,Neutral,2,1,1,1,1,1,0.5123456790123457,0.34591194968553457
+2016-10-02,South Africa,Australia,Johannesburg,New Wanderers Stadium,Australia,field,South Africa,2016,South Africa,3,4,2,1,0,1,0.5828220858895705,0.5705882352941176
+2016-10-05,South Africa,Australia,Durban,Kingsmead,Australia,bat,South Africa,2016,South Africa,4,3,3,1,0,1,0.5828220858895705,0.5705882352941176
+2016-10-05,Pakistan,West Indies,Abu Dhabi,Sheikh Zayed Stadium,Pakistan,bat,Pakistan,2016,Neutral,3,1,2,1,1,1,0.5123456790123457,0.34591194968553457
+2016-10-07,Bangladesh,England,Mirpur,Shere Bangla National Stadium,England,bat,England,2016,Neutral,5,4,1,0,1,0,0.5107913669064749,0.5895953757225434
+2016-10-09,South Africa,Australia,Port Elizabeth,St George's Park,Australia,bat,South Africa,2016,South Africa,4,2,4,1,0,1,0.5828220858895705,0.5705882352941176
+2016-10-09,Bangladesh,England,Mirpur,Shere Bangla National Stadium,England,field,Bangladesh,2016,Neutral,4,4,1,1,0,1,0.5107913669064749,0.5895953757225434
+2016-10-12,Bangladesh,England,Chittagong,Zahur Ahmed Chowdhury Stadium,England,field,England,2016,Bangladesh,4,3,2,1,1,0,0.5107913669064749,0.5895953757225434
+2016-10-12,South Africa,Australia,Cape Town,Newlands,South Africa,bat,South Africa,2016,South Africa,5,1,5,1,1,1,0.5828220858895705,0.5705882352941176
+2016-10-16,India,New Zealand,Dharmasala,Himachal Pradesh Cricket Association Stadium,India,field,India,2016,Neutral,4,4,0,0,1,1,0.673469387755102,0.6271186440677966
+2016-10-20,India,New Zealand,Delhi,Feroz Shah Kotla,India,field,New Zealand,2016,India,5,3,1,0,0,0,0.673469387755102,0.6271186440677966
+2016-10-23,India,New Zealand,Chandigarh,"Punjab Cricket Association Stadium, Mohali",India,field,India,2016,India,4,3,1,1,1,1,0.673469387755102,0.6271186440677966
+2016-10-26,India,New Zealand,Ranchi,JSCA International Stadium Complex,New Zealand,bat,New Zealand,2016,Neutral,4,2,2,1,1,0,0.673469387755102,0.6271186440677966
+2016-10-29,India,New Zealand,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,bat,India,2016,Neutral,3,3,2,2,1,1,0.673469387755102,0.6271186440677966
+2016-11-04,Hong Kong,Papua New Guinea,Hong Kong,"Mission Road Ground, Mong Kok",Hong Kong,bat,Hong Kong,2016,Neutral,1,0,0,0,1,1,0.38461538461538464,0.2
+2016-11-06,Hong Kong,Papua New Guinea,Hong Kong,"Mission Road Ground, Mong Kok",Papua New Guinea,bat,Papua New Guinea,2016,Neutral,2,0,1,0,1,0,0.38461538461538464,0.2
+2016-11-08,Hong Kong,Papua New Guinea,Hong Kong,"Mission Road Ground, Mong Kok",Papua New Guinea,bat,Hong Kong,2016,Neutral,2,1,1,1,0,1,0.38461538461538464,0.2
+2016-11-14,Zimbabwe,Sri Lanka,Unknown,Harare Sports Club,Sri Lanka,field,Sri Lanka,2016,Neutral,0,1,0,0,1,0,0.29357798165137616,0.41899441340782123
+2016-11-16,Sri Lanka,West Indies,Unknown,Harare Sports Club,Sri Lanka,field,West Indies,2016,Neutral,2,1,3,0,0,0,0.41899441340782123,0.34591194968553457
+2016-11-23,Sri Lanka,West Indies,Bulawayo,Queens Sports Club,West Indies,field,Sri Lanka,2016,Neutral,1,1,3,1,0,1,0.41899441340782123,0.34591194968553457
+2016-11-25,Zimbabwe,West Indies,Bulawayo,Queens Sports Club,Zimbabwe,bat,Zimbabwe,2016,Neutral,0,1,0,1,1,1,0.29357798165137616,0.34591194968553457
+2016-11-27,Zimbabwe,Sri Lanka,Bulawayo,Queens Sports Club,Zimbabwe,bat,Sri Lanka,2016,Neutral,1,2,0,1,0,0,0.29357798165137616,0.41899441340782123
+2016-12-04,Australia,New Zealand,Unknown,Sydney Cricket Ground,Australia,bat,Australia,2016,Australia,0,2,2,3,1,1,0.5705882352941176,0.6271186440677966
+2016-12-06,Australia,New Zealand,Canberra,Manuka Oval,New Zealand,field,Australia,2016,Australia,1,2,3,3,0,1,0.5705882352941176,0.6271186440677966
+2016-12-09,Australia,New Zealand,Unknown,Melbourne Cricket Ground,Australia,bat,Australia,2016,Australia,2,1,4,3,1,1,0.5705882352941176,0.6271186440677966
+2016-12-26,New Zealand,Bangladesh,Christchurch,Hagley Oval,New Zealand,bat,New Zealand,2016,New Zealand,1,3,1,0,1,1,0.6271186440677966,0.5107913669064749
+2016-12-29,New Zealand,Bangladesh,Nelson,Saxton Oval,Bangladesh,field,New Zealand,2016,New Zealand,1,2,2,0,0,1,0.6271186440677966,0.5107913669064749
+2016-12-31,New Zealand,Bangladesh,Nelson,Saxton Oval,Bangladesh,bat,New Zealand,2016,New Zealand,2,1,3,0,0,1,0.6271186440677966,0.5107913669064749
+2017-01-13,Australia,Pakistan,Brisbane,"Brisbane Cricket Ground, Woolloongabba",Australia,bat,Australia,2017,Australia,3,4,1,0,1,1,0.5705882352941176,0.5123456790123457
+2017-01-15,India,England,Pune,Maharashtra Cricket Association Stadium,India,field,India,2017,Neutral,3,3,0,2,1,1,0.673469387755102,0.5895953757225434
+2017-01-15,Australia,Pakistan,Unknown,Melbourne Cricket Ground,Australia,bat,Pakistan,2017,Australia,4,4,2,0,0,0,0.5705882352941176,0.5123456790123457
+2017-01-19,India,England,Cuttack,Barabati Stadium,England,field,India,2017,Neutral,3,2,1,2,0,1,0.673469387755102,0.5895953757225434
+2017-01-19,Australia,Pakistan,Perth,Western Australia Cricket Association Ground,Australia,field,Australia,2017,Australia,4,4,2,1,1,1,0.5705882352941176,0.5123456790123457
+2017-01-22,Hong Kong,Scotland,Abu Dhabi,Sheikh Zayed Stadium,Hong Kong,field,Hong Kong,2017,Neutral,3,3,0,1,1,1,0.38461538461538464,0.5714285714285714
+2017-01-22,India,England,Kolkata,Eden Gardens,India,field,England,2017,India,4,2,2,2,0,0,0.673469387755102,0.5895953757225434
+2017-01-22,Australia,Pakistan,Unknown,Sydney Cricket Ground,Australia,bat,Australia,2017,Australia,4,3,3,1,1,1,0.5705882352941176,0.5123456790123457
+2017-01-24,United Arab Emirates,Scotland,Unknown,Dubai International Cricket Stadium,Scotland,bat,United Arab Emirates,2017,Neutral,0,3,0,2,0,1,0.3486238532110092,0.5714285714285714
+2017-01-26,United Arab Emirates,Hong Kong,Unknown,Dubai International Cricket Stadium,United Arab Emirates,field,United Arab Emirates,2017,Neutral,1,3,0,1,1,1,0.3486238532110092,0.38461538461538464
+2017-01-26,Australia,Pakistan,Unknown,Adelaide Oval,Australia,bat,Australia,2017,Australia,4,2,4,1,1,1,0.5705882352941176,0.5123456790123457
+2017-01-28,South Africa,Sri Lanka,Port Elizabeth,St George's Park,South Africa,field,South Africa,2017,South Africa,5,3,1,0,1,1,0.5828220858895705,0.41899441340782123
+2017-01-30,New Zealand,Australia,Auckland,Eden Park,Australia,field,New Zealand,2017,New Zealand,3,4,3,5,0,1,0.6271186440677966,0.5705882352941176
+2017-02-01,South Africa,Sri Lanka,Durban,Kingsmead,Sri Lanka,field,South Africa,2017,South Africa,5,3,2,0,0,1,0.5828220858895705,0.41899441340782123
+2017-02-04,South Africa,Sri Lanka,Johannesburg,New Wanderers Stadium,South Africa,field,South Africa,2017,South Africa,5,2,3,0,1,1,0.5828220858895705,0.41899441340782123
+2017-02-05,New Zealand,Australia,Hamilton,Seddon Park,New Zealand,bat,New Zealand,2017,New Zealand,4,3,4,5,1,1,0.6271186440677966,0.5705882352941176
+2017-02-07,South Africa,Sri Lanka,Cape Town,Newlands,South Africa,bat,South Africa,2017,South Africa,5,2,4,0,1,1,0.5828220858895705,0.41899441340782123
+2017-02-10,South Africa,Sri Lanka,Centurion,SuperSport Park,Sri Lanka,field,South Africa,2017,South Africa,5,1,5,0,0,1,0.5828220858895705,0.41899441340782123
+2017-02-19,New Zealand,South Africa,Hamilton,Seddon Park,South Africa,field,South Africa,2017,New Zealand,5,5,2,2,1,0,0.6271186440677966,0.5828220858895705
+2017-02-22,New Zealand,South Africa,Christchurch,Hagley Oval,South Africa,field,New Zealand,2017,New Zealand,4,5,2,3,0,1,0.6271186440677966,0.5828220858895705
+2017-02-25,New Zealand,South Africa,Wellington,Westpac Stadium,South Africa,bat,South Africa,2017,New Zealand,4,4,3,3,1,0,0.6271186440677966,0.5828220858895705
+2017-03-01,New Zealand,South Africa,Hamilton,Seddon Park,South Africa,bat,New Zealand,2017,New Zealand,3,4,3,4,0,1,0.6271186440677966,0.5828220858895705
+2017-03-02,United Arab Emirates,Ireland,Dubai,ICC Global Cricket Academy,United Arab Emirates,field,Ireland,2017,Neutral,2,1,0,1,0,0,0.3486238532110092,0.4024390243902439
+2017-03-03,West Indies,England,Antigua,"Sir Vivian Richards Stadium, North Sound",West Indies,field,England,2017,Neutral,1,2,0,0,0,0,0.34591194968553457,0.5895953757225434
+2017-03-04,United Arab Emirates,Ireland,Dubai,ICC Global Cricket Academy,United Arab Emirates,bat,Ireland,2017,Neutral,2,1,0,2,0,0,0.3486238532110092,0.4024390243902439
+2017-03-04,New Zealand,South Africa,Auckland,Eden Park,South Africa,field,South Africa,2017,New Zealand,3,3,4,4,1,0,0.6271186440677966,0.5828220858895705
+2017-03-05,West Indies,England,Antigua,"Sir Vivian Richards Stadium, North Sound",West Indies,bat,England,2017,Neutral,1,3,0,1,0,0,0.34591194968553457,0.5895953757225434
+2017-03-09,West Indies,England,Barbados,"Kensington Oval, Bridgetown",West Indies,field,England,2017,West Indies,1,3,0,2,0,0,0.34591194968553457,0.5895953757225434
+2017-03-25,Sri Lanka,Bangladesh,Unknown,Rangiri Dambulla International Stadium,Sri Lanka,field,Bangladesh,2017,Neutral,0,1,1,0,0,0,0.41899441340782123,0.5107913669064749
+2017-04-01,Sri Lanka,Bangladesh,Colombo,Sinhalese Sports Club Ground,Bangladesh,field,Sri Lanka,2017,Sri Lanka,0,1,1,1,0,1,0.41899441340782123,0.5107913669064749
+2017-04-02,United Arab Emirates,Papua New Guinea,Abu Dhabi,Sheikh Zayed Stadium,Papua New Guinea,bat,Papua New Guinea,2017,Neutral,2,1,0,0,1,0,0.3486238532110092,0.2
+2017-04-04,United Arab Emirates,Papua New Guinea,Abu Dhabi,Sheikh Zayed Stadium,United Arab Emirates,bat,United Arab Emirates,2017,Neutral,2,2,0,1,1,1,0.3486238532110092,0.2
+2017-04-07,West Indies,Pakistan,Guyana,Providence Stadium,West Indies,field,West Indies,2017,Neutral,0,1,1,3,1,1,0.34591194968553457,0.5123456790123457
+2017-04-09,West Indies,Pakistan,Guyana,Providence Stadium,West Indies,field,Pakistan,2017,Neutral,1,1,2,3,0,0,0.34591194968553457,0.5123456790123457
+2017-04-11,West Indies,Pakistan,Guyana,Providence Stadium,West Indies,bat,Pakistan,2017,Neutral,1,1,2,4,0,0,0.34591194968553457,0.5123456790123457
+2017-05-05,England,Ireland,Bristol,County Ground,Ireland,bat,England,2017,Neutral,4,2,0,0,0,1,0.5895953757225434,0.4024390243902439
+2017-05-07,England,Ireland,London,Lord's,Ireland,field,England,2017,England,5,2,1,0,0,1,0.5895953757225434,0.4024390243902439
+2017-05-14,Ireland,New Zealand,Dublin,Malahide,Ireland,field,New Zealand,2017,Neutral,2,2,0,0,0,0,0.4024390243902439,0.6271186440677966
+2017-05-17,Bangladesh,New Zealand,Dublin,Clontarf Cricket Club Ground,New Zealand,field,New Zealand,2017,Neutral,1,3,0,4,1,0,0.5107913669064749,0.6271186440677966
+2017-05-19,Ireland,Bangladesh,Dublin,Malahide,Bangladesh,field,Bangladesh,2017,Neutral,2,1,0,0,1,0,0.4024390243902439,0.5107913669064749
+2017-05-21,Ireland,New Zealand,Dublin,Malahide,Ireland,field,New Zealand,2017,Neutral,1,3,0,1,0,0,0.4024390243902439,0.6271186440677966
+2017-05-24,England,South Africa,Leeds,Headingley,South Africa,field,England,2017,England,5,3,2,3,0,1,0.5895953757225434,0.5828220858895705
+2017-05-24,Bangladesh,New Zealand,Dublin,Clontarf Cricket Club Ground,Bangladesh,field,Bangladesh,2017,Neutral,2,4,0,5,1,1,0.5107913669064749,0.6271186440677966
+2017-05-27,England,South Africa,Southampton,The Rose Bowl,South Africa,field,England,2017,Neutral,5,2,3,3,0,1,0.5895953757225434,0.5828220858895705
+2017-05-29,England,South Africa,London,Lord's,South Africa,field,South Africa,2017,England,5,2,4,3,1,0,0.5895953757225434,0.5828220858895705
+2017-06-01,England,Bangladesh,London,Kennington Oval,England,field,England,2017,England,4,3,2,2,1,1,0.5895953757225434,0.5107913669064749
+2017-06-03,South Africa,Sri Lanka,London,Kennington Oval,Sri Lanka,field,South Africa,2017,Neutral,2,1,6,0,0,1,0.5828220858895705,0.41899441340782123
+2017-06-04,India,Pakistan,Birmingham,Edgbaston,Pakistan,field,India,2017,Neutral,3,2,1,0,0,1,0.673469387755102,0.5123456790123457
+2017-06-06,England,New Zealand,Cardiff,Sophia Gardens,New Zealand,field,England,2017,England,4,3,3,3,0,1,0.5895953757225434,0.6271186440677966
+2017-06-07,Pakistan,South Africa,Birmingham,Edgbaston,South Africa,bat,Pakistan,2017,Neutral,2,3,1,0,0,1,0.5123456790123457,0.5828220858895705
+2017-06-08,India,Sri Lanka,London,Kennington Oval,Sri Lanka,field,Sri Lanka,2017,Neutral,4,1,0,0,1,0,0.673469387755102,0.41899441340782123
+2017-06-09,Bangladesh,New Zealand,Cardiff,Sophia Gardens,New Zealand,bat,Bangladesh,2017,Neutral,2,3,1,5,0,1,0.5107913669064749,0.6271186440677966
+2017-06-10,England,Australia,Birmingham,Edgbaston,England,field,England,2017,England,4,3,2,7,1,1,0.5895953757225434,0.5705882352941176
+2017-06-11,India,South Africa,London,Kennington Oval,India,field,India,2017,Neutral,3,2,3,3,1,1,0.673469387755102,0.5828220858895705
+2017-06-12,Pakistan,Sri Lanka,Cardiff,Sophia Gardens,Pakistan,field,Pakistan,2017,Neutral,3,2,3,2,1,1,0.5123456790123457,0.41899441340782123
+2017-06-14,England,Pakistan,Cardiff,Sophia Gardens,Pakistan,field,Pakistan,2017,England,4,4,7,2,1,0,0.5895953757225434,0.5123456790123457
+2017-06-15,Scotland,Zimbabwe,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",Scotland,bat,Scotland,2017,Neutral,3,1,0,0,1,1,0.5714285714285714,0.29357798165137616
+2017-06-15,Bangladesh,India,Birmingham,Edgbaston,India,field,India,2017,Neutral,3,3,2,2,1,0,0.5107913669064749,0.673469387755102
+2017-06-17,Scotland,Zimbabwe,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",Scotland,bat,Zimbabwe,2017,Neutral,3,1,1,0,0,0,0.5714285714285714,0.29357798165137616
+2017-06-18,India,Pakistan,London,Kennington Oval,India,field,Pakistan,2017,Neutral,3,4,2,0,0,0,0.673469387755102,0.5123456790123457
+2017-06-25,West Indies,India,Trinidad,"Queen's Park Oval, Port of Spain",West Indies,field,India,2017,West Indies,1,3,0,1,0,0,0.34591194968553457,0.673469387755102
+2017-06-30,Sri Lanka,Zimbabwe,Unknown,Galle International Stadium,Sri Lanka,bat,Zimbabwe,2017,Sri Lanka,2,2,2,0,0,0,0.41899441340782123,0.29357798165137616
+2017-06-30,West Indies,India,Antigua,"Sir Vivian Richards Stadium, North Sound",West Indies,field,India,2017,Neutral,1,3,0,2,0,0,0.34591194968553457,0.673469387755102
+2017-07-02,Sri Lanka,Zimbabwe,Unknown,Galle International Stadium,Sri Lanka,field,Sri Lanka,2017,Sri Lanka,2,3,2,1,1,1,0.41899441340782123,0.29357798165137616
+2017-07-02,West Indies,India,Antigua,"Sir Vivian Richards Stadium, North Sound",West Indies,bat,West Indies,2017,Neutral,1,4,0,3,1,1,0.34591194968553457,0.673469387755102
+2017-07-06,West Indies,India,Jamaica,"Sabina Park, Kingston",West Indies,bat,India,2017,West Indies,1,3,1,3,0,0,0.34591194968553457,0.673469387755102
+2017-07-06,Sri Lanka,Zimbabwe,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,field,Sri Lanka,2017,Neutral,2,2,3,1,1,1,0.41899441340782123,0.29357798165137616
+2017-07-08,Sri Lanka,Zimbabwe,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,bat,Zimbabwe,2017,Neutral,3,2,4,1,0,0,0.41899441340782123,0.29357798165137616
+2017-07-10,Sri Lanka,Zimbabwe,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Zimbabwe,field,Zimbabwe,2017,Neutral,2,3,4,2,1,0,0.41899441340782123,0.29357798165137616
+2017-08-20,Sri Lanka,India,Unknown,Rangiri Dambulla International Stadium,India,field,India,2017,Neutral,2,3,1,0,1,0,0.41899441340782123,0.673469387755102
+2017-08-24,Sri Lanka,India,Unknown,Pallekele International Cricket Stadium,India,field,India,2017,Sri Lanka,2,4,1,1,1,0,0.41899441340782123,0.673469387755102
+2017-08-27,Sri Lanka,India,Unknown,Pallekele International Cricket Stadium,Sri Lanka,bat,India,2017,Sri Lanka,1,4,1,2,0,0,0.41899441340782123,0.673469387755102
+2017-08-31,India,Sri Lanka,Colombo,"R.Premadasa Stadium, Khettarama",India,bat,India,2017,Sri Lanka,4,0,3,1,1,1,0.673469387755102,0.41899441340782123
+2017-09-03,Sri Lanka,India,Colombo,"R.Premadasa Stadium, Khettarama",Sri Lanka,bat,India,2017,Sri Lanka,0,5,1,4,0,0,0.41899441340782123,0.673469387755102
+2017-09-17,India,Australia,Chennai,"MA Chidambaram Stadium, Chepauk",India,bat,India,2017,India,5,2,1,6,1,1,0.673469387755102,0.5705882352941176
+2017-09-19,West Indies,England,Manchester,Old Trafford,West Indies,bat,England,2017,England,1,3,0,3,0,0,0.34591194968553457,0.5895953757225434
+2017-09-21,India,Australia,Kolkata,Eden Gardens,India,bat,India,2017,India,5,1,2,6,1,1,0.673469387755102,0.5705882352941176
+2017-09-24,England,West Indies,Bristol,County Ground,West Indies,field,England,2017,Neutral,4,1,4,0,0,1,0.5895953757225434,0.34591194968553457
+2017-09-24,Australia,India,Indore,Holkar Cricket Stadium,Australia,bat,India,2017,Neutral,0,5,6,3,0,0,0.5705882352941176,0.673469387755102
+2017-09-27,West Indies,England,London,Kennington Oval,England,field,England,2017,England,1,4,0,5,1,0,0.34591194968553457,0.5895953757225434
+2017-09-28,Australia,India,Bengaluru,M.Chinnaswamy Stadium,Australia,bat,Australia,2017,Neutral,0,5,6,4,1,1,0.5705882352941176,0.673469387755102
+2017-09-29,West Indies,England,Southampton,The Rose Bowl,England,field,England,2017,Neutral,1,4,0,6,1,0,0.34591194968553457,0.5895953757225434
+2017-10-01,Australia,India,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Australia,bat,India,2017,Neutral,1,4,7,4,0,0,0.5705882352941176,0.673469387755102
+2017-10-13,Pakistan,Sri Lanka,Unknown,Dubai International Cricket Stadium,Sri Lanka,field,Pakistan,2017,Neutral,4,0,4,2,0,1,0.5123456790123457,0.41899441340782123
+2017-10-15,Bangladesh,South Africa,Kimberley,Diamond Oval,Bangladesh,bat,South Africa,2017,Neutral,3,2,2,1,0,0,0.5107913669064749,0.5828220858895705
+2017-10-16,Pakistan,Sri Lanka,Abu Dhabi,Sheikh Zayed Stadium,Pakistan,bat,Pakistan,2017,Neutral,5,0,5,2,1,1,0.5123456790123457,0.41899441340782123
+2017-10-18,South Africa,Bangladesh,Paarl,Boland Park,Bangladesh,field,South Africa,2017,Neutral,3,2,2,2,0,1,0.5828220858895705,0.5107913669064749
+2017-10-18,Sri Lanka,Pakistan,Abu Dhabi,Sheikh Zayed Stadium,Sri Lanka,bat,Pakistan,2017,Neutral,0,5,2,6,0,0,0.41899441340782123,0.5123456790123457
+2017-10-20,Sri Lanka,Pakistan,Unknown,Sharjah Cricket Stadium,Sri Lanka,bat,Pakistan,2017,Neutral,0,5,2,7,0,0,0.41899441340782123,0.5123456790123457
+2017-10-22,India,New Zealand,Mumbai,Wankhede Stadium,India,bat,New Zealand,2017,India,4,2,3,2,0,0,0.673469387755102,0.6271186440677966
+2017-10-22,South Africa,Bangladesh,East London,Buffalo Park,South Africa,bat,South Africa,2017,South Africa,3,1,3,2,1,1,0.5828220858895705,0.5107913669064749
+2017-10-23,Sri Lanka,Pakistan,Unknown,Sharjah Cricket Stadium,Sri Lanka,bat,Pakistan,2017,Neutral,0,5,2,8,0,0,0.41899441340782123,0.5123456790123457
+2017-10-25,New Zealand,India,Pune,Maharashtra Cricket Association Stadium,New Zealand,bat,India,2017,Neutral,2,3,3,3,0,0,0.6271186440677966,0.673469387755102
+2017-10-29,India,New Zealand,Kanpur,Green Park,New Zealand,field,India,2017,India,3,1,4,3,0,1,0.673469387755102,0.6271186440677966
+2017-12-06,Hong Kong,Papua New Guinea,Dubai,ICC Academy,Papua New Guinea,field,Hong Kong,2017,Neutral,3,2,2,1,0,1,0.38461538461538464,0.2
+2017-12-10,India,Sri Lanka,Dharamsala,Himachal Pradesh Cricket Association Stadium,Sri Lanka,field,Sri Lanka,2017,Neutral,3,0,5,1,1,0,0.673469387755102,0.41899441340782123
+2017-12-13,India,Sri Lanka,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sri Lanka,field,India,2017,Neutral,3,1,5,2,0,1,0.673469387755102,0.41899441340782123
+2017-12-17,Sri Lanka,India,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,field,India,2017,Neutral,1,3,2,6,1,0,0.41899441340782123,0.673469387755102
+2017-12-20,West Indies,New Zealand,Whangarei,Cobham Oval (New),New Zealand,field,New Zealand,2017,Neutral,0,1,0,1,1,0,0.34591194968553457,0.6271186440677966
+2017-12-23,New Zealand,West Indies,Christchurch,Hagley Oval,West Indies,field,New Zealand,2017,New Zealand,2,0,2,0,0,1,0.6271186440677966,0.34591194968553457
+2017-12-26,New Zealand,West Indies,Christchurch,Hagley Oval,New Zealand,bat,New Zealand,2017,New Zealand,3,0,3,0,1,1,0.6271186440677966,0.34591194968553457
+2018-01-06,New Zealand,Pakistan,Wellington,Basin Reserve,Pakistan,field,New Zealand,2018,New Zealand,3,5,4,0,0,1,0.6271186440677966,0.5123456790123457
+2018-01-09,Pakistan,New Zealand,Nelson,Saxton Oval,Pakistan,bat,New Zealand,2018,New Zealand,4,4,0,5,0,0,0.5123456790123457,0.6271186440677966
+2018-01-11,United Arab Emirates,Ireland,Dubai,ICC Academy,Ireland,field,Ireland,2018,Neutral,2,0,0,3,1,0,0.3486238532110092,0.4024390243902439
+2018-01-13,New Zealand,Pakistan,Dunedin,University Oval,New Zealand,bat,New Zealand,2018,New Zealand,5,3,6,0,1,1,0.6271186440677966,0.5123456790123457
+2018-01-13,Ireland,United Arab Emirates,Dubai,ICC Academy,Ireland,bat,Ireland,2018,Neutral,1,1,4,0,1,1,0.4024390243902439,0.3486238532110092
+2018-01-14,Australia,England,Unknown,Melbourne Cricket Ground,England,field,England,2018,Australia,1,4,7,3,1,0,0.5705882352941176,0.5895953757225434
+2018-01-15,Zimbabwe,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,field,Bangladesh,2018,Bangladesh,3,1,0,3,1,0,0.29357798165137616,0.5107913669064749
+2018-01-16,Scotland,Ireland,Dubai,ICC Academy,Ireland,field,Ireland,2018,Neutral,2,2,0,1,1,0,0.5714285714285714,0.4024390243902439
+2018-01-16,Pakistan,New Zealand,Hamilton,Seddon Park,Pakistan,bat,New Zealand,2018,New Zealand,2,5,0,7,0,0,0.5123456790123457,0.6271186440677966
+2018-01-17,Zimbabwe,Sri Lanka,Dhaka,"Shere Bangla National Stadium, Mirpur",Sri Lanka,field,Zimbabwe,2018,Neutral,2,1,3,4,0,1,0.29357798165137616,0.41899441340782123
+2018-01-18,Ireland,Scotland,Dubai,ICC Academy,Ireland,bat,Ireland,2018,Neutral,3,1,2,0,1,1,0.4024390243902439,0.5714285714285714
+2018-01-19,Bangladesh,Sri Lanka,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,Bangladesh,2018,Bangladesh,1,1,1,2,1,1,0.5107913669064749,0.41899441340782123
+2018-01-19,Australia,England,Brisbane,"Brisbane Cricket Ground, Woolloongabba",Australia,bat,England,2018,Australia,1,5,7,4,0,0,0.5705882352941176,0.5895953757225434
+2018-01-19,New Zealand,Pakistan,Wellington,Basin Reserve,New Zealand,bat,New Zealand,2018,New Zealand,5,1,8,0,1,1,0.6271186440677966,0.5123456790123457
+2018-01-21,England,Australia,Unknown,Sydney Cricket Ground,Australia,field,England,2018,Australia,5,1,5,7,0,1,0.5895953757225434,0.5705882352941176
+2018-01-21,Zimbabwe,Sri Lanka,Dhaka,"Shere Bangla National Stadium, Mirpur",Zimbabwe,bat,Sri Lanka,2018,Neutral,3,1,4,4,0,0,0.29357798165137616,0.41899441340782123
+2018-01-21,Scotland,United Arab Emirates,Dubai,ICC Academy,United Arab Emirates,field,Scotland,2018,Neutral,1,1,2,1,0,1,0.5714285714285714,0.3486238532110092
+2018-01-23,Bangladesh,Zimbabwe,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,Bangladesh,2018,Bangladesh,2,3,4,0,1,1,0.5107913669064749,0.29357798165137616
+2018-01-23,Scotland,United Arab Emirates,Dubai,ICC Academy,Scotland,bat,United Arab Emirates,2018,Neutral,2,1,3,1,0,0,0.5714285714285714,0.3486238532110092
+2018-01-25,Bangladesh,Sri Lanka,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,Sri Lanka,2018,Bangladesh,3,1,2,2,0,0,0.5107913669064749,0.41899441340782123
+2018-01-26,England,Australia,Unknown,Adelaide Oval,Australia,field,Australia,2018,Australia,5,1,6,7,1,0,0.5895953757225434,0.5705882352941176
+2018-01-27,Sri Lanka,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",Sri Lanka,bat,Sri Lanka,2018,Bangladesh,2,3,3,2,1,1,0.41899441340782123,0.5107913669064749
+2018-01-28,England,Australia,Unknown,Perth Stadium,Australia,field,England,2018,Australia,4,1,6,8,0,1,0.5895953757225434,0.5705882352941176
+2018-02-01,South Africa,India,Durban,Kingsmead,South Africa,bat,India,2018,South Africa,3,4,3,4,0,0,0.5828220858895705,0.673469387755102
+2018-02-04,South Africa,India,Centurion,SuperSport Park,India,field,India,2018,South Africa,3,4,3,5,1,0,0.5828220858895705,0.673469387755102
+2018-02-07,India,South Africa,Cape Town,Newlands,South Africa,field,India,2018,South Africa,4,3,6,3,0,1,0.673469387755102,0.5828220858895705
+2018-02-10,India,South Africa,Johannesburg,The Wanderers Stadium,India,bat,South Africa,2018,South Africa,5,2,7,3,0,0,0.673469387755102,0.5828220858895705
+2018-02-13,India,South Africa,Port Elizabeth,St George's Park,South Africa,field,India,2018,South Africa,4,2,7,4,0,1,0.673469387755102,0.5828220858895705
+2018-02-16,South Africa,India,Centurion,SuperSport Park,India,field,India,2018,South Africa,1,4,4,8,1,0,0.5828220858895705,0.673469387755102
+2018-02-25,England,New Zealand,Hamilton,Seddon Park,New Zealand,field,New Zealand,2018,New Zealand,4,5,4,3,1,0,0.5895953757225434,0.6271186440677966
+2018-02-28,New Zealand,England,Mount Maunganui,Bay Oval,England,field,England,2018,New Zealand,5,3,4,4,1,0,0.6271186440677966,0.5895953757225434
+2018-03-03,England,New Zealand,Wellington,Westpac Stadium,New Zealand,field,England,2018,New Zealand,3,4,5,4,0,1,0.5895953757225434,0.6271186440677966
+2018-03-04,United Arab Emirates,Papua New Guinea,Unknown,Harare Sports Club,Papua New Guinea,field,United Arab Emirates,2018,Neutral,2,2,1,1,0,1,0.3486238532110092,0.2
+2018-03-06,West Indies,United Arab Emirates,Harare,Old Hararians,West Indies,bat,West Indies,2018,Neutral,0,2,1,0,1,1,0.34591194968553457,0.3486238532110092
+2018-03-06,Hong Kong,Scotland,Unknown,Bulawayo Athletic Club,Scotland,field,Scotland,2018,Neutral,3,1,1,1,1,0,0.38461538461538464,0.5714285714285714
+2018-03-06,Papua New Guinea,Ireland,Unknown,Harare Sports Club,Ireland,field,Ireland,2018,Neutral,1,4,0,0,1,0,0.2,0.4024390243902439
+2018-03-07,England,New Zealand,Dunedin,University Oval,New Zealand,field,New Zealand,2018,New Zealand,3,3,6,4,1,0,0.5895953757225434,0.6271186440677966
+2018-03-08,Papua New Guinea,West Indies,Harare,Old Hararians,Papua New Guinea,bat,West Indies,2018,Neutral,1,1,0,0,0,0,0.2,0.34591194968553457
+2018-03-10,New Zealand,England,Christchurch,Hagley Oval,England,field,England,2018,New Zealand,3,3,5,6,1,0,0.6271186440677966,0.5895953757225434
+2018-03-10,West Indies,Ireland,Unknown,Harare Sports Club,Ireland,field,West Indies,2018,Neutral,2,5,0,1,0,1,0.34591194968553457,0.4024390243902439
+2018-03-10,Zimbabwe,Hong Kong,Bulawayo,Queens Sports Club,Hong Kong,field,Zimbabwe,2018,Neutral,2,3,0,0,0,1,0.29357798165137616,0.38461538461538464
+2018-03-12,Ireland,United Arab Emirates,Harare,Old Hararians,United Arab Emirates,field,Ireland,2018,Neutral,4,2,5,0,0,1,0.4024390243902439,0.3486238532110092
+2018-03-15,Scotland,United Arab Emirates,Bulawayo,Queens Sports Club,Scotland,bat,Scotland,2018,Neutral,2,2,3,2,1,1,0.5714285714285714,0.3486238532110092
+2018-03-16,Zimbabwe,Ireland,Unknown,Harare Sports Club,Ireland,field,Zimbabwe,2018,Neutral,2,4,2,2,0,1,0.29357798165137616,0.4024390243902439
+2018-03-17,Papua New Guinea,Hong Kong,Harare,Old Hararians,Papua New Guinea,bat,Papua New Guinea,2018,Neutral,0,2,1,3,1,1,0.2,0.38461538461538464
+2018-03-18,Ireland,Scotland,Unknown,Harare Sports Club,Scotland,field,Ireland,2018,Neutral,3,3,3,0,0,1,0.4024390243902439,0.5714285714285714
+2018-03-19,Zimbabwe,West Indies,Unknown,Harare Sports Club,Zimbabwe,bat,West Indies,2018,Neutral,3,3,1,1,0,0,0.29357798165137616,0.34591194968553457
+2018-03-21,West Indies,Scotland,Unknown,Harare Sports Club,Scotland,field,West Indies,2018,Neutral,4,3,0,0,0,1,0.34591194968553457,0.5714285714285714
+2018-03-22,United Arab Emirates,Zimbabwe,Unknown,Harare Sports Club,Zimbabwe,field,United Arab Emirates,2018,Neutral,2,2,0,1,0,1,0.3486238532110092,0.29357798165137616
+2018-06-13,Australia,England,London,Kennington Oval,Australia,bat,England,2018,England,1,3,8,7,0,0,0.5705882352941176,0.5895953757225434
+2018-06-16,England,Australia,Cardiff,Sophia Gardens,Australia,field,England,2018,England,4,1,8,8,0,1,0.5895953757225434,0.5705882352941176
+2018-06-19,England,Australia,Nottingham,Trent Bridge,Australia,field,England,2018,England,4,1,9,8,0,1,0.5895953757225434,0.5705882352941176
+2018-06-21,Australia,England,Chester-le-Street,Riverside Ground,Australia,bat,England,2018,England,1,4,8,10,0,0,0.5705882352941176,0.5895953757225434
+2018-06-24,Australia,England,Manchester,Old Trafford,Australia,bat,England,2018,England,0,5,8,11,0,0,0.5705882352941176,0.5895953757225434
+2018-07-12,England,India,Nottingham,Trent Bridge,India,field,India,2018,England,5,4,3,2,1,0,0.5895953757225434,0.673469387755102
+2018-07-13,Pakistan,Zimbabwe,Bulawayo,Queens Sports Club,Zimbabwe,field,Pakistan,2018,Neutral,0,2,5,1,0,1,0.5123456790123457,0.29357798165137616
+2018-07-14,England,India,London,Lord's,England,bat,England,2018,England,4,4,3,3,1,1,0.5895953757225434,0.673469387755102
+2018-07-16,Zimbabwe,Pakistan,Bulawayo,Queens Sports Club,Zimbabwe,bat,Pakistan,2018,Neutral,2,1,1,6,0,0,0.29357798165137616,0.5123456790123457
+2018-07-17,India,England,Leeds,Headingley,England,field,England,2018,England,3,4,3,4,1,0,0.673469387755102,0.5895953757225434
+2018-07-18,Zimbabwe,Pakistan,Bulawayo,Queens Sports Club,Zimbabwe,bat,Pakistan,2018,Neutral,1,2,1,7,0,0,0.29357798165137616,0.5123456790123457
+2018-07-20,Pakistan,Zimbabwe,Bulawayo,Queens Sports Club,Pakistan,bat,Pakistan,2018,Neutral,3,0,8,1,1,1,0.5123456790123457,0.29357798165137616
+2018-07-22,Bangladesh,West Indies,Guyana,Providence Stadium,Bangladesh,bat,Bangladesh,2018,Neutral,3,5,0,0,1,1,0.5107913669064749,0.34591194968553457
+2018-07-22,Pakistan,Zimbabwe,Bulawayo,Queens Sports Club,Pakistan,bat,Pakistan,2018,Neutral,4,0,9,1,1,1,0.5123456790123457,0.29357798165137616
+2018-07-25,West Indies,Bangladesh,Guyana,Providence Stadium,Bangladesh,field,West Indies,2018,Neutral,4,3,0,1,0,1,0.34591194968553457,0.5107913669064749
+2018-07-28,Bangladesh,West Indies,St Kitts,"Warner Park, Basseterre",Bangladesh,bat,Bangladesh,2018,Neutral,2,4,1,1,1,1,0.5107913669064749,0.34591194968553457
+2018-07-29,Sri Lanka,South Africa,Unknown,Rangiri Dambulla International Stadium,Sri Lanka,bat,South Africa,2018,Neutral,3,1,0,7,0,0,0.41899441340782123,0.5828220858895705
+2018-08-01,Sri Lanka,South Africa,Unknown,Rangiri Dambulla International Stadium,Sri Lanka,bat,South Africa,2018,Neutral,3,2,0,8,0,0,0.41899441340782123,0.5828220858895705
+2018-08-05,South Africa,Sri Lanka,Unknown,Pallekele International Cricket Stadium,Sri Lanka,field,South Africa,2018,Sri Lanka,3,3,9,0,0,1,0.5828220858895705,0.41899441340782123
+2018-08-08,Sri Lanka,South Africa,Unknown,Pallekele International Cricket Stadium,South Africa,field,Sri Lanka,2018,Sri Lanka,2,3,0,10,0,1,0.41899441340782123,0.5828220858895705
+2018-08-12,Sri Lanka,South Africa,Colombo,"R.Premadasa Stadium, Khettarama",Sri Lanka,bat,Sri Lanka,2018,Sri Lanka,2,3,1,10,1,1,0.41899441340782123,0.5828220858895705
+2018-08-30,United Arab Emirates,Nepal,Kuala Lumpur,Kinrara Academy Oval,Nepal,field,United Arab Emirates,2018,Neutral,2,0,0,0,0,1,0.3486238532110092,0.5185185185185185
+2018-09-15,Bangladesh,Sri Lanka,Unknown,Dubai International Cricket Stadium,Bangladesh,bat,Bangladesh,2018,Neutral,2,2,2,4,1,1,0.5107913669064749,0.41899441340782123
+2018-09-16,Hong Kong,Pakistan,Unknown,Dubai International Cricket Stadium,Hong Kong,bat,Pakistan,2018,Neutral,1,5,0,0,0,0,0.38461538461538464,0.5123456790123457
+2018-09-18,India,Hong Kong,Unknown,Dubai International Cricket Stadium,Hong Kong,field,India,2018,Neutral,3,1,0,0,0,1,0.673469387755102,0.38461538461538464
+2018-09-19,Pakistan,India,Unknown,Dubai International Cricket Stadium,Pakistan,bat,India,2018,Neutral,5,3,1,2,0,0,0.5123456790123457,0.673469387755102
+2018-09-21,Bangladesh,India,Unknown,Dubai International Cricket Stadium,India,field,India,2018,Neutral,3,3,2,3,1,0,0.5107913669064749,0.673469387755102
+2018-09-23,Pakistan,India,Unknown,Dubai International Cricket Stadium,Pakistan,bat,India,2018,Neutral,4,3,1,3,0,0,0.5123456790123457,0.673469387755102
+2018-09-26,Bangladesh,Pakistan,Abu Dhabi,Sheikh Zayed Stadium,Bangladesh,bat,Bangladesh,2018,Neutral,3,3,3,0,1,1,0.5107913669064749,0.5123456790123457
+2018-09-28,Bangladesh,India,Unknown,Dubai International Cricket Stadium,India,field,India,2018,Neutral,3,4,2,4,1,0,0.5107913669064749,0.673469387755102
+2018-09-30,Zimbabwe,South Africa,Kimberley,Diamond Oval,South Africa,field,South Africa,2018,Neutral,0,3,0,1,1,0,0.29357798165137616,0.5828220858895705
+2018-10-03,South Africa,Zimbabwe,Bloemfontein,Mangaung Oval,South Africa,bat,South Africa,2018,South Africa,3,0,2,0,1,1,0.5828220858895705,0.29357798165137616
+2018-10-06,Zimbabwe,South Africa,Paarl,Boland Park,Zimbabwe,bat,South Africa,2018,Neutral,0,3,0,3,0,0,0.29357798165137616,0.5828220858895705
+2018-10-13,England,Sri Lanka,Unknown,Rangiri Dambulla International Stadium,Sri Lanka,field,England,2018,Neutral,4,2,3,1,0,1,0.5895953757225434,0.41899441340782123
+2018-10-17,Sri Lanka,England,Unknown,Pallekele International Cricket Stadium,England,field,England,2018,Sri Lanka,2,4,1,4,1,0,0.41899441340782123,0.5895953757225434
+2018-10-20,Sri Lanka,England,Unknown,Pallekele International Cricket Stadium,England,field,England,2018,Sri Lanka,2,4,1,5,1,0,0.41899441340782123,0.5895953757225434
+2018-10-21,Bangladesh,Zimbabwe,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,Bangladesh,2018,Bangladesh,3,0,5,0,1,1,0.5107913669064749,0.29357798165137616
+2018-10-21,West Indies,India,Guwahati,Barsapara Cricket Stadium,India,field,India,2018,Neutral,3,5,1,4,1,0,0.34591194968553457,0.673469387755102
+2018-10-23,Sri Lanka,England,Colombo,"R.Premadasa Stadium, Khettarama",Sri Lanka,bat,Sri Lanka,2018,Sri Lanka,1,5,1,6,1,1,0.41899441340782123,0.5895953757225434
+2018-10-24,Zimbabwe,Bangladesh,Chattogram,Zahur Ahmed Chowdhury Stadium,Bangladesh,field,Bangladesh,2018,Bangladesh,0,3,0,6,1,0,0.29357798165137616,0.5107913669064749
+2018-10-26,Zimbabwe,Bangladesh,Chattogram,Zahur Ahmed Chowdhury Stadium,Bangladesh,field,Bangladesh,2018,Bangladesh,0,3,0,7,1,0,0.29357798165137616,0.5107913669064749
+2018-10-27,West Indies,India,Pune,Maharashtra Cricket Association Stadium,India,field,West Indies,2018,Neutral,2,5,1,5,0,1,0.34591194968553457,0.673469387755102
+2018-10-29,India,West Indies,Mumbai,Brabourne Stadium,India,bat,India,2018,India,4,2,5,2,1,1,0.673469387755102,0.34591194968553457
+2018-11-01,West Indies,India,Thiruvananthapuram,Greenfield International Stadium,West Indies,bat,India,2018,Neutral,2,4,2,6,0,0,0.34591194968553457,0.673469387755102
+2018-11-04,Australia,South Africa,Unknown,Perth Stadium,South Africa,field,South Africa,2018,Australia,0,3,1,6,1,0,0.5705882352941176,0.5828220858895705
+2018-11-07,New Zealand,Pakistan,Abu Dhabi,Sheikh Zayed Stadium,New Zealand,bat,New Zealand,2018,Neutral,2,2,9,0,1,1,0.6271186440677966,0.5123456790123457
+2018-11-09,Australia,South Africa,Unknown,Adelaide Oval,South Africa,field,Australia,2018,Australia,0,4,1,7,0,1,0.5705882352941176,0.5828220858895705
+2018-11-09,New Zealand,Pakistan,Abu Dhabi,Sheikh Zayed Stadium,New Zealand,bat,Pakistan,2018,Neutral,2,1,10,0,0,0,0.6271186440677966,0.5123456790123457
+2018-11-11,South Africa,Australia,Hobart,Bellerive Oval,Australia,field,South Africa,2018,Australia,4,1,7,2,0,1,0.5828220858895705,0.5705882352941176
+2018-12-09,Bangladesh,West Indies,Dhaka,"Shere Bangla National Stadium, Mirpur",West Indies,bat,Bangladesh,2018,Bangladesh,4,1,2,1,0,1,0.5107913669064749,0.34591194968553457
+2018-12-11,Bangladesh,West Indies,Dhaka,"Shere Bangla National Stadium, Mirpur",West Indies,field,West Indies,2018,Bangladesh,4,1,3,1,1,0,0.5107913669064749,0.34591194968553457
+2018-12-14,Bangladesh,West Indies,Sylhet,Sylhet International Cricket Stadium,Bangladesh,field,Bangladesh,2018,Neutral,4,2,3,2,1,1,0.5107913669064749,0.34591194968553457
+2019-01-03,New Zealand,Sri Lanka,Mount Maunganui,Bay Oval,New Zealand,bat,New Zealand,2019,New Zealand,2,1,8,3,1,1,0.6271186440677966,0.41899441340782123
+2019-01-05,New Zealand,Sri Lanka,Mount Maunganui,Bay Oval,New Zealand,bat,New Zealand,2019,New Zealand,3,1,9,3,1,1,0.6271186440677966,0.41899441340782123
+2019-01-08,New Zealand,Sri Lanka,Nelson,Saxton Oval,Sri Lanka,field,New Zealand,2019,New Zealand,3,1,10,3,0,1,0.6271186440677966,0.41899441340782123
+2019-01-12,Australia,India,Sydney,Sydney Cricket Ground,Australia,bat,Australia,2019,Australia,1,4,7,5,1,1,0.5705882352941176,0.673469387755102
+2019-01-15,Australia,India,Adelaide,Adelaide Oval,Australia,bat,India,2019,Australia,2,3,8,5,0,0,0.5705882352941176,0.673469387755102
+2019-01-18,Australia,India,Melbourne,Melbourne Cricket Ground,India,field,India,2019,Australia,2,3,8,6,1,0,0.5705882352941176,0.673469387755102
+2019-01-19,South Africa,Pakistan,Port Elizabeth,St George's Park,South Africa,bat,Pakistan,2019,South Africa,4,1,0,2,0,0,0.5828220858895705,0.5123456790123457
+2019-01-22,South Africa,Pakistan,Durban,Kingsmead,South Africa,field,South Africa,2019,South Africa,3,2,0,3,1,1,0.5828220858895705,0.5123456790123457
+2019-01-23,New Zealand,India,Napier,McLean Park,New Zealand,bat,India,2019,New Zealand,4,4,3,5,0,0,0.6271186440677966,0.673469387755102
+2019-01-25,United Arab Emirates,Nepal,Dubai,ICC Academy,United Arab Emirates,field,United Arab Emirates,2019,Neutral,2,0,1,0,1,1,0.3486238532110092,0.5185185185185185
+2019-01-25,South Africa,Pakistan,Centurion,SuperSport Park,Pakistan,bat,South Africa,2019,South Africa,3,2,1,3,0,1,0.5828220858895705,0.5123456790123457
+2019-01-26,United Arab Emirates,Nepal,Dubai,ICC Academy,Nepal,bat,Nepal,2019,Neutral,3,0,2,0,1,0,0.3486238532110092,0.5185185185185185
+2019-01-26,New Zealand,India,Mount Maunganui,Bay Oval,India,bat,India,2019,New Zealand,3,4,3,6,1,0,0.6271186440677966,0.673469387755102
+2019-01-27,South Africa,Pakistan,Johannesburg,The Wanderers Stadium,Pakistan,field,Pakistan,2019,South Africa,3,2,2,3,1,0,0.5828220858895705,0.5123456790123457
+2019-01-28,United Arab Emirates,Nepal,Dubai,ICC Academy,Nepal,field,Nepal,2019,Neutral,3,1,2,1,1,0,0.3486238532110092,0.5185185185185185
+2019-01-28,New Zealand,India,Mount Maunganui,Bay Oval,New Zealand,bat,India,2019,New Zealand,3,4,3,7,0,0,0.6271186440677966,0.673469387755102
+2019-01-30,South Africa,Pakistan,Cape Town,Newlands,South Africa,field,South Africa,2019,South Africa,3,3,2,4,1,1,0.5828220858895705,0.5123456790123457
+2019-01-31,New Zealand,India,Hamilton,Seddon Park,New Zealand,field,New Zealand,2019,New Zealand,2,5,3,8,1,1,0.6271186440677966,0.673469387755102
+2019-02-03,New Zealand,India,Wellington,Westpac Stadium,India,bat,India,2019,New Zealand,2,4,4,8,1,0,0.6271186440677966,0.673469387755102
+2019-02-13,New Zealand,Bangladesh,Napier,McLean Park,Bangladesh,bat,New Zealand,2019,New Zealand,1,4,5,2,0,1,0.6271186440677966,0.5107913669064749
+2019-02-16,New Zealand,Bangladesh,Christchurch,Hagley Oval,New Zealand,field,New Zealand,2019,New Zealand,2,3,6,2,1,1,0.6271186440677966,0.5107913669064749
+2019-02-20,West Indies,England,Bridgetown,"Kensington Oval, Barbados",West Indies,bat,England,2019,West Indies,1,4,0,7,0,0,0.34591194968553457,0.5895953757225434
+2019-02-20,New Zealand,Bangladesh,Dunedin,University Oval,Bangladesh,field,New Zealand,2019,New Zealand,3,2,7,2,0,1,0.6271186440677966,0.5107913669064749
+2019-02-22,West Indies,England,Bridgetown,"Kensington Oval, Barbados",England,field,West Indies,2019,West Indies,1,4,0,8,0,1,0.34591194968553457,0.5895953757225434
+2019-02-27,West Indies,England,St George's,"National Cricket Stadium, Grenada",West Indies,field,England,2019,Neutral,2,3,1,8,0,0,0.34591194968553457,0.5895953757225434
+2019-03-02,West Indies,England,Gros Islet,"Darren Sammy National Cricket Stadium, St Lucia",West Indies,field,West Indies,2019,Neutral,2,3,1,9,1,1,0.34591194968553457,0.5895953757225434
+2019-03-02,India,Australia,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Australia,bat,India,2019,India,4,2,7,8,0,1,0.673469387755102,0.5705882352941176
+2019-03-03,South Africa,Sri Lanka,Johannesburg,The Wanderers Stadium,South Africa,field,South Africa,2019,South Africa,3,1,10,2,1,1,0.5828220858895705,0.41899441340782123
+2019-03-05,India,Australia,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Australia,field,India,2019,Neutral,4,1,8,8,0,1,0.673469387755102,0.5705882352941176
+2019-03-06,South Africa,Sri Lanka,Centurion,SuperSport Park,Sri Lanka,field,South Africa,2019,South Africa,4,1,11,2,0,1,0.5828220858895705,0.41899441340782123
+2019-03-08,India,Australia,Ranchi,JSCA International Stadium Complex,India,field,Australia,2019,Neutral,4,1,9,8,0,0,0.673469387755102,0.5705882352941176
+2019-03-10,South Africa,Sri Lanka,Durban,Kingsmead,Sri Lanka,field,South Africa,2019,South Africa,4,0,12,2,0,1,0.5828220858895705,0.41899441340782123
+2019-03-10,India,Australia,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",India,bat,Australia,2019,Neutral,3,1,9,9,0,0,0.673469387755102,0.5705882352941176
+2019-03-13,India,Australia,Delhi,Arun Jaitley Stadium,Australia,bat,Australia,2019,India,3,2,9,10,1,0,0.673469387755102,0.5705882352941176
+2019-03-13,South Africa,Sri Lanka,Port Elizabeth,St George's Park,South Africa,field,South Africa,2019,South Africa,4,0,13,2,1,1,0.5828220858895705,0.41899441340782123
+2019-03-16,South Africa,Sri Lanka,Cape Town,Newlands,Sri Lanka,bat,South Africa,2019,South Africa,5,0,14,2,0,1,0.5828220858895705,0.41899441340782123
+2019-03-22,Australia,Pakistan,Sharjah,Sharjah Cricket Stadium,Pakistan,bat,Australia,2019,Neutral,3,2,5,1,0,1,0.5705882352941176,0.5123456790123457
+2019-03-24,Australia,Pakistan,Sharjah,Sharjah Cricket Stadium,Pakistan,bat,Australia,2019,Neutral,4,1,6,1,0,1,0.5705882352941176,0.5123456790123457
+2019-03-27,Australia,Pakistan,Abu Dhabi,Sheikh Zayed Stadium,Australia,bat,Australia,2019,Neutral,5,1,7,1,1,1,0.5705882352941176,0.5123456790123457
+2019-03-29,Australia,Pakistan,Dubai,Dubai International Cricket Stadium,Pakistan,field,Australia,2019,Neutral,5,1,8,1,0,1,0.5705882352941176,0.5123456790123457
+2019-03-31,Australia,Pakistan,Dubai,Dubai International Cricket Stadium,Pakistan,field,Australia,2019,Neutral,5,0,9,1,0,1,0.5705882352941176,0.5123456790123457
+2019-04-10,Zimbabwe,United Arab Emirates,Harare,Harare Sports Club,Zimbabwe,field,Zimbabwe,2019,Neutral,0,3,1,1,1,1,0.29357798165137616,0.3486238532110092
+2019-04-12,Zimbabwe,United Arab Emirates,Harare,Harare Sports Club,Zimbabwe,field,Zimbabwe,2019,Neutral,1,2,2,1,1,1,0.29357798165137616,0.3486238532110092
+2019-04-16,Zimbabwe,United Arab Emirates,Harare,Harare Sports Club,United Arab Emirates,bat,Zimbabwe,2019,Neutral,2,1,3,1,0,1,0.29357798165137616,0.3486238532110092
+2019-04-27,Namibia,Oman,Windhoek,Wanderers Cricket Ground,Namibia,bat,Namibia,2019,Neutral,0,0,0,0,1,1,0.5,0.5151515151515151
+2019-04-27,Papua New Guinea,United States of America,Windhoek,Affies Park,Papua New Guinea,field,Papua New Guinea,2019,Neutral,1,0,0,0,1,1,0.2,0.5571428571428572
+2019-05-03,Ireland,England,Dublin,"The Village, Malahide",England,field,England,2019,Neutral,3,2,0,2,1,0,0.4024390243902439,0.5895953757225434
+2019-05-05,Ireland,West Indies,Dublin,Castle Avenue,Ireland,field,West Indies,2019,Neutral,2,2,1,1,0,0,0.4024390243902439,0.34591194968553457
+2019-05-07,Bangladesh,West Indies,Dublin,Castle Avenue,West Indies,bat,Bangladesh,2019,Neutral,1,3,4,2,0,1,0.5107913669064749,0.34591194968553457
+2019-05-11,Ireland,West Indies,Dublin,"The Village, Malahide",Ireland,bat,West Indies,2019,Neutral,2,3,1,2,0,0,0.4024390243902439,0.34591194968553457
+2019-05-11,England,Pakistan,Southampton,The Rose Bowl,Pakistan,field,England,2019,Neutral,3,0,7,3,0,1,0.5895953757225434,0.5123456790123457
+2019-05-13,Bangladesh,West Indies,Dublin,"The Village, Malahide",West Indies,bat,Bangladesh,2019,Neutral,2,3,5,2,0,1,0.5107913669064749,0.34591194968553457
+2019-05-14,England,Pakistan,Bristol,County Ground,England,field,England,2019,Neutral,3,0,8,3,1,1,0.5895953757225434,0.5123456790123457
+2019-05-15,Ireland,Bangladesh,Dublin,Castle Avenue,Ireland,bat,Bangladesh,2019,Neutral,1,2,0,1,0,0,0.4024390243902439,0.5107913669064749
+2019-05-17,Bangladesh,West Indies,Dublin,"The Village, Malahide",Bangladesh,field,Bangladesh,2019,Neutral,3,3,6,2,1,1,0.5107913669064749,0.34591194968553457
+2019-05-17,England,Pakistan,Nottingham,Trent Bridge,England,field,England,2019,England,4,0,9,3,1,1,0.5895953757225434,0.5123456790123457
+2019-05-19,England,Pakistan,Leeds,Headingley,England,bat,England,2019,England,4,0,10,3,1,1,0.5895953757225434,0.5123456790123457
+2019-05-21,Scotland,Sri Lanka,Edinburgh,"Grange Cricket Club, Raeburn Place",Scotland,field,Sri Lanka,2019,Neutral,2,0,0,1,0,0,0.5714285714285714,0.41899441340782123
+2019-05-30,England,South Africa,London,Kennington Oval,South Africa,field,England,2019,England,5,5,4,4,0,1,0.5895953757225434,0.5828220858895705
+2019-05-31,Pakistan,West Indies,Nottingham,Trent Bridge,West Indies,field,West Indies,2019,Neutral,0,2,5,2,1,0,0.5123456790123457,0.34591194968553457
+2019-06-01,New Zealand,Sri Lanka,Cardiff,Sophia Gardens,New Zealand,field,New Zealand,2019,Neutral,4,1,11,3,1,1,0.6271186440677966,0.41899441340782123
+2019-06-02,Bangladesh,South Africa,London,Kennington Oval,South Africa,field,Bangladesh,2019,Neutral,4,4,2,4,0,1,0.5107913669064749,0.5828220858895705
+2019-06-03,England,Pakistan,Nottingham,Trent Bridge,England,field,Pakistan,2019,England,5,0,11,3,0,0,0.5895953757225434,0.5123456790123457
+2019-06-05,Bangladesh,New Zealand,London,Kennington Oval,New Zealand,field,New Zealand,2019,Neutral,5,4,2,8,1,0,0.5107913669064749,0.6271186440677966
+2019-06-05,India,South Africa,Southampton,The Rose Bowl,South Africa,bat,India,2019,Neutral,2,3,9,4,0,1,0.673469387755102,0.5828220858895705
+2019-06-06,Australia,West Indies,Nottingham,Trent Bridge,West Indies,field,Australia,2019,Neutral,5,2,3,1,0,1,0.5705882352941176,0.34591194968553457
+2019-06-08,England,Bangladesh,Cardiff,Sophia Gardens,Bangladesh,field,England,2019,England,4,4,3,2,0,1,0.5895953757225434,0.5107913669064749
+2019-06-09,Australia,India,London,Kennington Oval,India,bat,India,2019,Neutral,5,2,11,9,1,0,0.5705882352941176,0.673469387755102
+2019-06-12,Australia,Pakistan,Taunton,The Cooper Associates County Ground,Pakistan,field,Australia,2019,Neutral,4,1,10,1,0,1,0.5705882352941176,0.5123456790123457
+2019-06-14,England,West Indies,Southampton,The Rose Bowl,England,field,England,2019,Neutral,4,2,9,2,1,1,0.5895953757225434,0.34591194968553457
+2019-06-15,Australia,Sri Lanka,London,Kennington Oval,Sri Lanka,field,Australia,2019,Neutral,4,1,5,1,0,1,0.5705882352941176,0.41899441340782123
+2019-06-16,India,Pakistan,Manchester,Old Trafford,Pakistan,field,India,2019,Neutral,2,1,4,1,0,1,0.673469387755102,0.5123456790123457
+2019-06-17,Bangladesh,West Indies,Taunton,The Cooper Associates County Ground,Bangladesh,field,Bangladesh,2019,Neutral,3,1,7,2,1,1,0.5107913669064749,0.34591194968553457
+2019-06-19,Netherlands,Zimbabwe,Deventer,Sportpark Het Schootsveld,Zimbabwe,bat,Netherlands,2019,Neutral,0,3,0,0,0,1,0.4098360655737705,0.29357798165137616
+2019-06-19,New Zealand,South Africa,Birmingham,Edgbaston,New Zealand,field,New Zealand,2019,Neutral,5,2,4,5,1,1,0.6271186440677966,0.5828220858895705
+2019-06-20,Australia,Bangladesh,Nottingham,Trent Bridge,Australia,bat,Australia,2019,Neutral,4,3,0,0,1,1,0.5705882352941176,0.5107913669064749
+2019-06-21,England,Sri Lanka,Leeds,Headingley,Sri Lanka,bat,Sri Lanka,2019,England,4,1,6,2,1,0,0.5895953757225434,0.41899441340782123
+2019-06-21,Netherlands,Zimbabwe,Deventer,Sportpark Het Schootsveld,Zimbabwe,bat,Netherlands,2019,Neutral,1,3,1,0,0,1,0.4098360655737705,0.29357798165137616
+2019-06-22,New Zealand,West Indies,Manchester,Old Trafford,West Indies,field,New Zealand,2019,Neutral,5,1,4,0,0,1,0.6271186440677966,0.34591194968553457
+2019-06-23,Pakistan,South Africa,London,Lord's,Pakistan,bat,Pakistan,2019,Neutral,1,1,4,3,1,1,0.5123456790123457,0.5828220858895705
+2019-06-25,England,Australia,London,Lord's,England,field,Australia,2019,England,3,4,12,8,0,0,0.5895953757225434,0.5705882352941176
+2019-06-26,New Zealand,Pakistan,Birmingham,Edgbaston,New Zealand,bat,Pakistan,2019,Neutral,5,2,10,1,0,0,0.6271186440677966,0.5123456790123457
+2019-06-27,India,West Indies,Manchester,Old Trafford,India,bat,India,2019,Neutral,3,1,7,2,1,1,0.673469387755102,0.34591194968553457
+2019-06-28,South Africa,Sri Lanka,Chester-le-Street,Riverside Ground,South Africa,field,South Africa,2019,Neutral,0,2,15,2,1,1,0.5828220858895705,0.41899441340782123
+2019-06-29,Australia,New Zealand,London,Lord's,Australia,bat,Australia,2019,Neutral,4,4,5,5,1,1,0.5705882352941176,0.6271186440677966
+2019-06-30,England,India,Birmingham,Edgbaston,England,bat,England,2019,England,2,4,5,3,1,1,0.5895953757225434,0.673469387755102
+2019-07-01,Ireland,Zimbabwe,Bready,"Bready Cricket Club, Magheramason",Ireland,field,Ireland,2019,Neutral,1,3,2,3,1,1,0.4024390243902439,0.29357798165137616
+2019-07-01,Sri Lanka,West Indies,Chester-le-Street,Riverside Ground,West Indies,field,Sri Lanka,2019,Neutral,2,0,4,1,0,1,0.41899441340782123,0.34591194968553457
+2019-07-02,Bangladesh,India,Birmingham,Edgbaston,India,bat,India,2019,Neutral,2,4,2,5,1,0,0.5107913669064749,0.673469387755102
+2019-07-03,England,New Zealand,Chester-le-Street,Riverside Ground,England,bat,England,2019,England,3,3,7,5,1,1,0.5895953757225434,0.6271186440677966
+2019-07-04,Ireland,Zimbabwe,Belfast,"Civil Service Cricket Club, Stormont",Zimbabwe,field,Ireland,2019,Neutral,1,2,3,3,0,1,0.4024390243902439,0.29357798165137616
+2019-07-05,Bangladesh,Pakistan,London,Lord's,Pakistan,bat,Pakistan,2019,Neutral,1,3,4,0,1,0,0.5107913669064749,0.5123456790123457
+2019-07-06,Australia,South Africa,Manchester,Old Trafford,South Africa,bat,South Africa,2019,Neutral,5,1,2,8,1,0,0.5705882352941176,0.5828220858895705
+2019-07-06,India,Sri Lanka,Leeds,Headingley,Sri Lanka,bat,India,2019,Neutral,4,2,7,2,0,1,0.673469387755102,0.41899441340782123
+2019-07-07,Ireland,Zimbabwe,Belfast,"Civil Service Cricket Club, Stormont",Zimbabwe,bat,Ireland,2019,Neutral,2,1,4,3,0,1,0.4024390243902439,0.29357798165137616
+2019-07-09,India,New Zealand,Manchester,Old Trafford,New Zealand,bat,New Zealand,2019,Neutral,4,2,9,4,1,0,0.673469387755102,0.6271186440677966
+2019-07-11,Australia,England,Birmingham,Edgbaston,Australia,bat,England,2019,England,4,3,9,12,0,0,0.5705882352941176,0.5895953757225434
+2019-07-26,Sri Lanka,Bangladesh,Colombo,"R.Premadasa Stadium, Khettarama",Sri Lanka,bat,Sri Lanka,2019,Sri Lanka,2,1,4,3,1,1,0.41899441340782123,0.5107913669064749
+2019-07-28,Sri Lanka,Bangladesh,Colombo,"R.Premadasa Stadium, Khettarama",Bangladesh,bat,Sri Lanka,2019,Sri Lanka,3,1,5,3,0,1,0.41899441340782123,0.5107913669064749
+2019-07-31,Sri Lanka,Bangladesh,Colombo,"R.Premadasa Stadium, Khettarama",Sri Lanka,bat,Sri Lanka,2019,Sri Lanka,3,0,6,3,1,1,0.41899441340782123,0.5107913669064749
+2019-08-11,West Indies,India,Port of Spain,"Queen's Park Oval, Trinidad",India,bat,India,2019,West Indies,0,3,2,8,1,0,0.34591194968553457,0.673469387755102
+2019-08-14,Oman,Papua New Guinea,Aberdeen,Mannofield Park,Oman,field,Oman,2019,Neutral,0,2,0,0,1,1,0.5151515151515151,0.2
+2019-08-14,West Indies,India,Port of Spain,"Queen's Park Oval, Trinidad",West Indies,bat,India,2019,West Indies,0,3,2,9,0,0,0.34591194968553457,0.673469387755102
+2019-08-15,Scotland,Oman,Aberdeen,Mannofield Park,Scotland,bat,Oman,2019,Neutral,2,1,0,0,0,0,0.5714285714285714,0.5151515151515151
+2019-08-17,Scotland,Papua New Guinea,Aberdeen,Mannofield Park,Scotland,field,Scotland,2019,Neutral,1,2,0,0,1,1,0.5714285714285714,0.2
+2019-08-18,Scotland,Oman,Aberdeen,Mannofield Park,Oman,field,Scotland,2019,Neutral,1,2,0,1,0,1,0.5714285714285714,0.5151515151515151
+2019-08-20,Scotland,Papua New Guinea,Aberdeen,Mannofield Park,Papua New Guinea,field,Scotland,2019,Neutral,2,2,1,0,0,1,0.5714285714285714,0.2
+2019-08-21,Oman,Papua New Guinea,Aberdeen,Mannofield Park,Oman,field,Oman,2019,Neutral,2,2,1,0,1,1,0.5151515151515151,0.2
+2019-09-13,United States of America,Papua New Guinea,Lauderhill,Central Broward Regional Park Stadium Turf Ground,United States of America,bat,United States of America,2019,Neutral,0,1,0,1,1,1,0.5571428571428572,0.2
+2019-09-17,United States of America,Namibia,Lauderhill,Central Broward Regional Park Stadium Turf Ground,Namibia,bat,United States of America,2019,Neutral,1,1,0,0,0,1,0.5571428571428572,0.5
+2019-09-19,United States of America,Papua New Guinea,Lauderhill,Central Broward Regional Park Stadium Turf Ground,United States of America,bat,United States of America,2019,Neutral,2,0,1,1,1,1,0.5571428571428572,0.2
+2019-09-22,Namibia,Papua New Guinea,Lauderhill,Central Broward Regional Park Stadium Turf Ground,Papua New Guinea,bat,Namibia,2019,Neutral,1,0,0,0,0,1,0.5,0.2
+2019-09-23,Namibia,Papua New Guinea,Lauderhill,Central Broward Regional Park Stadium Turf Ground,Namibia,bat,Namibia,2019,Neutral,2,0,1,0,1,1,0.5,0.2
+2019-09-30,Pakistan,Sri Lanka,Karachi,National Stadium,Pakistan,bat,Pakistan,2019,Pakistan,3,4,9,2,1,1,0.5123456790123457,0.41899441340782123
+2019-10-02,Pakistan,Sri Lanka,Karachi,National Stadium,Sri Lanka,bat,Pakistan,2019,Pakistan,4,3,10,2,0,1,0.5123456790123457,0.41899441340782123
+2019-12-08,United Arab Emirates,United States of America,Sharjah,Sharjah Cricket Stadium,United Arab Emirates,bat,United States of America,2019,Neutral,0,3,0,0,0,0,0.3486238532110092,0.5571428571428572
+2019-12-09,Scotland,United States of America,Sharjah,Sharjah Cricket Stadium,United States of America,bat,United States of America,2019,Neutral,3,4,0,0,1,0,0.5714285714285714,0.5571428571428572
+2019-12-12,United Arab Emirates,United States of America,Dubai,ICC Academy,United Arab Emirates,field,United States of America,2019,Neutral,0,5,0,1,0,0,0.3486238532110092,0.5571428571428572
+2019-12-14,Scotland,United States of America,Dubai,ICC Academy,Scotland,field,Scotland,2019,Neutral,3,5,0,1,1,1,0.5714285714285714,0.5571428571428572
+2019-12-15,United Arab Emirates,Scotland,Dubai,ICC Academy,United Arab Emirates,field,United Arab Emirates,2019,Neutral,0,4,2,4,1,1,0.3486238532110092,0.5714285714285714
+2019-12-15,India,West Indies,Chennai,"MA Chidambaram Stadium, Chepauk",West Indies,field,West Indies,2019,India,4,0,10,2,1,0,0.673469387755102,0.34591194968553457
+2019-12-18,India,West Indies,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,West Indies,field,India,2019,Neutral,3,1,10,3,0,1,0.673469387755102,0.34591194968553457
+2019-12-22,India,West Indies,Cuttack,Barabati Stadium,India,field,India,2019,Neutral,3,1,11,3,1,1,0.673469387755102,0.34591194968553457
+2020-01-05,Oman,United Arab Emirates,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,field,Oman,2020,Neutral,3,1,0,0,1,1,0.5151515151515151,0.3486238532110092
+2020-01-06,Namibia,United Arab Emirates,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,field,United Arab Emirates,2020,Neutral,3,1,0,0,0,0,0.5,0.3486238532110092
+2020-01-07,West Indies,Ireland,Bridgetown,"Kensington Oval, Barbados",Ireland,bat,West Indies,2020,West Indies,1,3,3,1,0,1,0.34591194968553457,0.4024390243902439
+2020-01-08,Oman,Namibia,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,bat,Namibia,2020,Neutral,4,3,0,1,1,0,0.5151515151515151,0.5
+2020-01-09,Namibia,United Arab Emirates,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,bat,United Arab Emirates,2020,Neutral,3,2,0,1,0,0,0.5,0.3486238532110092
+2020-01-09,West Indies,Ireland,Bridgetown,"Kensington Oval, Barbados",Ireland,bat,West Indies,2020,West Indies,2,3,4,1,0,1,0.34591194968553457,0.4024390243902439
+2020-01-12,West Indies,Ireland,St George's,"National Cricket Stadium, Grenada",West Indies,field,West Indies,2020,Neutral,3,3,5,1,1,1,0.34591194968553457,0.4024390243902439
+2020-01-14,India,Australia,Mumbai,Wankhede Stadium,Australia,field,Australia,2020,India,4,3,10,11,1,0,0.673469387755102,0.5705882352941176
+2020-01-17,India,Australia,Rajkot,Saurashtra Cricket Association Stadium,Australia,field,India,2020,Neutral,3,3,10,12,0,1,0.673469387755102,0.5705882352941176
+2020-01-19,India,Australia,Bengaluru,M.Chinnaswamy Stadium,Australia,bat,India,2020,Neutral,3,2,11,12,0,1,0.673469387755102,0.5705882352941176
+2020-02-04,South Africa,England,Cape Town,Newlands,South Africa,field,South Africa,2020,South Africa,2,3,4,5,1,1,0.5828220858895705,0.5895953757225434
+2020-02-05,Nepal,Oman,Kirtipur,Tribhuvan University International Cricket Ground,Nepal,field,Oman,2020,Neutral,2,3,0,0,0,0,0.5185185185185185,0.5151515151515151
+2020-02-05,New Zealand,India,Hamilton,Seddon Park,New Zealand,field,New Zealand,2020,New Zealand,2,4,5,9,1,1,0.6271186440677966,0.673469387755102
+2020-02-06,Oman,United States of America,Kirtipur,Tribhuvan University International Cricket Ground,Oman,field,Oman,2020,Neutral,3,4,0,0,1,1,0.5151515151515151,0.5571428571428572
+2020-02-08,New Zealand,India,Auckland,Eden Park,India,field,New Zealand,2020,New Zealand,2,3,6,9,0,1,0.6271186440677966,0.673469387755102
+2020-02-08,Nepal,United States of America,Kirtipur,Tribhuvan University International Cricket Ground,United States of America,field,Nepal,2020,Neutral,2,3,0,0,0,1,0.5185185185185185,0.5571428571428572
+2020-02-09,South Africa,England,Johannesburg,The Wanderers Stadium,England,field,England,2020,South Africa,3,3,5,5,1,0,0.5828220858895705,0.5895953757225434
+2020-02-09,Nepal,Oman,Kirtipur,Tribhuvan University International Cricket Ground,Oman,field,Oman,2020,Neutral,3,4,0,1,1,0,0.5185185185185185,0.5151515151515151
+2020-02-11,Oman,United States of America,Kirtipur,Tribhuvan University International Cricket Ground,United States of America,field,Oman,2020,Neutral,4,2,1,0,0,1,0.5151515151515151,0.5571428571428572
+2020-02-11,New Zealand,India,Mount Maunganui,Bay Oval,New Zealand,field,New Zealand,2020,New Zealand,3,2,7,9,1,1,0.6271186440677966,0.673469387755102
+2020-02-12,Nepal,United States of America,Kirtipur,Tribhuvan University International Cricket Ground,Nepal,field,Nepal,2020,Neutral,3,1,1,0,1,1,0.5185185185185185,0.5571428571428572
+2020-02-22,Sri Lanka,West Indies,Colombo,Sinhalese Sports Club Ground,Sri Lanka,field,Sri Lanka,2020,Sri Lanka,3,3,5,1,1,1,0.41899441340782123,0.34591194968553457
+2020-02-26,Sri Lanka,West Indies,Hambantota,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",West Indies,field,Sri Lanka,2020,Neutral,3,3,6,1,0,1,0.41899441340782123,0.34591194968553457
+2020-02-29,South Africa,Australia,Paarl,Boland Park,South Africa,bat,South Africa,2020,Neutral,3,1,9,2,1,1,0.5828220858895705,0.5705882352941176
+2020-03-01,Bangladesh,Zimbabwe,Sylhet,Sylhet International Cricket Stadium,Bangladesh,bat,Bangladesh,2020,Neutral,0,0,8,0,1,1,0.5107913669064749,0.29357798165137616
+2020-03-01,Sri Lanka,West Indies,Kandy,Pallekele International Cricket Stadium,Sri Lanka,bat,Sri Lanka,2020,Sri Lanka,3,3,7,1,1,1,0.41899441340782123,0.34591194968553457
+2020-03-03,Bangladesh,Zimbabwe,Sylhet,Sylhet International Cricket Stadium,Bangladesh,bat,Bangladesh,2020,Neutral,1,0,9,0,1,1,0.5107913669064749,0.29357798165137616
+2020-03-04,South Africa,Australia,Bloemfontein,Mangaung Oval,Australia,bat,South Africa,2020,South Africa,4,1,10,2,0,1,0.5828220858895705,0.5705882352941176
+2020-03-06,Bangladesh,Zimbabwe,Sylhet,Sylhet International Cricket Stadium,Zimbabwe,field,Bangladesh,2020,Neutral,2,0,10,0,0,1,0.5107913669064749,0.29357798165137616
+2020-03-07,South Africa,Australia,Potchefstroom,Senwes Park,South Africa,field,South Africa,2020,South Africa,4,1,11,2,1,1,0.5828220858895705,0.5705882352941176
+2020-03-13,Australia,New Zealand,Sydney,Sydney Cricket Ground,Australia,bat,Australia,2020,Australia,0,4,6,5,1,1,0.5705882352941176,0.6271186440677966
+2020-07-30,Ireland,England,Southampton,The Rose Bowl,England,field,England,2020,Neutral,2,4,0,3,1,0,0.4024390243902439,0.5895953757225434
+2020-08-01,Ireland,England,Southampton,The Rose Bowl,Ireland,bat,England,2020,Neutral,1,4,0,4,0,0,0.4024390243902439,0.5895953757225434
+2020-08-04,England,Ireland,Southampton,The Rose Bowl,Ireland,field,Ireland,2020,Neutral,4,0,5,0,1,0,0.5895953757225434,0.4024390243902439
+2020-09-11,Australia,England,Manchester,Old Trafford,England,field,Australia,2020,England,1,3,9,13,0,1,0.5705882352941176,0.5895953757225434
+2020-09-13,England,Australia,Manchester,Old Trafford,England,bat,England,2020,England,3,2,13,10,1,1,0.5895953757225434,0.5705882352941176
+2020-09-16,England,Australia,Manchester,Old Trafford,England,bat,Australia,2020,England,3,2,14,10,0,0,0.5895953757225434,0.5705882352941176
+2020-10-30,Pakistan,Zimbabwe,Unknown,Rawalpindi Cricket Stadium,Pakistan,bat,Pakistan,2020,Pakistan,5,0,10,1,1,1,0.5123456790123457,0.29357798165137616
+2020-11-01,Zimbabwe,Pakistan,Unknown,Rawalpindi Cricket Stadium,Zimbabwe,bat,Pakistan,2020,Pakistan,0,5,1,11,0,0,0.29357798165137616,0.5123456790123457
+2020-11-27,Australia,India,Unknown,Sydney Cricket Ground,Australia,bat,Australia,2020,Australia,3,2,12,12,1,1,0.5705882352941176,0.673469387755102
+2020-11-29,Australia,India,Unknown,Sydney Cricket Ground,Australia,bat,Australia,2020,Australia,4,1,13,12,1,1,0.5705882352941176,0.673469387755102
+2020-12-02,India,Australia,Canberra,Manuka Oval,India,bat,India,2020,Australia,0,4,12,14,1,1,0.673469387755102,0.5705882352941176
+2021-01-08,Ireland,United Arab Emirates,Abu Dhabi,Sheikh Zayed Stadium,Ireland,bat,United Arab Emirates,2021,Neutral,1,3,6,0,0,0,0.4024390243902439,0.3486238532110092
+2021-01-18,Ireland,United Arab Emirates,Abu Dhabi,Sheikh Zayed Stadium,United Arab Emirates,field,Ireland,2021,Neutral,1,4,6,1,0,1,0.4024390243902439,0.3486238532110092
+2021-01-20,West Indies,Bangladesh,Dhaka,Shere Bangla National Stadium,Bangladesh,field,Bangladesh,2021,Bangladesh,2,3,2,8,1,0,0.34591194968553457,0.5107913669064749
+2021-01-22,West Indies,Bangladesh,Dhaka,Shere Bangla National Stadium,West Indies,bat,Bangladesh,2021,Bangladesh,1,4,2,9,0,0,0.34591194968553457,0.5107913669064749
+2021-01-25,Bangladesh,West Indies,Chattogram,Zahur Ahmed Chowdhury Stadium,West Indies,field,Bangladesh,2021,Bangladesh,5,0,10,2,0,1,0.5107913669064749,0.34591194968553457
+2021-03-10,West Indies,Sri Lanka,North Sound,Sir Vivian Richards Stadium,Sri Lanka,bat,West Indies,2021,Neutral,0,3,1,8,0,1,0.34591194968553457,0.41899441340782123
+2021-03-12,West Indies,Sri Lanka,North Sound,Sir Vivian Richards Stadium,West Indies,field,West Indies,2021,Neutral,1,3,2,8,1,1,0.34591194968553457,0.41899441340782123
+2021-03-14,West Indies,Sri Lanka,North Sound,Sir Vivian Richards Stadium,West Indies,field,West Indies,2021,Neutral,2,3,3,8,1,1,0.34591194968553457,0.41899441340782123
+2021-03-20,Bangladesh,New Zealand,Dunedin,University Oval,New Zealand,field,New Zealand,2021,New Zealand,5,4,2,9,1,0,0.5107913669064749,0.6271186440677966
+2021-03-23,India,England,Pune,Maharashtra Cricket Association Stadium,England,field,India,2021,Neutral,1,2,3,6,0,1,0.673469387755102,0.5895953757225434
+2021-03-23,Bangladesh,New Zealand,Christchurch,Hagley Oval,New Zealand,field,New Zealand,2021,New Zealand,4,4,2,10,1,0,0.5107913669064749,0.6271186440677966
+2021-03-26,India,England,Pune,Maharashtra Cricket Association Stadium,England,field,England,2021,Neutral,2,1,4,6,1,0,0.673469387755102,0.5895953757225434
+2021-03-26,New Zealand,Bangladesh,Wellington,Basin Reserve,New Zealand,bat,New Zealand,2021,New Zealand,4,3,11,2,1,1,0.6271186440677966,0.5107913669064749
+2021-03-28,India,England,Pune,Maharashtra Cricket Association Stadium,England,field,India,2021,Neutral,2,2,4,7,0,1,0.673469387755102,0.5895953757225434
+2021-04-02,South Africa,Pakistan,Centurion,"SuperSport Park, Centurion",Pakistan,field,Pakistan,2021,South Africa,4,5,3,5,1,0,0.5828220858895705,0.5123456790123457
+2021-04-04,South Africa,Pakistan,Johannesburg,The Wanderers Stadium,Pakistan,field,South Africa,2021,South Africa,3,5,3,6,0,1,0.5828220858895705,0.5123456790123457
+2021-04-07,Pakistan,South Africa,Centurion,"SuperSport Park, Centurion",South Africa,field,Pakistan,2021,South Africa,4,4,6,4,0,1,0.5123456790123457,0.5828220858895705
+2021-05-19,Netherlands,Scotland,Rotterdam,"Hazelaarweg, Rotterdam",Netherlands,bat,Netherlands,2021,Neutral,2,3,0,0,1,1,0.4098360655737705,0.5714285714285714
+2021-05-20,Netherlands,Scotland,Rotterdam,"Hazelaarweg, Rotterdam",Netherlands,bat,Scotland,2021,Neutral,3,2,1,0,0,0,0.4098360655737705,0.5714285714285714
+2021-05-23,Bangladesh,Sri Lanka,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,Bangladesh,2021,Bangladesh,2,2,3,7,1,1,0.5107913669064749,0.41899441340782123
+2021-05-25,Bangladesh,Sri Lanka,Mirpur,Sher-e-Bangla National Cricket Stadium,Bangladesh,bat,Bangladesh,2021,Neutral,2,1,4,7,1,1,0.5107913669064749,0.41899441340782123
+2021-05-28,Sri Lanka,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",Sri Lanka,bat,Sri Lanka,2021,Bangladesh,0,2,7,5,1,1,0.41899441340782123,0.5107913669064749
+2021-06-02,Netherlands,Ireland,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,bat,Netherlands,2021,Neutral,3,2,0,0,1,1,0.4098360655737705,0.4024390243902439
+2021-06-04,Netherlands,Ireland,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,bat,Ireland,2021,Neutral,4,2,1,0,0,0,0.4098360655737705,0.4024390243902439
+2021-06-07,Ireland,Netherlands,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",Ireland,bat,Netherlands,2021,Neutral,3,3,1,1,0,0,0.4024390243902439,0.4098360655737705
+2021-06-29,Sri Lanka,England,Chester-le-Street,"Riverside Ground, Chester-le-Street",England,field,England,2021,England,1,2,3,6,1,0,0.41899441340782123,0.5895953757225434
+2021-07-01,Sri Lanka,England,London,"Kennington Oval, London",England,field,England,2021,England,1,2,3,7,1,0,0.41899441340782123,0.5895953757225434
+2021-07-08,Pakistan,England,Cardiff,"Sophia Gardens, Cardiff",England,field,England,2021,England,4,3,4,11,1,0,0.5123456790123457,0.5895953757225434
+2021-07-10,England,Pakistan,London,"Lord's, London",Pakistan,field,England,2021,England,4,3,12,4,0,1,0.5895953757225434,0.5123456790123457
+2021-07-13,Ireland,South Africa,Dublin,"The Village, Malahide, Dublin",South Africa,field,Ireland,2021,Neutral,2,3,0,2,0,1,0.4024390243902439,0.5828220858895705
+2021-07-13,Pakistan,England,Birmingham,"Edgbaston, Birmingham",England,field,England,2021,England,2,4,4,13,1,0,0.5123456790123457,0.5895953757225434
+2021-07-16,South Africa,Ireland,Dublin,"The Village, Malahide, Dublin",South Africa,bat,South Africa,2021,Neutral,2,3,2,1,1,1,0.5828220858895705,0.4024390243902439
+2021-07-16,Bangladesh,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Bangladesh,2021,Neutral,2,0,11,0,0,1,0.5107913669064749,0.29357798165137616
+2021-07-18,Sri Lanka,India,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,India,2021,Sri Lanka,1,3,2,8,0,0,0.41899441340782123,0.673469387755102
+2021-07-18,Zimbabwe,Bangladesh,Harare,Harare Sports Club,Zimbabwe,bat,Bangladesh,2021,Neutral,0,3,0,12,0,0,0.29357798165137616,0.5107913669064749
+2021-07-20,Australia,West Indies,Bridgetown,"Kensington Oval, Bridgetown, Barbados",Australia,bat,Australia,2021,West Indies,3,3,4,1,1,1,0.5705882352941176,0.34591194968553457
+2021-07-20,Sri Lanka,India,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,India,2021,Sri Lanka,1,4,2,9,0,0,0.41899441340782123,0.673469387755102
+2021-07-20,Zimbabwe,Bangladesh,Harare,Harare Sports Club,Bangladesh,field,Bangladesh,2021,Neutral,0,4,0,13,1,0,0.29357798165137616,0.5107913669064749
+2021-07-22,Australia,West Indies,Bridgetown,"Kensington Oval, Bridgetown, Barbados",Australia,bat,West Indies,2021,West Indies,4,3,5,1,0,0,0.5705882352941176,0.34591194968553457
+2021-07-23,India,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",India,bat,Sri Lanka,2021,Sri Lanka,4,1,10,2,0,0,0.673469387755102,0.41899441340782123
+2021-07-26,West Indies,Australia,Bridgetown,"Kensington Oval, Bridgetown, Barbados",West Indies,bat,Australia,2021,West Indies,4,3,2,5,0,0,0.34591194968553457,0.5705882352941176
+2021-09-02,Sri Lanka,South Africa,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Sri Lanka,2021,Sri Lanka,1,2,2,16,1,1,0.41899441340782123,0.5828220858895705
+2021-09-04,South Africa,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",South Africa,bat,South Africa,2021,Sri Lanka,2,2,16,3,1,1,0.5828220858895705,0.41899441340782123
+2021-09-06,Papua New Guinea,United States of America,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Papua New Guinea,bat,United States of America,2021,Neutral,0,0,1,2,0,0,0.2,0.5571428571428572
+2021-09-07,Papua New Guinea,Nepal,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,bat,Nepal,2021,Neutral,0,3,0,0,0,0,0.2,0.5185185185185185
+2021-09-07,Sri Lanka,South Africa,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Sri Lanka,2021,Sri Lanka,2,2,3,17,1,1,0.41899441340782123,0.5828220858895705
+2021-09-08,Zimbabwe,Ireland,Belfast,"Civil Service Cricket Club, Stormont, Belfast",Ireland,field,Zimbabwe,2021,Neutral,0,2,3,5,0,1,0.29357798165137616,0.4024390243902439
+2021-09-09,United States of America,Papua New Guinea,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Papua New Guinea,field,United States of America,2021,Neutral,1,0,3,1,0,1,0.5571428571428572,0.2
+2021-09-10,Nepal,Papua New Guinea,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,bat,Nepal,2021,Neutral,3,0,1,0,1,1,0.5185185185185185,0.2
+2021-09-13,Zimbabwe,Ireland,Belfast,"Civil Service Cricket Club, Stormont, Belfast",Ireland,field,Ireland,2021,Neutral,1,2,4,5,1,0,0.29357798165137616,0.4024390243902439
+2021-09-13,United States of America,Nepal,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,bat,Nepal,2021,Neutral,2,4,0,2,0,0,0.5571428571428572,0.5185185185185185
+2021-09-14,Nepal,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,bat,Oman,2021,Neutral,4,4,0,2,0,0,0.5185185185185185,0.5151515151515151
+2021-09-16,United States of America,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,field,Oman,2021,Neutral,2,5,0,2,1,0,0.5571428571428572,0.5151515151515151
+2021-09-19,Oman,Nepal,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,field,Nepal,2021,Neutral,5,4,3,0,1,0,0.5151515151515151,0.5185185185185185
+2021-09-25,Papua New Guinea,Scotland,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,field,Scotland,2021,Neutral,0,2,0,2,1,0,0.2,0.5714285714285714
+2021-09-26,Oman,Papua New Guinea,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Papua New Guinea,field,Oman,2021,Neutral,4,0,2,0,0,1,0.5151515151515151,0.2
+2021-09-28,Scotland,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,bat,Scotland,2021,Neutral,3,4,1,1,1,1,0.5714285714285714,0.5151515151515151
+2021-09-29,Papua New Guinea,Scotland,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,bat,Scotland,2021,Neutral,0,3,0,3,0,0,0.2,0.5714285714285714
+2021-10-01,Papua New Guinea,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,bat,Oman,2021,Neutral,0,3,0,3,0,0,0.2,0.5151515151515151
+2021-11-26,Namibia,Oman,Windhoek,"Wanderers Cricket Ground, Windhoek",Oman,field,Namibia,2021,Neutral,3,3,2,0,0,1,0.5,0.5151515151515151
+2022-01-08,West Indies,Ireland,Kingston,"Sabina Park, Kingston, Jamaica",Ireland,field,West Indies,2022,West Indies,3,2,6,1,0,1,0.34591194968553457,0.4024390243902439
+2022-01-13,West Indies,Ireland,Kingston,"Sabina Park, Kingston, Jamaica",Ireland,field,Ireland,2022,West Indies,3,2,7,1,1,0,0.34591194968553457,0.4024390243902439
+2022-01-16,West Indies,Ireland,Kingston,"Sabina Park, Kingston, Jamaica",Ireland,field,Ireland,2022,West Indies,2,2,7,2,1,0,0.34591194968553457,0.4024390243902439
+2022-01-16,Zimbabwe,Sri Lanka,Kandy,Pallekele International Cricket Stadium,Zimbabwe,bat,Sri Lanka,2022,Sri Lanka,1,3,4,5,0,0,0.29357798165137616,0.41899441340782123
+2022-01-18,Zimbabwe,Sri Lanka,Kandy,Pallekele International Cricket Stadium,Zimbabwe,bat,Zimbabwe,2022,Sri Lanka,1,4,4,6,1,1,0.29357798165137616,0.41899441340782123
+2022-01-19,South Africa,India,Paarl,"Boland Park, Paarl",South Africa,bat,South Africa,2022,Neutral,2,3,4,10,1,1,0.5828220858895705,0.673469387755102
+2022-01-21,India,South Africa,Paarl,"Boland Park, Paarl",India,bat,South Africa,2022,Neutral,3,3,10,5,0,0,0.673469387755102,0.5828220858895705
+2022-01-21,Sri Lanka,Zimbabwe,Kandy,Pallekele International Cricket Stadium,Sri Lanka,bat,Sri Lanka,2022,Sri Lanka,3,2,6,5,1,1,0.41899441340782123,0.29357798165137616
+2022-01-23,South Africa,India,Cape Town,"Newlands, Cape Town",India,field,South Africa,2022,South Africa,3,2,6,10,0,1,0.5828220858895705,0.673469387755102
+2022-02-05,Oman,United Arab Emirates,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,field,United Arab Emirates,2022,Neutral,2,3,1,0,1,0,0.5151515151515151,0.3486238532110092
+2022-02-06,Oman,United Arab Emirates,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,field,United Arab Emirates,2022,Neutral,2,4,1,1,1,0,0.5151515151515151,0.3486238532110092
+2022-02-06,West Indies,India,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",India,field,India,2022,India,2,1,3,12,1,0,0.34591194968553457,0.673469387755102
+2022-02-09,India,West Indies,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",West Indies,field,India,2022,India,1,1,13,3,0,1,0.673469387755102,0.34591194968553457
+2022-02-11,India,West Indies,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",India,bat,India,2022,India,2,1,14,3,1,1,0.673469387755102,0.34591194968553457
+2022-03-05,Oman,United Arab Emirates,Dubai,"ICC Academy, Dubai",United Arab Emirates,field,Oman,2022,Neutral,1,4,1,2,0,1,0.5151515151515151,0.3486238532110092
+2022-03-06,Namibia,Oman,Dubai,"ICC Academy, Dubai",Namibia,bat,Namibia,2022,Neutral,3,2,3,0,1,1,0.5,0.5151515151515151
+2022-03-08,Namibia,United Arab Emirates,Dubai,"ICC Academy, Dubai",United Arab Emirates,field,United Arab Emirates,2022,Neutral,3,3,0,2,1,0,0.5,0.3486238532110092
+2022-03-09,Oman,United Arab Emirates,Dubai,"ICC Academy, Dubai",Oman,bat,Oman,2022,Neutral,1,3,2,2,1,1,0.5151515151515151,0.3486238532110092
+2022-03-11,Namibia,Oman,Sharjah,Sharjah Cricket Stadium,Namibia,bat,Oman,2022,Neutral,3,2,4,0,0,0,0.5,0.5151515151515151
+2022-03-12,United Arab Emirates,Namibia,Sharjah,Sharjah Cricket Stadium,Namibia,field,United Arab Emirates,2022,Neutral,3,2,3,0,0,1,0.3486238532110092,0.5
+2022-03-14,Oman,Namibia,Dubai,Dubai International Cricket Stadium,Oman,bat,Namibia,2022,Neutral,3,2,1,4,0,0,0.5151515151515151,0.5
+2022-03-15,Papua New Guinea,United Arab Emirates,Sharjah,Sharjah Cricket Stadium,Papua New Guinea,bat,United Arab Emirates,2022,Neutral,0,3,1,2,0,0,0.2,0.3486238532110092
+2022-03-16,Papua New Guinea,Nepal,Sharjah,Sharjah Cricket Stadium,Papua New Guinea,bat,Nepal,2022,Neutral,0,4,0,2,0,0,0.2,0.5185185185185185
+2022-03-18,United Arab Emirates,Nepal,Dubai,Dubai International Cricket Stadium,United Arab Emirates,bat,United Arab Emirates,2022,Neutral,3,4,2,2,1,1,0.3486238532110092,0.5185185185185185
+2022-03-18,Bangladesh,South Africa,Centurion,"SuperSport Park, Centurion",South Africa,field,Bangladesh,2022,South Africa,4,4,3,4,0,1,0.5107913669064749,0.5828220858895705
+2022-03-19,United Arab Emirates,Papua New Guinea,Dubai,Dubai International Cricket Stadium,United Arab Emirates,bat,Papua New Guinea,2022,Neutral,4,0,3,1,0,0,0.3486238532110092,0.2
+2022-03-20,Bangladesh,South Africa,Johannesburg,"The Wanderers Stadium, Johannesburg",Bangladesh,bat,South Africa,2022,South Africa,4,3,4,4,0,0,0.5107913669064749,0.5828220858895705
+2022-03-21,United Arab Emirates,Nepal,Dubai,Dubai International Cricket Stadium,Nepal,field,United Arab Emirates,2022,Neutral,3,3,3,2,0,1,0.3486238532110092,0.5185185185185185
+2022-03-22,Papua New Guinea,Nepal,Dubai,Dubai International Cricket Stadium,Nepal,field,Nepal,2022,Neutral,1,2,0,3,1,0,0.2,0.5185185185185185
+2022-03-23,South Africa,Bangladesh,Centurion,"SuperSport Park, Centurion",South Africa,bat,Bangladesh,2022,South Africa,4,4,5,4,0,0,0.5828220858895705,0.5107913669064749
+2022-03-25,Papua New Guinea,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Papua New Guinea,2022,Neutral,1,3,0,4,0,1,0.2,0.5185185185185185
+2022-03-26,Nepal,Papua New Guinea,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,bat,Papua New Guinea,2022,Neutral,2,2,4,1,0,0,0.5185185185185185,0.2
+2022-03-29,Netherlands,New Zealand,Mount Maunganui,"Bay Oval, Mount Maunganui",Netherlands,bat,New Zealand,2022,New Zealand,3,4,0,0,0,0,0.4098360655737705,0.6271186440677966
+2022-03-29,Australia,Pakistan,Lahore,"Gaddafi Stadium, Lahore",Pakistan,field,Australia,2022,Pakistan,3,1,11,1,0,1,0.5705882352941176,0.5123456790123457
+2022-03-31,Australia,Pakistan,Lahore,"Gaddafi Stadium, Lahore",Pakistan,field,Pakistan,2022,Pakistan,3,1,12,1,1,0,0.5705882352941176,0.5123456790123457
+2022-04-02,New Zealand,Netherlands,Hamilton,"Seddon Park, Hamilton",Netherlands,field,New Zealand,2022,New Zealand,4,2,1,0,0,1,0.6271186440677966,0.4098360655737705
+2022-04-02,Australia,Pakistan,Lahore,"Gaddafi Stadium, Lahore",Pakistan,field,Pakistan,2022,Pakistan,3,1,12,2,1,0,0.5705882352941176,0.5123456790123457
+2022-04-04,New Zealand,Netherlands,Hamilton,"Seddon Park, Hamilton",New Zealand,bat,New Zealand,2022,New Zealand,5,2,2,0,1,1,0.6271186440677966,0.4098360655737705
+2022-04-09,Scotland,Papua New Guinea,Dubai,Dubai International Cricket Stadium,Papua New Guinea,field,Scotland,2022,Neutral,4,3,4,0,0,1,0.5714285714285714,0.2
+2022-04-10,Scotland,Oman,Dubai,Dubai International Cricket Stadium,Scotland,bat,Scotland,2022,Neutral,5,3,2,1,1,1,0.5714285714285714,0.5151515151515151
+2022-04-12,Papua New Guinea,Oman,Dubai,Dubai International Cricket Stadium,Papua New Guinea,bat,Oman,2022,Neutral,3,2,0,4,0,0,0.2,0.5151515151515151
+2022-04-13,Scotland,Papua New Guinea,Dubai,Dubai International Cricket Stadium,Scotland,bat,Scotland,2022,Neutral,5,2,5,0,1,1,0.5714285714285714,0.2
+2022-04-15,Oman,Scotland,Dubai,Dubai International Cricket Stadium,Oman,bat,Scotland,2022,Neutral,3,5,1,3,0,0,0.5151515151515151,0.5714285714285714
+2022-04-16,Oman,Papua New Guinea,Dubai,Dubai International Cricket Stadium,Oman,bat,Oman,2022,Neutral,2,2,5,0,1,1,0.5151515151515151,0.2
+2022-05-28,United States of America,Scotland,Pearland,"Choice Moosa Stadium, Pearland",United States of America,bat,United States of America,2022,Neutral,2,5,1,1,1,1,0.5571428571428572,0.5714285714285714
+2022-05-29,Scotland,United States of America,Pearland,"Choice Moosa Stadium, Pearland",Scotland,bat,Scotland,2022,Neutral,4,3,1,2,1,1,0.5714285714285714,0.5571428571428572
+2022-05-31,United Arab Emirates,Scotland,Pearland,"Moosa Cricket Stadium, Pearland",United Arab Emirates,bat,Scotland,2022,Neutral,4,4,3,4,0,0,0.3486238532110092,0.5714285714285714
+2022-05-31,Netherlands,West Indies,Amstelveen,"VRA Ground, Amstelveen",West Indies,field,West Indies,2022,Neutral,1,0,0,0,1,0,0.4098360655737705,0.34591194968553457
+2022-06-01,United Arab Emirates,United States of America,Pearland,"Moosa Cricket Stadium, Pearland",United Arab Emirates,bat,United States of America,2022,Neutral,3,2,0,2,0,0,0.3486238532110092,0.5571428571428572
+2022-06-02,Netherlands,West Indies,Amstelveen,"VRA Ground, Amstelveen",Netherlands,bat,West Indies,2022,Neutral,1,1,0,1,0,0,0.4098360655737705,0.34591194968553457
+2022-06-03,Scotland,United Arab Emirates,Pearland,"Moosa Cricket Stadium, Pearland",Scotland,bat,United Arab Emirates,2022,Neutral,4,2,5,3,0,0,0.5714285714285714,0.3486238532110092
+2022-06-04,West Indies,Netherlands,Amstelveen,"VRA Ground, Amstelveen",West Indies,bat,West Indies,2022,Neutral,2,0,2,0,1,1,0.34591194968553457,0.4098360655737705
+2022-06-04,United States of America,United Arab Emirates,Pearland,"Moosa Cricket Stadium, Pearland",United Arab Emirates,field,United Arab Emirates,2022,Neutral,2,2,3,0,1,0,0.5571428571428572,0.3486238532110092
+2022-06-08,United States of America,Oman,Pearland,"Moosa Cricket Stadium, Pearland",Oman,field,United States of America,2022,Neutral,2,2,0,3,0,1,0.5571428571428572,0.5151515151515151
+2022-06-08,West Indies,Pakistan,Multan,Multan Cricket Stadium,West Indies,bat,Pakistan,2022,Pakistan,3,2,3,5,0,0,0.34591194968553457,0.5123456790123457
+2022-06-09,Oman,Nepal,Pearland,"Moosa Cricket Stadium, Pearland",Oman,bat,Oman,2022,Neutral,2,1,3,1,1,1,0.5151515151515151,0.5185185185185185
+2022-06-10,Pakistan,West Indies,Multan,Multan Cricket Stadium,Pakistan,bat,Pakistan,2022,Pakistan,3,3,6,3,1,1,0.5123456790123457,0.34591194968553457
+2022-06-12,Pakistan,West Indies,Multan,Multan Cricket Stadium,Pakistan,bat,Pakistan,2022,Pakistan,4,3,7,3,1,1,0.5123456790123457,0.34591194968553457
+2022-06-12,Oman,United States of America,Pearland,"Moosa Cricket Stadium, Pearland",Oman,bat,Oman,2022,Neutral,3,3,3,1,1,1,0.5151515151515151,0.5571428571428572
+2022-06-14,Oman,Nepal,Pearland,"Moosa Cricket Stadium, Pearland",Oman,bat,Nepal,2022,Neutral,3,1,4,1,0,0,0.5151515151515151,0.5185185185185185
+2022-06-14,Sri Lanka,Australia,Kandy,Pallekele International Cricket Stadium,Sri Lanka,bat,Australia,2022,Sri Lanka,3,2,1,6,0,0,0.41899441340782123,0.5705882352941176
+2022-06-15,United States of America,Nepal,Pearland,"Moosa Cricket Stadium, Pearland",Nepal,field,United States of America,2022,Neutral,2,2,0,3,0,1,0.5571428571428572,0.5185185185185185
+2022-06-16,Sri Lanka,Australia,Kandy,Pallekele International Cricket Stadium,Australia,field,Sri Lanka,2022,Sri Lanka,3,3,1,7,0,1,0.41899441340782123,0.5705882352941176
+2022-06-17,England,Netherlands,Amstelveen,"VRA Ground, Amstelveen",Netherlands,field,England,2022,Neutral,5,0,0,0,0,1,0.5895953757225434,0.4098360655737705
+2022-06-19,Netherlands,England,Amstelveen,"VRA Ground, Amstelveen",Netherlands,bat,England,2022,Neutral,0,5,0,1,0,0,0.4098360655737705,0.5895953757225434
+2022-06-19,Australia,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",Australia,bat,Sri Lanka,2022,Sri Lanka,2,3,7,2,0,0,0.5705882352941176,0.41899441340782123
+2022-06-21,Sri Lanka,Australia,Colombo,"R Premadasa Stadium, Colombo",Australia,field,Sri Lanka,2022,Sri Lanka,3,1,3,7,0,1,0.41899441340782123,0.5705882352941176
+2022-06-22,Netherlands,England,Amstelveen,"VRA Ground, Amstelveen",England,field,England,2022,Neutral,0,5,0,2,1,0,0.4098360655737705,0.5895953757225434
+2022-06-24,Sri Lanka,Australia,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Australia,2022,Sri Lanka,4,1,4,7,0,0,0.41899441340782123,0.5705882352941176
+2022-07-10,Ireland,New Zealand,Dublin,"The Village, Malahide, Dublin",New Zealand,field,New Zealand,2022,Neutral,3,5,0,2,1,0,0.4024390243902439,0.6271186440677966
+2022-07-10,West Indies,Bangladesh,Providence,"Providence Stadium, Guyana",Bangladesh,field,Bangladesh,2022,Neutral,2,4,2,11,1,0,0.34591194968553457,0.5107913669064749
+2022-07-11,Namibia,Nepal,Ayr,"Cambusdoon New Ground, Ayr",Namibia,bat,Namibia,2022,Neutral,2,1,0,0,1,1,0.5,0.5185185185185185
+2022-07-12,Ireland,New Zealand,Dublin,"The Village, Malahide, Dublin",New Zealand,field,New Zealand,2022,Neutral,3,5,0,3,1,0,0.4024390243902439,0.6271186440677966
+2022-07-12,England,India,London,"Kennington Oval, London",India,field,India,2022,England,5,3,7,5,1,0,0.5895953757225434,0.673469387755102
+2022-07-13,Scotland,Nepal,Glasgow,"Titwood, Glasgow",Nepal,field,Nepal,2022,Neutral,3,1,0,0,1,0,0.5714285714285714,0.5185185185185185
+2022-07-13,West Indies,Bangladesh,Providence,"Providence Stadium, Guyana",Bangladesh,field,Bangladesh,2022,Neutral,1,4,2,12,1,0,0.34591194968553457,0.5107913669064749
+2022-07-14,England,India,London,"Lord's, London",India,field,England,2022,England,4,4,7,6,0,1,0.5895953757225434,0.673469387755102
+2022-07-14,Namibia,Scotland,Glasgow,"Titwood, Glasgow",Scotland,field,Scotland,2022,Neutral,2,2,0,0,1,0,0.5,0.5714285714285714
+2022-07-15,New Zealand,Ireland,Dublin,"The Village, Malahide, Dublin",New Zealand,bat,New Zealand,2022,Neutral,5,2,4,0,1,1,0.6271186440677966,0.4024390243902439
+2022-07-16,Namibia,Nepal,Ayr,"Cambusdoon New Ground, Ayr",Namibia,bat,Namibia,2022,Neutral,2,2,1,0,1,1,0.5,0.5185185185185185
+2022-07-16,West Indies,Bangladesh,Providence,"Providence Stadium, Guyana",Bangladesh,field,Bangladesh,2022,Neutral,0,4,2,13,1,0,0.34591194968553457,0.5107913669064749
+2022-07-17,England,India,Manchester,"Old Trafford, Manchester",India,field,India,2022,England,4,4,8,6,1,0,0.5895953757225434,0.673469387755102
+2022-07-17,Nepal,Scotland,Glasgow,"Titwood, Glasgow",Scotland,field,Scotland,2022,Neutral,2,3,1,0,1,0,0.5185185185185185,0.5714285714285714
+2022-07-19,South Africa,England,Chester-le-Street,"Riverside Ground, Chester-le-Street",South Africa,bat,South Africa,2022,England,3,3,5,6,1,1,0.5828220858895705,0.5895953757225434
+2022-07-22,India,West Indies,Port of Spain,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,field,India,2022,West Indies,4,0,15,3,0,1,0.673469387755102,0.34591194968553457
+2022-07-22,England,South Africa,Manchester,"Old Trafford, Manchester",South Africa,field,England,2022,England,2,3,6,6,0,1,0.5895953757225434,0.5828220858895705
+2022-07-24,West Indies,India,Port of Spain,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,bat,India,2022,West Indies,0,4,3,16,0,0,0.34591194968553457,0.673469387755102
+2022-07-27,India,West Indies,Port of Spain,"Queen's Park Oval, Port of Spain, Trinidad",India,bat,India,2022,West Indies,4,0,17,3,1,1,0.673469387755102,0.34591194968553457
+2022-07-31,Scotland,New Zealand,Edinburgh,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,bat,New Zealand,2022,Neutral,3,5,0,1,0,0,0.5714285714285714,0.6271186440677966
+2022-08-05,Bangladesh,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Zimbabwe,2022,Neutral,4,2,14,0,1,0,0.5107913669064749,0.29357798165137616
+2022-08-07,Bangladesh,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Zimbabwe,2022,Neutral,4,2,14,1,1,0,0.5107913669064749,0.29357798165137616
+2022-08-10,Scotland,United Arab Emirates,Aberdeen,"Mannofield Park, Aberdeen",Scotland,bat,Scotland,2022,Neutral,2,3,5,4,1,1,0.5714285714285714,0.3486238532110092
+2022-08-10,Bangladesh,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Bangladesh,2022,Neutral,3,3,14,2,0,1,0.5107913669064749,0.29357798165137616
+2022-08-11,United Arab Emirates,United States of America,Aberdeen,"Mannofield Park, Aberdeen",United Arab Emirates,bat,United States of America,2022,Neutral,2,3,1,3,0,0,0.3486238532110092,0.5571428571428572
+2022-08-13,United States of America,Scotland,Aberdeen,"Mannofield Park, Aberdeen",Scotland,field,Scotland,2022,Neutral,3,3,2,2,1,0,0.5571428571428572,0.5714285714285714
+2022-08-14,Scotland,United Arab Emirates,Aberdeen,"Mannofield Park, Aberdeen",United Arab Emirates,field,Scotland,2022,Neutral,4,2,6,4,0,1,0.5714285714285714,0.3486238532110092
+2022-08-16,Pakistan,Netherlands,Rotterdam,"Hazelaarweg, Rotterdam",Pakistan,bat,Pakistan,2022,Neutral,5,0,0,0,1,1,0.5123456790123457,0.4098360655737705
+2022-08-17,Scotland,United States of America,Aberdeen,"Mannofield Park, Aberdeen",United States of America,field,United States of America,2022,Neutral,4,3,3,2,1,0,0.5714285714285714,0.5571428571428572
+2022-08-17,New Zealand,West Indies,Bridgetown,"Kensington Oval, Bridgetown, Barbados",West Indies,field,West Indies,2022,West Indies,5,0,5,0,1,0,0.6271186440677966,0.34591194968553457
+2022-08-18,Zimbabwe,India,Harare,Harare Sports Club,India,field,India,2022,Neutral,3,4,0,7,1,0,0.29357798165137616,0.673469387755102
+2022-08-18,Netherlands,Pakistan,Rotterdam,"Hazelaarweg, Rotterdam",Netherlands,bat,Pakistan,2022,Neutral,0,5,0,1,0,0,0.4098360655737705,0.5123456790123457
+2022-08-19,New Zealand,West Indies,Bridgetown,"Kensington Oval, Bridgetown, Barbados",West Indies,field,New Zealand,2022,West Indies,4,1,5,1,0,1,0.6271186440677966,0.34591194968553457
+2022-08-20,Zimbabwe,India,Harare,Harare Sports Club,India,field,India,2022,Neutral,2,5,0,8,1,0,0.29357798165137616,0.673469387755102
+2022-08-21,Pakistan,Netherlands,Rotterdam,"Hazelaarweg, Rotterdam",Pakistan,bat,Pakistan,2022,Neutral,5,0,2,0,1,1,0.5123456790123457,0.4098360655737705
+2022-08-21,West Indies,New Zealand,Bridgetown,"Kensington Oval, Bridgetown, Barbados",New Zealand,field,New Zealand,2022,West Indies,1,4,1,6,1,0,0.34591194968553457,0.6271186440677966
+2022-08-22,India,Zimbabwe,Harare,Harare Sports Club,India,bat,India,2022,Neutral,5,2,9,0,1,1,0.673469387755102,0.29357798165137616
+2022-08-28,Zimbabwe,Australia,Townsville,"Tony Ireland Stadium, Townsville",Australia,field,Australia,2022,Neutral,1,2,0,0,1,0,0.29357798165137616,0.5705882352941176
+2022-08-31,Zimbabwe,Australia,Townsville,"Tony Ireland Stadium, Townsville",Australia,field,Australia,2022,Neutral,0,2,0,1,1,0,0.29357798165137616,0.5705882352941176
+2022-09-03,Australia,Zimbabwe,Townsville,"Riverway Stadium, Townsville",Zimbabwe,field,Zimbabwe,2022,Neutral,3,0,2,0,1,0,0.5705882352941176,0.29357798165137616
+2022-09-06,New Zealand,Australia,Cairns,"Cazaly's Stadium, Cairns",Australia,field,Australia,2022,Neutral,4,3,5,7,1,0,0.6271186440677966,0.5705882352941176
+2022-09-08,Australia,New Zealand,Cairns,"Cazaly's Stadium, Cairns",New Zealand,field,Australia,2022,Neutral,4,3,8,5,0,1,0.5705882352941176,0.6271186440677966
+2022-09-11,Australia,New Zealand,Cairns,"Cazaly's Stadium, Cairns",New Zealand,field,Australia,2022,Neutral,4,2,9,5,0,1,0.5705882352941176,0.6271186440677966
+2022-09-13,Papua New Guinea,United States of America,Port Moresby,"Amini Park, Port Moresby",United States of America,field,Papua New Guinea,2022,Neutral,1,3,1,4,0,1,0.2,0.5571428571428572
+2022-09-15,Namibia,United States of America,Port Moresby,"Amini Park, Port Moresby",Namibia,bat,Namibia,2022,Neutral,3,3,0,1,1,1,0.5,0.5571428571428572
+2022-09-17,Namibia,United States of America,Port Moresby,"Amini Park, Port Moresby",United States of America,field,Namibia,2022,Neutral,4,2,1,1,0,1,0.5,0.5571428571428572
+2022-09-20,Namibia,Papua New Guinea,Port Moresby,"Amini Park, Port Moresby",Namibia,bat,Namibia,2022,Neutral,4,1,2,0,1,1,0.5,0.2
+2022-09-21,Namibia,Papua New Guinea,Port Moresby,"Amini Park, Port Moresby",Namibia,bat,Namibia,2022,Neutral,4,1,3,0,1,1,0.5,0.2
+2022-10-06,South Africa,India,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,field,South Africa,2022,Neutral,2,5,7,10,0,1,0.5828220858895705,0.673469387755102
+2022-10-09,South Africa,India,Ranchi,"JSCA International Stadium Complex, Ranchi",South Africa,bat,India,2022,Neutral,3,4,8,10,0,0,0.5828220858895705,0.673469387755102
+2022-10-11,South Africa,India,Delhi,"Arun Jaitley Stadium, Delhi",India,field,India,2022,India,2,4,8,11,1,0,0.5828220858895705,0.673469387755102
+2022-11-14,United Arab Emirates,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,United Arab Emirates,2022,Neutral,2,1,4,2,0,1,0.3486238532110092,0.5185185185185185
+2022-11-16,United Arab Emirates,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",United Arab Emirates,bat,Nepal,2022,Neutral,2,1,5,2,0,0,0.3486238532110092,0.5185185185185185
+2022-11-17,England,Australia,Adelaide,Adelaide Oval,Australia,field,Australia,2022,Australia,2,4,14,11,1,0,0.5895953757225434,0.5705882352941176
+2022-11-18,United Arab Emirates,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2022,Neutral,1,2,5,3,1,0,0.3486238532110092,0.5185185185185185
+2022-11-19,Australia,England,Sydney,Sydney Cricket Ground,Australia,bat,Australia,2022,Australia,4,2,12,14,1,1,0.5705882352941176,0.5895953757225434
+2022-11-19,Papua New Guinea,Namibia,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,field,Namibia,2022,Neutral,1,5,0,4,1,0,0.2,0.5
+2022-11-20,United States of America,Namibia,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,field,United States of America,2022,Neutral,1,5,1,2,0,1,0.5571428571428572,0.5
+2022-11-22,Australia,England,Melbourne,Melbourne Cricket Ground,England,field,Australia,2022,Australia,5,1,13,14,0,1,0.5705882352941176,0.5895953757225434
+2022-11-22,Papua New Guinea,United States of America,Windhoek,"Wanderers Cricket Ground, Windhoek",United States of America,field,United States of America,2022,Neutral,1,2,2,4,1,0,0.2,0.5571428571428572
+2022-11-23,Papua New Guinea,Namibia,Windhoek,"Wanderers Cricket Ground, Windhoek",Papua New Guinea,bat,Namibia,2022,Neutral,1,4,0,5,0,0,0.2,0.5
+2022-11-25,United States of America,Papua New Guinea,Windhoek,"Wanderers Cricket Ground, Windhoek",United States of America,bat,United States of America,2022,Neutral,2,0,5,2,1,1,0.5571428571428572,0.2
+2022-11-25,India,New Zealand,Auckland,"Eden Park, Auckland",New Zealand,field,New Zealand,2022,New Zealand,4,2,9,8,1,0,0.673469387755102,0.6271186440677966
+2022-11-26,United States of America,Namibia,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,field,Namibia,2022,Neutral,3,4,2,2,1,0,0.5571428571428572,0.5
+2022-12-01,Namibia,Scotland,Windhoek,"United Cricket Club Ground, Windhoek",Scotland,field,Scotland,2022,Neutral,4,3,0,1,1,0,0.5,0.5714285714285714
+2022-12-04,Nepal,Scotland,Windhoek,"United Cricket Club Ground, Windhoek",Scotland,field,Scotland,2022,Neutral,2,4,1,1,1,0,0.5185185185185185,0.5714285714285714
+2022-12-04,India,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,field,Bangladesh,2022,Bangladesh,3,3,6,2,1,0,0.673469387755102,0.5107913669064749
+2022-12-05,Scotland,Namibia,Windhoek,"United Cricket Club Ground, Windhoek",Namibia,field,Namibia,2022,Neutral,4,3,2,0,1,0,0.5714285714285714,0.5
+2022-12-07,Bangladesh,India,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,Bangladesh,2022,Bangladesh,3,2,3,6,1,1,0.5107913669064749,0.673469387755102
+2022-12-07,Namibia,Nepal,Windhoek,"United Cricket Club Ground, Windhoek",Nepal,field,Namibia,2022,Neutral,3,2,2,0,0,1,0.5,0.5185185185185185
+2022-12-08,Nepal,Scotland,Windhoek,"United Cricket Club Ground, Windhoek",Nepal,bat,Scotland,2022,Neutral,2,3,1,2,0,0,0.5185185185185185,0.5714285714285714
+2022-12-10,India,Bangladesh,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,field,India,2022,Bangladesh,2,3,6,4,0,1,0.673469387755102,0.5107913669064749
+2023-01-09,New Zealand,Pakistan,Karachi,"National Stadium, Karachi",Pakistan,field,Pakistan,2023,Pakistan,2,5,10,2,1,0,0.6271186440677966,0.5123456790123457
+2023-01-10,India,Sri Lanka,Guwahati,"Barsapara Cricket Stadium, Guwahati",Sri Lanka,field,India,2023,Neutral,2,3,10,3,0,1,0.673469387755102,0.41899441340782123
+2023-01-11,New Zealand,Pakistan,Karachi,"National Stadium, Karachi",New Zealand,bat,New Zealand,2023,Pakistan,1,5,10,3,1,1,0.6271186440677966,0.5123456790123457
+2023-01-12,Sri Lanka,India,Kolkata,"Eden Gardens, Kolkata",Sri Lanka,bat,India,2023,India,3,2,3,11,0,0,0.41899441340782123,0.673469387755102
+2023-01-13,Pakistan,New Zealand,Karachi,"National Stadium, Karachi",Pakistan,bat,New Zealand,2023,Pakistan,4,2,3,11,0,0,0.5123456790123457,0.6271186440677966
+2023-01-15,India,Sri Lanka,Thiruvananthapuram,"Greenfield International Stadium, Thiruvananthapuram",India,bat,India,2023,Neutral,3,2,12,3,1,1,0.673469387755102,0.41899441340782123
+2023-01-18,Ireland,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Zimbabwe,2023,Neutral,2,1,6,4,1,0,0.4024390243902439,0.29357798165137616
+2023-01-18,India,New Zealand,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,bat,India,2023,India,4,3,9,9,1,1,0.673469387755102,0.6271186440677966
+2023-01-21,New Zealand,India,Raipur,"Shaheed Veer Narayan Singh International Stadium, Raipur",India,field,India,2023,Neutral,3,5,9,10,1,0,0.6271186440677966,0.673469387755102
+2023-01-21,Ireland,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Ireland,2023,Neutral,1,2,6,5,0,1,0.4024390243902439,0.29357798165137616
+2023-01-24,India,New Zealand,Indore,"Holkar Cricket Stadium, Indore",New Zealand,field,India,2023,Neutral,5,2,11,9,0,1,0.673469387755102,0.6271186440677966
+2023-01-27,South Africa,England,Bloemfontein,"Mangaung Oval, Bloemfontein",South Africa,bat,South Africa,2023,South Africa,2,1,6,7,1,1,0.5828220858895705,0.5895953757225434
+2023-01-29,England,South Africa,Bloemfontein,"Mangaung Oval, Bloemfontein",South Africa,field,South Africa,2023,South Africa,1,2,7,7,1,0,0.5895953757225434,0.5828220858895705
+2023-02-01,England,South Africa,Kimberley,"Diamond Oval, Kimberley",South Africa,field,England,2023,Neutral,0,3,7,8,0,1,0.5895953757225434,0.5828220858895705
+2023-02-14,Namibia,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2023,Neutral,4,2,3,0,1,0,0.5,0.5185185185185185
+2023-02-15,Namibia,Scotland,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Scotland,field,Scotland,2023,Neutral,3,3,1,2,1,0,0.5,0.5714285714285714
+2023-02-17,Scotland,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2023,Neutral,4,2,3,1,1,0,0.5714285714285714,0.5185185185185185
+2023-02-18,Namibia,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2023,Neutral,2,2,3,1,1,0,0.5,0.5185185185185185
+2023-02-20,Scotland,Namibia,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Namibia,field,Scotland,2023,Neutral,3,2,3,1,0,1,0.5714285714285714,0.5
+2023-02-21,Scotland,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2023,Neutral,3,3,3,2,1,0,0.5714285714285714,0.5185185185185185
+2023-02-23,Namibia,United Arab Emirates,Dubai,Dubai International Cricket Stadium,United Arab Emirates,field,United Arab Emirates,2023,Neutral,1,1,0,4,1,0,0.5,0.3486238532110092
+2023-02-25,United Arab Emirates,Namibia,Dubai,Dubai International Cricket Stadium,Namibia,field,Namibia,2023,Neutral,2,0,5,0,1,0,0.3486238532110092,0.5
+2023-02-28,Papua New Guinea,United Arab Emirates,Dubai,Dubai International Cricket Stadium,United Arab Emirates,field,Papua New Guinea,2023,Neutral,0,2,2,3,0,1,0.2,0.3486238532110092
+2023-03-01,Bangladesh,England,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,England,2023,Bangladesh,3,1,2,4,0,0,0.5107913669064749,0.5895953757225434
+2023-03-02,United Arab Emirates,Nepal,Dubai,Dubai International Cricket Stadium,Nepal,field,United Arab Emirates,2023,Neutral,1,4,5,4,0,1,0.3486238532110092,0.5185185185185185
+2023-03-03,England,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,field,England,2023,Bangladesh,2,3,5,2,0,1,0.5895953757225434,0.5107913669064749
+2023-03-03,Papua New Guinea,Nepal,Dubai,Dubai International Cricket Stadium,Papua New Guinea,bat,Nepal,2023,Neutral,1,4,2,4,0,0,0.2,0.5185185185185185
+2023-03-05,United Arab Emirates,Papua New Guinea,Dubai,Dubai International Cricket Stadium,Papua New Guinea,field,Papua New Guinea,2023,Neutral,2,1,3,3,1,0,0.3486238532110092,0.2
+2023-03-06,Nepal,United Arab Emirates,Dubai,Dubai International Cricket Stadium,Nepal,bat,Nepal,2023,Neutral,4,2,4,6,1,1,0.5185185185185185,0.3486238532110092
+2023-03-06,Bangladesh,England,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,bat,Bangladesh,2023,Bangladesh,2,3,2,6,1,1,0.5107913669064749,0.5895953757225434
+2023-03-09,Nepal,Papua New Guinea,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,field,Nepal,2023,Neutral,4,2,5,2,0,1,0.5185185185185185,0.2
+2023-03-10,Papua New Guinea,United Arab Emirates,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",United Arab Emirates,field,Papua New Guinea,2023,Neutral,2,1,4,3,0,1,0.2,0.3486238532110092
+2023-03-12,Nepal,United Arab Emirates,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,bat,Nepal,2023,Neutral,4,1,5,6,1,1,0.5185185185185185,0.3486238532110092
+2023-03-13,Papua New Guinea,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2023,Neutral,3,4,2,6,1,0,0.2,0.5185185185185185
+2023-03-15,Papua New Guinea,United Arab Emirates,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,bat,United Arab Emirates,2023,Neutral,2,1,5,3,0,0,0.2,0.3486238532110092
+2023-03-16,United Arab Emirates,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",United Arab Emirates,bat,Nepal,2023,Neutral,1,5,6,6,0,0,0.3486238532110092,0.5185185185185185
+2023-03-17,Australia,India,Mumbai,"Wankhede Stadium, Mumbai",India,field,India,2023,India,5,5,14,13,1,0,0.5705882352941176,0.673469387755102
+2023-03-18,West Indies,South Africa,East London,"Buffalo Park, East London",West Indies,bat,West Indies,2023,South Africa,1,2,3,6,1,1,0.34591194968553457,0.5828220858895705
+2023-03-18,Bangladesh,Ireland,Sylhet,Sylhet International Cricket Stadium,Ireland,field,Bangladesh,2023,Neutral,2,1,2,0,0,1,0.5107913669064749,0.4024390243902439
+2023-03-19,India,Australia,Visakhapatnam,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Australia,field,Australia,2023,Neutral,5,4,14,14,1,0,0.673469387755102,0.5705882352941176
+2023-03-21,West Indies,South Africa,Potchefstroom,"Senwes Park, Potchefstroom",South Africa,field,South Africa,2023,South Africa,2,2,4,6,1,0,0.34591194968553457,0.5828220858895705
+2023-03-21,Zimbabwe,Netherlands,Harare,Harare Sports Club,Netherlands,field,Netherlands,2023,Neutral,2,0,0,2,1,0,0.29357798165137616,0.4098360655737705
+2023-03-22,Australia,India,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Australia,bat,Australia,2023,India,4,4,15,14,1,1,0.5705882352941176,0.673469387755102
+2023-03-23,Ireland,Bangladesh,Sylhet,Sylhet International Cricket Stadium,Ireland,bat,Bangladesh,2023,Neutral,1,2,0,3,0,0,0.4024390243902439,0.5107913669064749
+2023-03-23,Zimbabwe,Netherlands,Harare,Harare Sports Club,Zimbabwe,bat,Zimbabwe,2023,Neutral,2,1,0,3,1,1,0.29357798165137616,0.4098360655737705
+2023-03-25,New Zealand,Sri Lanka,Auckland,"Eden Park, Auckland",Sri Lanka,field,New Zealand,2023,New Zealand,2,1,12,3,0,1,0.6271186440677966,0.41899441340782123
+2023-03-25,Netherlands,Zimbabwe,Harare,Harare Sports Club,Netherlands,bat,Zimbabwe,2023,Neutral,1,3,3,1,0,0,0.4098360655737705,0.29357798165137616
+2023-03-26,United States of America,Namibia,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,field,United States of America,2023,Neutral,3,1,2,3,0,1,0.5571428571428572,0.5
+2023-03-27,United Arab Emirates,Papua New Guinea,Windhoek,"Wanderers Cricket Ground, Windhoek",Papua New Guinea,field,United Arab Emirates,2023,Neutral,1,2,4,5,0,1,0.3486238532110092,0.2
+2023-03-29,Canada,United States of America,Windhoek,"Wanderers Cricket Ground, Windhoek",United States of America,field,Canada,2023,Neutral,0,4,0,0,0,1,0.37037037037037035,0.5571428571428572
+2023-03-30,United Arab Emirates,United States of America,Windhoek,"United Cricket Club Ground, Windhoek",United Arab Emirates,bat,United States of America,2023,Neutral,2,3,1,4,0,0,0.3486238532110092,0.5571428571428572
+2023-03-30,Jersey,Namibia,Windhoek,"Wanderers Cricket Ground, Windhoek",Jersey,bat,Namibia,2023,Neutral,0,1,0,0,0,0,0.25,0.5
+2023-03-31,Netherlands,South Africa,Benoni,"Willowmoore Park, Benoni",South Africa,field,South Africa,2023,Neutral,1,3,0,0,1,0,0.4098360655737705,0.5828220858895705
+2023-03-31,Sri Lanka,New Zealand,Hamilton,"Seddon Park, Hamilton",Sri Lanka,bat,New Zealand,2023,New Zealand,0,2,3,13,0,0,0.41899441340782123,0.6271186440677966
+2023-04-01,Jersey,Papua New Guinea,Windhoek,"United Cricket Club Ground, Windhoek",Jersey,bat,Jersey,2023,Neutral,0,1,0,0,1,1,0.25,0.2
+2023-04-01,Canada,United Arab Emirates,Windhoek,"Wanderers Cricket Ground, Windhoek",Canada,bat,United Arab Emirates,2023,Neutral,1,2,0,0,0,0,0.37037037037037035,0.3486238532110092
+2023-04-02,South Africa,Netherlands,Johannesburg,"The Wanderers Stadium, Johannesburg",Netherlands,field,South Africa,2023,South Africa,3,1,1,0,0,1,0.5828220858895705,0.4098360655737705
+2023-04-02,United States of America,Papua New Guinea,Windhoek,"Wanderers Cricket Ground, Windhoek",United States of America,bat,United States of America,2023,Neutral,3,1,6,2,1,1,0.5571428571428572,0.2
+2023-04-02,United Arab Emirates,Namibia,Windhoek,"United Cricket Club Ground, Windhoek",Namibia,field,United Arab Emirates,2023,Neutral,3,2,5,1,0,1,0.3486238532110092,0.5
+2023-04-04,United States of America,Jersey,Windhoek,"United Cricket Club Ground, Windhoek",Jersey,field,United States of America,2023,Neutral,3,1,0,0,0,1,0.5571428571428572,0.25
+2023-04-04,Namibia,Canada,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,bat,Namibia,2023,Neutral,2,1,0,0,1,1,0.5,0.37037037037037035
+2023-04-05,Canada,Papua New Guinea,Windhoek,"United Cricket Club Ground, Windhoek",Canada,bat,Canada,2023,Neutral,1,0,0,0,1,1,0.37037037037037035,0.2
+2023-04-05,United Arab Emirates,Jersey,Windhoek,"Wanderers Cricket Ground, Windhoek",United Arab Emirates,bat,United Arab Emirates,2023,Neutral,3,1,0,0,1,1,0.3486238532110092,0.25
+2023-04-21,Nepal,Oman,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Oman,field,Nepal,2023,Neutral,5,3,2,4,0,1,0.5185185185185185,0.5151515151515151
+2023-04-27,New Zealand,Pakistan,Rawalpindi,Rawalpindi Cricket Stadium,Pakistan,field,Pakistan,2023,Pakistan,2,3,12,3,1,0,0.6271186440677966,0.5123456790123457
+2023-04-29,New Zealand,Pakistan,Rawalpindi,Rawalpindi Cricket Stadium,Pakistan,field,Pakistan,2023,Pakistan,2,3,12,4,1,0,0.6271186440677966,0.5123456790123457
+2023-04-29,United Arab Emirates,Oman,Kathmandu,Mulpani Cricket Ground,Oman,field,United Arab Emirates,2023,Neutral,4,2,2,3,0,1,0.3486238532110092,0.5151515151515151
+2023-05-01,United Arab Emirates,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2023,Neutral,4,5,6,7,1,0,0.3486238532110092,0.5185185185185185
+2023-05-03,Pakistan,New Zealand,Karachi,"National Stadium, Karachi",New Zealand,field,Pakistan,2023,Pakistan,3,2,5,12,0,1,0.5123456790123457,0.6271186440677966
+2023-05-05,Pakistan,New Zealand,Karachi,"National Stadium, Karachi",New Zealand,field,Pakistan,2023,Pakistan,3,2,6,12,0,1,0.5123456790123457,0.6271186440677966
+2023-05-07,New Zealand,Pakistan,Karachi,"National Stadium, Karachi",New Zealand,bat,New Zealand,2023,Pakistan,1,4,12,7,1,1,0.6271186440677966,0.5123456790123457
+2023-05-12,Ireland,Bangladesh,Chelmsford,"County Ground, Chelmsford",Bangladesh,field,Bangladesh,2023,Neutral,1,3,0,4,1,0,0.4024390243902439,0.5107913669064749
+2023-05-14,Bangladesh,Ireland,Chelmsford,"County Ground, Chelmsford",Ireland,field,Bangladesh,2023,Neutral,4,1,5,0,0,1,0.5107913669064749,0.4024390243902439
+2023-06-04,United Arab Emirates,West Indies,Sharjah,Sharjah Cricket Stadium,United Arab Emirates,bat,West Indies,2023,Neutral,4,2,0,2,0,0,0.3486238532110092,0.34591194968553457
+2023-06-06,West Indies,United Arab Emirates,Sharjah,Sharjah Cricket Stadium,West Indies,bat,West Indies,2023,Neutral,2,3,3,0,1,1,0.34591194968553457,0.3486238532110092
+2023-06-09,United Arab Emirates,West Indies,Sharjah,Sharjah Cricket Stadium,United Arab Emirates,bat,West Indies,2023,Neutral,2,3,0,4,0,0,0.3486238532110092,0.34591194968553457
+2023-06-18,Nepal,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Zimbabwe,2023,Neutral,5,3,0,0,1,0,0.5185185185185185,0.29357798165137616
+2023-06-18,West Indies,United States of America,Harare,"Takashinga Sports Club, Highfield, Harare",United States of America,field,West Indies,2023,Neutral,4,4,0,0,0,1,0.34591194968553457,0.5571428571428572
+2023-06-19,Ireland,Oman,Bulawayo,Bulawayo Athletic Club,Oman,field,Oman,2023,Neutral,1,2,0,0,1,0,0.4024390243902439,0.5151515151515151
+2023-06-19,Sri Lanka,United Arab Emirates,Bulawayo,"Queens Sports Club, Bulawayo",United Arab Emirates,field,Sri Lanka,2023,Neutral,0,1,0,0,0,1,0.41899441340782123,0.3486238532110092
+2023-06-20,United States of America,Nepal,Harare,"Takashinga Sports Club, Highfield, Harare",Nepal,field,Nepal,2023,Neutral,3,4,1,3,1,0,0.5571428571428572,0.5185185185185185
+2023-06-20,Netherlands,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Zimbabwe,2023,Neutral,1,3,3,2,1,0,0.4098360655737705,0.29357798165137616
+2023-06-21,Ireland,Scotland,Bulawayo,"Queens Sports Club, Bulawayo",Scotland,field,Scotland,2023,Neutral,0,3,4,0,1,0,0.4024390243902439,0.5714285714285714
+2023-06-21,United Arab Emirates,Oman,Bulawayo,Bulawayo Athletic Club,Oman,field,Oman,2023,Neutral,0,2,3,3,1,0,0.3486238532110092,0.5151515151515151
+2023-06-22,United States of America,Netherlands,Harare,"Takashinga Sports Club, Highfield, Harare",Netherlands,field,Netherlands,2023,Neutral,3,0,0,0,1,0,0.5571428571428572,0.4098360655737705
+2023-06-22,West Indies,Nepal,Harare,Harare Sports Club,Nepal,field,West Indies,2023,Neutral,4,4,0,0,0,1,0.34591194968553457,0.5185185185185185
+2023-06-23,Oman,Sri Lanka,Bulawayo,"Queens Sports Club, Bulawayo",Sri Lanka,field,Sri Lanka,2023,Neutral,2,1,0,0,1,0,0.5151515151515151,0.41899441340782123
+2023-06-23,Scotland,United Arab Emirates,Bulawayo,Bulawayo Athletic Club,United Arab Emirates,field,Scotland,2023,Neutral,3,0,7,4,0,1,0.5714285714285714,0.3486238532110092
+2023-06-24,Nepal,Netherlands,Harare,"Takashinga Sports Club, Highfield, Harare",Netherlands,field,Netherlands,2023,Neutral,3,1,0,0,1,0,0.5185185185185185,0.4098360655737705
+2023-06-24,Zimbabwe,West Indies,Harare,Harare Sports Club,West Indies,field,Zimbabwe,2023,Neutral,4,5,1,2,0,1,0.29357798165137616,0.34591194968553457
+2023-06-25,Sri Lanka,Ireland,Bulawayo,"Queens Sports Club, Bulawayo",Ireland,field,Sri Lanka,2023,Neutral,2,0,1,0,0,1,0.41899441340782123,0.4024390243902439
+2023-06-25,Scotland,Oman,Bulawayo,Bulawayo Athletic Club,Oman,field,Scotland,2023,Neutral,3,2,4,1,0,1,0.5714285714285714,0.5151515151515151
+2023-06-26,Zimbabwe,United States of America,Harare,Harare Sports Club,United States of America,field,Zimbabwe,2023,Neutral,5,2,0,0,0,1,0.29357798165137616,0.5571428571428572
+2023-06-27,Ireland,United Arab Emirates,Bulawayo,Bulawayo Athletic Club,United Arab Emirates,field,Ireland,2023,Neutral,0,0,7,1,0,1,0.4024390243902439,0.3486238532110092
+2023-06-27,Sri Lanka,Scotland,Bulawayo,"Queens Sports Club, Bulawayo",Scotland,field,Sri Lanka,2023,Neutral,3,4,2,0,0,1,0.41899441340782123,0.5714285714285714
+2023-06-29,Zimbabwe,Oman,Bulawayo,"Queens Sports Club, Bulawayo",Oman,field,Zimbabwe,2023,Neutral,5,2,0,0,0,1,0.29357798165137616,0.5151515151515151
+2023-06-30,Sri Lanka,Netherlands,Bulawayo,"Queens Sports Club, Bulawayo",Sri Lanka,bat,Sri Lanka,2023,Neutral,4,2,0,0,1,1,0.41899441340782123,0.4098360655737705
+2023-06-30,United States of America,Ireland,Harare,"Takashinga Sports Club, Highfield, Harare",Ireland,field,Ireland,2023,Neutral,1,1,0,0,1,0,0.5571428571428572,0.4024390243902439
+2023-07-01,West Indies,Scotland,Harare,Harare Sports Club,Scotland,field,Scotland,2023,Neutral,4,3,1,0,1,0,0.34591194968553457,0.5714285714285714
+2023-07-02,Zimbabwe,Sri Lanka,Bulawayo,"Queens Sports Club, Bulawayo",Sri Lanka,field,Sri Lanka,2023,Neutral,5,5,5,7,1,0,0.29357798165137616,0.41899441340782123
+2023-07-02,United Arab Emirates,Nepal,Harare,"Takashinga Sports Club, Highfield, Harare",Nepal,field,Nepal,2023,Neutral,0,2,6,8,1,0,0.3486238532110092,0.5185185185185185
+2023-07-03,Netherlands,Oman,Harare,Harare Sports Club,Oman,field,Netherlands,2023,Neutral,2,2,0,0,0,1,0.4098360655737705,0.5151515151515151
+2023-07-04,Scotland,Zimbabwe,Bulawayo,"Queens Sports Club, Bulawayo",Zimbabwe,field,Scotland,2023,Neutral,4,4,1,1,0,1,0.5714285714285714,0.29357798165137616
+2023-07-04,Nepal,Ireland,Harare,"Takashinga Sports Club, Highfield, Harare",Ireland,field,Ireland,2023,Neutral,2,2,0,0,1,0,0.5185185185185185,0.4024390243902439
+2023-07-05,Oman,West Indies,Harare,Harare Sports Club,West Indies,field,West Indies,2023,Neutral,1,3,0,0,1,0,0.5151515151515151,0.34591194968553457
+2023-07-06,Scotland,Netherlands,Bulawayo,"Queens Sports Club, Bulawayo",Netherlands,field,Netherlands,2023,Neutral,4,3,1,1,1,0,0.5714285714285714,0.4098360655737705
+2023-07-06,United Arab Emirates,United States of America,Harare,"Takashinga Sports Club, Highfield, Harare",United Arab Emirates,bat,United Arab Emirates,2023,Neutral,0,0,1,5,1,1,0.3486238532110092,0.5571428571428572
+2023-07-07,West Indies,Sri Lanka,Harare,Harare Sports Club,Sri Lanka,field,Sri Lanka,2023,Neutral,3,5,4,8,1,0,0.34591194968553457,0.41899441340782123
+2023-07-09,Sri Lanka,Netherlands,Harare,Harare Sports Club,Netherlands,field,Sri Lanka,2023,Neutral,5,4,1,0,0,1,0.41899441340782123,0.4098360655737705
+2023-07-27,West Indies,India,Bridgetown,"Kensington Oval, Bridgetown, Barbados",India,field,India,2023,West Indies,2,3,3,18,1,0,0.34591194968553457,0.673469387755102
+2023-07-29,India,West Indies,Bridgetown,"Kensington Oval, Bridgetown, Barbados",West Indies,field,West Indies,2023,West Indies,3,1,19,3,1,0,0.673469387755102,0.34591194968553457
+2023-08-01,India,West Indies,Tarouba,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,field,India,2023,Neutral,2,2,19,4,0,1,0.673469387755102,0.34591194968553457
+2023-08-30,Pakistan,Nepal,Multan,Multan Cricket Stadium,Pakistan,bat,Pakistan,2023,Pakistan,4,2,0,0,1,1,0.5123456790123457,0.5185185185185185
+2023-08-31,Bangladesh,Sri Lanka,Kandy,Pallekele International Cricket Stadium,Bangladesh,bat,Sri Lanka,2023,Sri Lanka,5,5,5,8,0,0,0.5107913669064749,0.41899441340782123
+2023-09-04,Nepal,India,Kandy,Pallekele International Cricket Stadium,India,field,India,2023,Neutral,1,2,0,0,1,0,0.5185185185185185,0.673469387755102
+2023-09-06,Bangladesh,Pakistan,Lahore,"Gaddafi Stadium, Lahore",Bangladesh,bat,Pakistan,2023,Pakistan,4,4,4,1,0,0,0.5107913669064749,0.5123456790123457
+2023-09-07,South Africa,Australia,Bloemfontein,"Mangaung Oval, Bloemfontein",Australia,field,Australia,2023,South Africa,3,4,12,2,1,0,0.5828220858895705,0.5705882352941176
+2023-09-08,England,New Zealand,Cardiff,"Sophia Gardens, Cardiff",New Zealand,field,New Zealand,2023,England,3,1,8,5,1,0,0.5895953757225434,0.6271186440677966
+2023-09-09,Sri Lanka,Bangladesh,Colombo,"R Premadasa Stadium, Colombo",Bangladesh,field,Sri Lanka,2023,Sri Lanka,5,3,9,5,0,1,0.41899441340782123,0.5107913669064749
+2023-09-09,Australia,South Africa,Bloemfontein,"Mangaung Oval, Bloemfontein",South Africa,field,Australia,2023,South Africa,4,3,3,12,0,1,0.5705882352941176,0.5828220858895705
+2023-09-10,England,New Zealand,Southampton,"The Rose Bowl, Southampton",New Zealand,field,England,2023,Neutral,3,2,8,6,0,1,0.5895953757225434,0.6271186440677966
+2023-09-10,India,Pakistan,Colombo,"R Premadasa Stadium, Colombo",Pakistan,field,India,2023,Neutral,3,4,5,1,0,1,0.673469387755102,0.5123456790123457
+2023-09-12,India,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",India,bat,India,2023,Sri Lanka,4,5,13,3,1,1,0.673469387755102,0.41899441340782123
+2023-09-12,South Africa,Australia,Potchefstroom,"Sedgars Park, Potchefstroom",Australia,field,South Africa,2023,Neutral,3,4,12,4,0,1,0.5828220858895705,0.5705882352941176
+2023-09-13,England,New Zealand,London,"Kennington Oval, London",New Zealand,field,England,2023,England,3,2,9,6,0,1,0.5895953757225434,0.6271186440677966
+2023-09-14,Pakistan,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",Pakistan,bat,Sri Lanka,2023,Sri Lanka,3,4,11,2,0,0,0.5123456790123457,0.41899441340782123
+2023-09-15,Bangladesh,India,Colombo,"R Premadasa Stadium, Colombo",India,field,Bangladesh,2023,Neutral,2,4,4,7,0,1,0.5107913669064749,0.673469387755102
+2023-09-15,South Africa,Australia,Centurion,"SuperSport Park, Centurion",Australia,field,South Africa,2023,South Africa,3,4,13,4,0,1,0.5828220858895705,0.5705882352941176
+2023-09-15,England,New Zealand,London,"Lord's, London",England,bat,England,2023,England,3,2,10,6,1,1,0.5895953757225434,0.6271186440677966
+2023-09-17,South Africa,Australia,Johannesburg,"The Wanderers Stadium, Johannesburg",Australia,field,South Africa,2023,South Africa,3,3,14,4,0,1,0.5828220858895705,0.5705882352941176
+2023-09-17,Sri Lanka,India,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,India,2023,Sri Lanka,4,4,3,14,0,0,0.41899441340782123,0.673469387755102
+2023-09-22,Australia,India,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,field,India,2023,Neutral,2,4,16,14,1,0,0.5705882352941176,0.673469387755102
+2023-09-23,England,Ireland,Nottingham,"Trent Bridge, Nottingham",Ireland,field,England,2023,England,3,3,5,1,0,1,0.5895953757225434,0.4024390243902439
+2023-09-23,New Zealand,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",New Zealand,bat,New Zealand,2023,Bangladesh,2,2,12,2,1,1,0.6271186440677966,0.5107913669064749
+2023-09-24,India,Australia,Indore,"Holkar Cricket Stadium, Indore",Australia,field,India,2023,Neutral,4,1,15,16,0,1,0.673469387755102,0.5705882352941176
+2023-09-26,Bangladesh,New Zealand,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,New Zealand,2023,Bangladesh,1,2,2,13,0,0,0.5107913669064749,0.6271186440677966
+2023-09-27,Australia,India,Rajkot,"Saurashtra Cricket Association Stadium, Rajkot",Australia,bat,Australia,2023,Neutral,0,4,16,16,1,1,0.5705882352941176,0.673469387755102
+2023-10-05,England,New Zealand,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",New Zealand,field,New Zealand,2023,Neutral,4,2,11,6,1,0,0.5895953757225434,0.6271186440677966
+2023-10-06,Pakistan,Netherlands,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Netherlands,field,Pakistan,2023,Neutral,2,3,3,0,0,1,0.5123456790123457,0.4098360655737705
+2023-10-07,South Africa,Sri Lanka,Delhi,"Arun Jaitley Stadium, Delhi",Sri Lanka,field,South Africa,2023,Neutral,3,3,17,4,0,1,0.5828220858895705,0.41899441340782123
+2023-10-08,Australia,India,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Australia,bat,India,2023,India,1,3,17,16,0,0,0.5705882352941176,0.673469387755102
+2023-10-09,New Zealand,Netherlands,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Netherlands,field,New Zealand,2023,Neutral,3,2,3,0,0,1,0.6271186440677966,0.4098360655737705
+2023-10-10,Sri Lanka,Pakistan,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sri Lanka,bat,Pakistan,2023,Neutral,2,3,3,11,0,0,0.41899441340782123,0.5123456790123457
+2023-10-10,England,Bangladesh,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Bangladesh,field,England,2023,Neutral,4,1,6,3,0,1,0.5895953757225434,0.5107913669064749
+2023-10-12,South Africa,Australia,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Australia,field,South Africa,2023,Neutral,4,1,15,4,0,1,0.5828220858895705,0.5705882352941176
+2023-10-13,Bangladesh,New Zealand,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",New Zealand,field,New Zealand,2023,Neutral,1,4,2,14,1,0,0.5107913669064749,0.6271186440677966
+2023-10-14,Pakistan,India,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",India,field,India,2023,India,3,4,1,6,1,0,0.5123456790123457,0.673469387755102
+2023-10-16,Sri Lanka,Australia,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sri Lanka,bat,Australia,2023,Neutral,1,1,4,8,0,0,0.41899441340782123,0.5705882352941176
+2023-10-17,Netherlands,South Africa,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",South Africa,field,Netherlands,2023,Neutral,2,5,0,2,0,1,0.4098360655737705,0.5828220858895705
+2023-10-19,Bangladesh,India,Pune,"Maharashtra Cricket Association Stadium, Pune",Bangladesh,bat,India,2023,Neutral,1,4,5,7,0,0,0.5107913669064749,0.673469387755102
+2023-10-20,Australia,Pakistan,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Pakistan,field,Australia,2023,Neutral,2,2,12,3,0,1,0.5705882352941176,0.5123456790123457
+2023-10-21,Netherlands,Sri Lanka,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Netherlands,bat,Sri Lanka,2023,Neutral,2,1,0,2,0,0,0.4098360655737705,0.41899441340782123
+2023-10-21,South Africa,England,Mumbai,"Wankhede Stadium, Mumbai",England,field,South Africa,2023,Neutral,4,4,8,8,0,1,0.5828220858895705,0.5895953757225434
+2023-10-22,New Zealand,India,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,field,India,2023,Neutral,5,4,9,12,1,0,0.6271186440677966,0.673469387755102
+2023-10-24,South Africa,Bangladesh,Mumbai,"Wankhede Stadium, Mumbai",South Africa,bat,South Africa,2023,Neutral,4,0,5,5,1,1,0.5828220858895705,0.5107913669064749
+2023-10-25,Australia,Netherlands,Delhi,"Arun Jaitley Stadium, Delhi",Australia,bat,Australia,2023,Neutral,3,1,0,0,1,1,0.5705882352941176,0.4098360655737705
+2023-10-26,England,Sri Lanka,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",England,bat,Sri Lanka,2023,Neutral,3,1,8,3,0,0,0.5895953757225434,0.41899441340782123
+2023-10-27,Pakistan,South Africa,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Pakistan,bat,South Africa,2023,Neutral,2,4,7,4,0,0,0.5123456790123457,0.5828220858895705
+2023-10-28,Australia,New Zealand,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",New Zealand,field,Australia,2023,Neutral,3,4,10,5,0,1,0.5705882352941176,0.6271186440677966
+2023-10-28,Netherlands,Bangladesh,Kolkata,"Eden Gardens, Kolkata",Netherlands,bat,Netherlands,2023,Neutral,1,0,0,0,1,1,0.4098360655737705,0.5107913669064749
+2023-10-29,India,England,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",England,field,India,2023,Neutral,4,2,7,8,0,1,0.673469387755102,0.5895953757225434
+2023-10-31,Bangladesh,Pakistan,Kolkata,"Eden Gardens, Kolkata",Bangladesh,bat,Pakistan,2023,Neutral,0,2,4,2,0,0,0.5107913669064749,0.5123456790123457
+2023-11-01,South Africa,New Zealand,Pune,"Maharashtra Cricket Association Stadium, Pune",New Zealand,field,South Africa,2023,Neutral,4,3,5,5,0,1,0.5828220858895705,0.6271186440677966
+2023-11-02,India,Sri Lanka,Mumbai,"Wankhede Stadium, Mumbai",Sri Lanka,field,India,2023,India,5,2,15,3,0,1,0.673469387755102,0.41899441340782123
+2023-11-04,Australia,England,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",England,field,Australia,2023,Neutral,4,1,14,14,0,1,0.5705882352941176,0.5895953757225434
+2023-11-04,New Zealand,Pakistan,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Pakistan,field,Pakistan,2023,Neutral,2,2,13,7,1,0,0.6271186440677966,0.5123456790123457
+2023-11-05,India,South Africa,Kolkata,"Eden Gardens, Kolkata",India,bat,India,2023,India,5,4,12,8,1,1,0.673469387755102,0.5828220858895705
+2023-11-06,Sri Lanka,Bangladesh,Delhi,"Arun Jaitley Stadium, Delhi",Bangladesh,field,Bangladesh,2023,Neutral,2,0,10,5,1,0,0.41899441340782123,0.5107913669064749
+2023-11-08,England,Netherlands,Pune,"Maharashtra Cricket Association Stadium, Pune",England,bat,England,2023,Neutral,1,2,3,0,1,1,0.5895953757225434,0.4098360655737705
+2023-11-09,Sri Lanka,New Zealand,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",New Zealand,field,New Zealand,2023,Neutral,2,1,3,14,1,0,0.41899441340782123,0.6271186440677966
+2023-11-11,England,Pakistan,Kolkata,"Eden Gardens, Kolkata",England,bat,England,2023,Neutral,1,2,14,4,1,1,0.5895953757225434,0.5123456790123457
+2023-11-11,Bangladesh,Australia,Pune,"Maharashtra Cricket Association Stadium, Pune",Australia,field,Australia,2023,Neutral,1,5,0,1,1,0,0.5107913669064749,0.5705882352941176
+2023-11-12,India,Netherlands,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",India,bat,India,2023,India,5,2,0,0,1,1,0.673469387755102,0.4098360655737705
+2023-11-15,India,New Zealand,Mumbai,"Wankhede Stadium, Mumbai",India,bat,India,2023,India,5,1,13,9,1,1,0.673469387755102,0.6271186440677966
+2023-11-16,South Africa,Australia,Kolkata,"Eden Gardens, Kolkata",South Africa,bat,Australia,2023,Neutral,4,5,16,4,0,0,0.5828220858895705,0.5705882352941176
+2023-11-19,India,Australia,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Australia,field,Australia,2023,India,5,5,17,17,1,0,0.673469387755102,0.5705882352941176
+2023-12-03,England,West Indies,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",England,bat,West Indies,2023,Neutral,2,2,10,2,0,0,0.5895953757225434,0.34591194968553457
+2023-12-06,West Indies,England,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",England,field,England,2023,Neutral,2,2,3,10,1,0,0.34591194968553457,0.5895953757225434
+2023-12-09,England,West Indies,Bridgetown,"Kensington Oval, Bridgetown, Barbados",West Indies,field,West Indies,2023,West Indies,3,2,11,3,1,0,0.5895953757225434,0.34591194968553457
+2023-12-15,Zimbabwe,Ireland,Harare,Harare Sports Club,Zimbabwe,bat,Ireland,2023,Neutral,3,3,5,7,0,0,0.29357798165137616,0.4024390243902439
+2023-12-17,Zimbabwe,Ireland,Harare,Harare Sports Club,Ireland,field,Ireland,2023,Neutral,2,4,5,8,1,0,0.29357798165137616,0.4024390243902439
+2023-12-17,New Zealand,Bangladesh,Dunedin,"University Oval, Dunedin",Bangladesh,field,New Zealand,2023,New Zealand,1,1,15,2,0,1,0.6271186440677966,0.5107913669064749
+2023-12-17,South Africa,India,Johannesburg,"The Wanderers Stadium, Johannesburg",South Africa,bat,India,2023,South Africa,3,4,8,13,0,0,0.5828220858895705,0.673469387755102
+2023-12-19,India,South Africa,Gqeberha,"St George's Park, Gqeberha",South Africa,field,South Africa,2023,South Africa,4,2,14,8,1,0,0.673469387755102,0.5828220858895705
+2023-12-20,Bangladesh,New Zealand,Nelson,"Saxton Oval, Nelson",New Zealand,field,New Zealand,2023,New Zealand,1,2,2,16,1,0,0.5107913669064749,0.6271186440677966
+2023-12-21,India,South Africa,Paarl,"Boland Park, Paarl",South Africa,field,India,2023,Neutral,3,2,14,9,0,1,0.673469387755102,0.5828220858895705
+2023-12-23,New Zealand,Bangladesh,Napier,"McLean Park, Napier",Bangladesh,field,Bangladesh,2023,New Zealand,3,1,17,2,1,0,0.6271186440677966,0.5107913669064749
+2024-01-08,Zimbabwe,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",Zimbabwe,bat,Sri Lanka,2024,Sri Lanka,1,2,5,8,0,0,0.29357798165137616,0.41899441340782123
+2024-01-11,Zimbabwe,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",Zimbabwe,bat,Sri Lanka,2024,Sri Lanka,0,2,5,9,0,0,0.29357798165137616,0.41899441340782123
+2024-02-02,West Indies,Australia,Melbourne,Melbourne Cricket Ground,Australia,field,Australia,2024,Australia,3,5,2,6,1,0,0.34591194968553457,0.5705882352941176
+2024-02-04,Australia,West Indies,Sydney,Sydney Cricket Ground,West Indies,field,Australia,2024,Australia,5,2,7,2,0,1,0.5705882352941176,0.34591194968553457
+2024-02-06,West Indies,Australia,Canberra,"Manuka Oval, Canberra",Australia,field,Australia,2024,Australia,2,5,2,8,1,0,0.34591194968553457,0.5705882352941176
+2024-02-08,Nepal,Canada,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,bat,Nepal,2024,Neutral,1,2,0,0,1,1,0.5185185185185185,0.37037037037037035
+2024-02-10,Canada,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Canada,bat,Nepal,2024,Neutral,2,2,0,1,0,0,0.37037037037037035,0.5185185185185185
+2024-02-12,Canada,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2024,Neutral,1,2,0,2,1,0,0.37037037037037035,0.5185185185185185
+2024-02-15,Nepal,Namibia,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Namibia,field,Namibia,2024,Neutral,3,3,2,3,1,0,0.5185185185185185,0.5
+2024-02-17,Netherlands,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,field,Nepal,2024,Neutral,1,3,1,0,1,0,0.4098360655737705,0.5185185185185185
+2024-02-19,Namibia,Netherlands,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,field,Netherlands,2024,Neutral,3,1,0,0,1,0,0.5,0.4098360655737705
+2024-02-21,Nepal,Namibia,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Namibia,field,Namibia,2024,Neutral,4,3,2,4,1,0,0.5185185185185185,0.5
+2024-02-23,Namibia,Netherlands,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,field,Namibia,2024,Neutral,3,2,0,1,0,1,0.5,0.4098360655737705
+2024-02-25,Nepal,Netherlands,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,field,Netherlands,2024,Neutral,3,1,1,1,1,0,0.5185185185185185,0.4098360655737705
+2024-02-28,United Arab Emirates,Canada,Dubai,Dubai International Cricket Stadium,Canada,field,Canada,2024,Neutral,1,1,1,0,1,0,0.3486238532110092,0.37037037037037035
+2024-03-01,Scotland,Canada,Dubai,Dubai International Cricket Stadium,Canada,field,Canada,2024,Neutral,3,2,0,0,1,0,0.5714285714285714,0.37037037037037035
+2024-03-03,United Arab Emirates,Scotland,Dubai,Dubai International Cricket Stadium,Scotland,field,Scotland,2024,Neutral,1,2,4,8,1,0,0.3486238532110092,0.5714285714285714
+2024-03-05,Canada,United Arab Emirates,Dubai,Dubai International Cricket Stadium,United Arab Emirates,field,Canada,2024,Neutral,2,1,1,1,0,1,0.37037037037037035,0.3486238532110092
+2024-03-07,Scotland,Canada,Dubai,Dubai International Cricket Stadium,Canada,field,Canada,2024,Neutral,3,3,0,1,1,0,0.5714285714285714,0.37037037037037035
+2024-03-13,Sri Lanka,Bangladesh,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,bat,Bangladesh,2024,Bangladesh,2,2,10,6,0,0,0.41899441340782123,0.5107913669064749
+2024-03-15,Bangladesh,Sri Lanka,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,field,Sri Lanka,2024,Bangladesh,2,2,7,10,1,0,0.5107913669064749,0.41899441340782123
+2024-03-18,Sri Lanka,Bangladesh,Chattogram,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,bat,Bangladesh,2024,Bangladesh,3,2,11,7,0,0,0.41899441340782123,0.5107913669064749
+2024-07-18,Oman,Namibia,Dundee,"Forthill, Dundee",Namibia,field,Namibia,2024,Neutral,0,4,1,5,1,0,0.5151515151515151,0.5
+2024-07-20,Scotland,Namibia,Dundee,"Forthill, Dundee",Namibia,field,Scotland,2024,Neutral,2,4,4,1,0,1,0.5714285714285714,0.5
+2024-07-22,Oman,Scotland,Dundee,"Forthill, Dundee",Scotland,field,Scotland,2024,Neutral,0,2,1,5,1,0,0.5151515151515151,0.5714285714285714
+2024-07-24,Namibia,Oman,Dundee,"Forthill, Dundee",Oman,field,Oman,2024,Neutral,3,0,6,1,1,0,0.5,0.5151515151515151
+2024-07-26,Scotland,Namibia,Dundee,"Forthill, Dundee",Namibia,field,Scotland,2024,Neutral,3,3,5,1,0,1,0.5714285714285714,0.5
+2024-08-04,Sri Lanka,India,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Sri Lanka,2024,Sri Lanka,3,3,3,16,1,1,0.41899441340782123,0.673469387755102
+2024-08-07,Sri Lanka,India,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Sri Lanka,2024,Sri Lanka,3,2,4,16,1,1,0.41899441340782123,0.673469387755102
+2024-08-11,Canada,Netherlands,The Hague,"Sportpark Westvliet, The Hague",Canada,bat,Netherlands,2024,Neutral,4,2,0,0,0,0,0.37037037037037035,0.4098360655737705
+2024-08-13,United States of America,Canada,The Hague,"Sportpark Westvliet, The Hague",Canada,field,United States of America,2024,Neutral,0,4,0,1,0,1,0.5571428571428572,0.37037037037037035
+2024-08-15,Netherlands,United States of America,The Hague,"Sportpark Westvliet, The Hague",United States of America,field,Netherlands,2024,Neutral,3,1,1,0,0,1,0.4098360655737705,0.5571428571428572
+2024-08-17,Netherlands,Canada,Rotterdam,"Hazelaarweg, Rotterdam",Canada,field,Netherlands,2024,Neutral,4,3,1,0,0,1,0.4098360655737705,0.37037037037037035
+2024-08-19,United States of America,Canada,Rotterdam,"Hazelaarweg, Rotterdam",Canada,field,United States of America,2024,Neutral,1,2,1,1,0,1,0.5571428571428572,0.37037037037037035
+2024-08-21,Netherlands,United States of America,Rotterdam,"Hazelaarweg, Rotterdam",United States of America,field,Netherlands,2024,Neutral,4,2,2,0,0,1,0.4098360655737705,0.5571428571428572
+2024-09-16,Namibia,United States of America,Windhoek,"United Cricket Club Ground, Windhoek",United States of America,field,United States of America,2024,Neutral,2,2,3,3,1,0,0.5,0.5571428571428572
+2024-09-16,Canada,Nepal,King City,"Maple Leaf North-West Ground, King City",Nepal,field,Canada,2024,Neutral,1,2,0,3,0,1,0.37037037037037035,0.5185185185185185
+2024-09-18,Nepal,Oman,King City,"Maple Leaf North-West Ground, King City",Oman,field,Oman,2024,Neutral,1,1,3,4,1,0,0.5185185185185185,0.5151515151515151
+2024-09-18,United Arab Emirates,United States of America,Windhoek,"United Cricket Club Ground, Windhoek",United States of America,field,United States of America,2024,Neutral,1,3,2,5,1,0,0.3486238532110092,0.5571428571428572
+2024-09-19,England,Australia,Nottingham,"Trent Bridge, Nottingham",England,bat,Australia,2024,England,3,5,14,15,0,0,0.5895953757225434,0.5705882352941176
+2024-09-20,Namibia,United Arab Emirates,Windhoek,"United Cricket Club Ground, Windhoek",United Arab Emirates,field,United Arab Emirates,2024,Neutral,1,1,1,6,1,0,0.5,0.3486238532110092
+2024-09-20,Canada,Oman,King City,"Maple Leaf North-West Ground, King City",Oman,field,Canada,2024,Neutral,1,2,0,0,0,1,0.37037037037037035,0.5151515151515151
+2024-09-21,Australia,England,Leeds,"Headingley, Leeds",England,field,Australia,2024,England,5,2,16,14,0,1,0.5705882352941176,0.5895953757225434
+2024-09-22,Namibia,United States of America,Windhoek,"United Cricket Club Ground, Windhoek",Namibia,bat,United States of America,2024,Neutral,0,3,3,4,0,0,0.5,0.5571428571428572
+2024-09-22,Nepal,Canada,King City,"Maple Leaf North-West Ground, King City",Nepal,bat,Canada,2024,Neutral,1,2,3,1,0,0,0.5185185185185185,0.37037037037037035
+2024-09-24,United States of America,United Arab Emirates,Windhoek,"United Cricket Club Ground, Windhoek",United Arab Emirates,field,United States of America,2024,Neutral,4,1,6,2,0,1,0.5571428571428572,0.3486238532110092
+2024-09-24,Australia,England,Chester-le-Street,"Riverside Ground, Chester-le-Street",England,field,England,2024,England,5,1,17,14,1,0,0.5705882352941176,0.5895953757225434
+2024-09-26,Oman,Canada,King City,"Maple Leaf North-West Ground, King City",Canada,field,Canada,2024,Neutral,2,3,0,1,1,0,0.5151515151515151,0.37037037037037035
+2024-09-26,United Arab Emirates,Namibia,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,field,Namibia,2024,Neutral,1,0,7,1,1,0,0.3486238532110092,0.5
+2024-09-27,England,Australia,London,"Lord's, London",Australia,field,England,2024,England,2,4,15,17,0,1,0.5895953757225434,0.5705882352941176
+2024-09-29,England,Australia,Bristol,"County Ground, Bristol",Australia,field,Australia,2024,Neutral,2,3,16,17,1,0,0.5895953757225434,0.5705882352941176
+2024-10-02,South Africa,Ireland,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",South Africa,bat,South Africa,2024,Neutral,1,4,3,1,1,1,0.5828220858895705,0.4024390243902439
+2024-10-04,South Africa,Ireland,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",South Africa,bat,South Africa,2024,Neutral,2,3,4,1,1,1,0.5828220858895705,0.4024390243902439
+2024-10-07,Ireland,South Africa,Abu Dhabi,"Zayed Cricket Stadium, Abu Dhabi",Ireland,bat,Ireland,2024,Neutral,2,3,1,5,1,1,0.4024390243902439,0.5828220858895705
+2024-10-20,West Indies,Sri Lanka,Kandy,Pallekele International Cricket Stadium,West Indies,bat,Sri Lanka,2024,Sri Lanka,1,3,4,9,0,0,0.34591194968553457,0.41899441340782123
+2024-10-23,West Indies,Sri Lanka,Kandy,Pallekele International Cricket Stadium,Sri Lanka,field,Sri Lanka,2024,Sri Lanka,1,4,4,10,1,0,0.34591194968553457,0.41899441340782123
+2024-10-25,United States of America,Scotland,Dallas,"Grand Prairie Stadium, Dallas",Scotland,field,Scotland,2024,Neutral,4,4,3,3,1,0,0.5571428571428572,0.5714285714285714
+2024-10-26,Sri Lanka,West Indies,Kandy,Pallekele International Cricket Stadium,West Indies,field,West Indies,2024,Sri Lanka,4,0,11,4,1,0,0.41899441340782123,0.34591194968553457
+2024-10-29,Scotland,Nepal,Dallas,"Grand Prairie Stadium, Dallas",Nepal,field,Nepal,2024,Neutral,4,0,3,3,1,0,0.5714285714285714,0.5185185185185185
+2024-10-31,England,West Indies,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,field,West Indies,2024,Neutral,2,1,11,4,1,0,0.5895953757225434,0.34591194968553457
+2024-10-31,Scotland,United States of America,Dallas,"Grand Prairie Stadium, Dallas",United States of America,field,Scotland,2024,Neutral,4,4,4,3,0,1,0.5714285714285714,0.5571428571428572
+2024-11-01,United Arab Emirates,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,field,Oman,2024,Neutral,1,2,3,4,1,0,0.3486238532110092,0.5151515151515151
+2024-11-02,United States of America,Nepal,Dallas,"Grand Prairie Stadium, Dallas",Nepal,field,United States of America,2024,Neutral,3,1,1,4,0,1,0.5571428571428572,0.5185185185185185
+2024-11-02,West Indies,England,North Sound,"Sir Vivian Richards Stadium, North Sound, Antigua",England,field,England,2024,Neutral,2,2,5,11,1,0,0.34591194968553457,0.5895953757225434
+2024-11-03,United Arab Emirates,Netherlands,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,field,United Arab Emirates,2024,Neutral,1,5,0,0,0,1,0.3486238532110092,0.4098360655737705
+2024-11-04,Pakistan,Australia,Melbourne,Melbourne Cricket Ground,Australia,field,Australia,2024,Australia,2,3,3,13,1,0,0.5123456790123457,0.5705882352941176
+2024-11-05,Netherlands,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,field,Oman,2024,Neutral,4,3,1,0,1,0,0.4098360655737705,0.5151515151515151
+2024-11-06,England,West Indies,Bridgetown,"Kensington Oval, Bridgetown, Barbados",West Indies,field,West Indies,2024,West Indies,3,2,12,5,1,0,0.5895953757225434,0.34591194968553457
+2024-11-07,United Arab Emirates,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,field,Oman,2024,Neutral,2,3,3,5,1,0,0.3486238532110092,0.5151515151515151
+2024-11-08,Australia,Pakistan,Adelaide,Adelaide Oval,Pakistan,field,Pakistan,2024,Australia,3,2,14,3,1,0,0.5705882352941176,0.5123456790123457
+2024-11-09,Netherlands,United Arab Emirates,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,field,Netherlands,2024,Neutral,3,1,0,1,0,1,0.4098360655737705,0.3486238532110092
+2024-11-10,Australia,Pakistan,Perth,Perth Stadium,Pakistan,field,Pakistan,2024,Australia,2,3,14,4,1,0,0.5705882352941176,0.5123456790123457
+2024-11-11,Oman,Netherlands,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,field,Oman,2024,Neutral,3,3,1,1,0,1,0.5151515151515151,0.4098360655737705
+2024-11-13,Sri Lanka,New Zealand,Dambulla,Rangiri Dambulla International Stadium,Sri Lanka,bat,Sri Lanka,2024,Neutral,4,3,3,15,1,1,0.41899441340782123,0.6271186440677966
+2024-11-17,New Zealand,Sri Lanka,Kandy,Pallekele International Cricket Stadium,Sri Lanka,field,Sri Lanka,2024,Sri Lanka,2,4,15,4,1,0,0.6271186440677966,0.41899441340782123
+2024-11-24,Zimbabwe,Pakistan,Bulawayo,"Queens Sports Club, Bulawayo",Pakistan,field,Zimbabwe,2024,Neutral,0,3,1,12,0,1,0.29357798165137616,0.5123456790123457
+2024-11-26,Zimbabwe,Pakistan,Bulawayo,"Queens Sports Club, Bulawayo",Zimbabwe,bat,Pakistan,2024,Neutral,1,2,2,12,0,0,0.29357798165137616,0.5123456790123457
+2024-11-28,Pakistan,Zimbabwe,Bulawayo,"Queens Sports Club, Bulawayo",Pakistan,bat,Pakistan,2024,Neutral,3,1,13,2,1,1,0.5123456790123457,0.29357798165137616
+2024-12-08,Bangladesh,West Indies,Basseterre,"Warner Park, Basseterre, St Kitts",Bangladesh,bat,West Indies,2024,Neutral,3,3,14,2,0,0,0.5107913669064749,0.34591194968553457
+2024-12-10,Bangladesh,West Indies,Basseterre,"Warner Park, Basseterre, St Kitts",West Indies,field,West Indies,2024,Neutral,3,4,14,3,1,0,0.5107913669064749,0.34591194968553457
+2024-12-12,Bangladesh,West Indies,Basseterre,"Warner Park, Basseterre, St Kitts",West Indies,field,West Indies,2024,Neutral,2,4,14,4,1,0,0.5107913669064749,0.34591194968553457
+2024-12-17,South Africa,Pakistan,Paarl,"Boland Park, Paarl",South Africa,bat,Pakistan,2024,Neutral,3,4,5,7,0,0,0.5828220858895705,0.5123456790123457
+2024-12-19,Pakistan,South Africa,Cape Town,"Newlands, Cape Town",South Africa,field,Pakistan,2024,South Africa,4,2,8,5,0,1,0.5123456790123457,0.5828220858895705
+2024-12-22,Pakistan,South Africa,Johannesburg,"The Wanderers Stadium, Johannesburg",South Africa,field,Pakistan,2024,South Africa,4,2,9,5,0,1,0.5123456790123457,0.5828220858895705
+2025-01-05,Sri Lanka,New Zealand,Wellington,"Basin Reserve, Wellington",New Zealand,field,New Zealand,2025,New Zealand,4,2,5,15,1,0,0.41899441340782123,0.6271186440677966
+2025-01-08,New Zealand,Sri Lanka,Hamilton,"Seddon Park, Hamilton",Sri Lanka,field,New Zealand,2025,New Zealand,2,3,16,5,0,1,0.6271186440677966,0.41899441340782123
+2025-01-11,Sri Lanka,New Zealand,Auckland,"Eden Park, Auckland",Sri Lanka,bat,Sri Lanka,2025,New Zealand,2,2,5,17,1,1,0.41899441340782123,0.6271186440677966
+2025-02-06,England,India,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",England,bat,India,2025,Neutral,2,2,8,8,0,0,0.5895953757225434,0.673469387755102
+2025-02-08,United States of America,Namibia,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,field,United States of America,2025,Neutral,3,1,5,3,0,1,0.5571428571428572,0.5
+2025-02-08,New Zealand,Pakistan,Lahore,"Gaddafi Stadium, Lahore",New Zealand,bat,New Zealand,2025,Pakistan,2,5,13,8,1,1,0.6271186440677966,0.5123456790123457
+2025-02-09,England,India,Cuttack,"Barabati Stadium, Cuttack",England,bat,India,2025,Neutral,1,2,8,9,0,0,0.5895953757225434,0.673469387755102
+2025-02-10,South Africa,New Zealand,Lahore,"Gaddafi Stadium, Lahore",New Zealand,field,New Zealand,2025,Neutral,1,3,6,5,1,0,0.5828220858895705,0.6271186440677966
+2025-02-10,Namibia,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,field,Namibia,2025,Neutral,1,4,6,2,0,1,0.5,0.5151515151515151
+2025-02-12,United States of America,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,bat,Oman,2025,Neutral,3,4,1,4,0,0,0.5571428571428572,0.5151515151515151
+2025-02-12,Sri Lanka,Australia,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Sri Lanka,2025,Sri Lanka,3,2,4,9,1,1,0.41899441340782123,0.5705882352941176
+2025-02-12,South Africa,Pakistan,Karachi,"National Stadium, Karachi",South Africa,bat,Pakistan,2025,Pakistan,0,4,5,10,0,0,0.5828220858895705,0.5123456790123457
+2025-02-12,India,England,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",England,field,India,2025,India,3,1,10,8,0,1,0.673469387755102,0.5895953757225434
+2025-02-14,Sri Lanka,Australia,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Sri Lanka,2025,Sri Lanka,3,2,5,9,1,1,0.41899441340782123,0.5705882352941176
+2025-02-14,Pakistan,New Zealand,Karachi,"National Stadium, Karachi",Pakistan,bat,New Zealand,2025,Pakistan,4,4,8,14,0,0,0.5123456790123457,0.6271186440677966
+2025-02-14,Zimbabwe,Ireland,Harare,Harare Sports Club,Ireland,field,Zimbabwe,2025,Neutral,1,3,5,9,0,1,0.29357798165137616,0.4024390243902439
+2025-02-14,United States of America,Namibia,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,field,United States of America,2025,Neutral,2,2,6,3,0,1,0.5571428571428572,0.5
+2025-02-16,Namibia,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,bat,Oman,2025,Neutral,2,4,7,2,0,0,0.5,0.5151515151515151
+2025-02-16,Zimbabwe,Ireland,Harare,Harare Sports Club,Ireland,field,Ireland,2025,Neutral,2,2,6,9,1,0,0.29357798165137616,0.4024390243902439
+2025-02-18,United States of America,Oman,Al Amarat,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,field,United States of America,2025,Neutral,3,4,1,5,0,1,0.5571428571428572,0.5151515151515151
+2025-02-18,Ireland,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Zimbabwe,2025,Neutral,2,2,10,6,1,0,0.4024390243902439,0.29357798165137616
+2025-02-19,New Zealand,Pakistan,Karachi,"National Stadium, Karachi",Pakistan,field,New Zealand,2025,Pakistan,4,3,15,8,0,1,0.6271186440677966,0.5123456790123457
+2025-02-20,Bangladesh,India,Dubai,Dubai International Cricket Stadium,Bangladesh,bat,India,2025,Neutral,1,3,5,8,0,0,0.5107913669064749,0.673469387755102
+2025-02-22,England,Australia,Lahore,"Gaddafi Stadium, Lahore",Australia,field,Australia,2025,Neutral,1,1,16,18,1,0,0.5895953757225434,0.5705882352941176
+2025-02-23,Pakistan,India,Dubai,Dubai International Cricket Stadium,Pakistan,bat,India,2025,Neutral,2,4,1,7,0,0,0.5123456790123457,0.673469387755102
+2025-02-24,Bangladesh,New Zealand,Rawalpindi,Rawalpindi Cricket Stadium,New Zealand,field,New Zealand,2025,Neutral,1,4,3,17,1,0,0.5107913669064749,0.6271186440677966
+2025-03-01,England,South Africa,Karachi,"National Stadium, Karachi",England,bat,South Africa,2025,Neutral,0,0,8,9,0,0,0.5895953757225434,0.5828220858895705
+2025-03-02,India,New Zealand,Dubai,Dubai International Cricket Stadium,New Zealand,field,India,2025,Neutral,5,5,14,9,0,1,0.673469387755102,0.6271186440677966
+2025-03-04,Australia,India,Dubai,Dubai International Cricket Stadium,Australia,bat,India,2025,Neutral,1,5,18,17,0,0,0.5705882352941176,0.673469387755102
+2025-03-05,New Zealand,South Africa,Lahore,"Gaddafi Stadium, Lahore",New Zealand,bat,New Zealand,2025,Neutral,4,1,6,6,1,1,0.6271186440677966,0.5828220858895705
+2025-03-07,Netherlands,Namibia,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,field,Netherlands,2025,Neutral,2,2,1,1,0,1,0.4098360655737705,0.5
+2025-03-09,New Zealand,India,Dubai,Dubai International Cricket Stadium,New Zealand,bat,India,2025,Neutral,4,5,9,15,0,0,0.6271186440677966,0.673469387755102
+2025-03-13,Namibia,Netherlands,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,bat,Netherlands,2025,Neutral,1,2,1,2,0,0,0.5,0.4098360655737705
+2025-03-15,Namibia,Canada,Windhoek,"Wanderers Cricket Ground, Windhoek",Namibia,bat,Namibia,2025,Neutral,1,4,1,0,1,1,0.5,0.37037037037037035
+2025-03-29,New Zealand,Pakistan,Napier,"McLean Park, Napier",Pakistan,field,New Zealand,2025,New Zealand,3,1,16,8,0,1,0.6271186440677966,0.5123456790123457
+2025-04-02,New Zealand,Pakistan,Hamilton,"Seddon Park, Hamilton",Pakistan,field,New Zealand,2025,New Zealand,3,1,17,8,0,1,0.6271186440677966,0.5123456790123457
+2025-04-05,New Zealand,Pakistan,Mount Maunganui,"Bay Oval, Mount Maunganui",Pakistan,field,New Zealand,2025,New Zealand,3,0,18,8,0,1,0.6271186440677966,0.5123456790123457
+2025-05-04,United Arab Emirates,Scotland,Amstelveen,"VRA Ground, Amstelveen",Scotland,field,Scotland,2025,Neutral,1,4,4,9,1,0,0.3486238532110092,0.5714285714285714
+2025-05-06,Netherlands,United Arab Emirates,Amstelveen,"VRA Ground, Amstelveen",United Arab Emirates,field,Netherlands,2025,Neutral,3,1,1,1,0,1,0.4098360655737705,0.3486238532110092
+2025-05-08,United Arab Emirates,Scotland,Amstelveen,"VRA Ground, Amstelveen",United Arab Emirates,bat,United Arab Emirates,2025,Neutral,1,4,4,10,1,1,0.3486238532110092,0.5714285714285714
+2025-05-10,Netherlands,Scotland,Amstelveen,"VRA Ground, Amstelveen",Netherlands,bat,Netherlands,2025,Neutral,4,3,2,1,1,1,0.4098360655737705,0.5714285714285714
+2025-05-12,United Arab Emirates,Netherlands,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",United Arab Emirates,bat,Netherlands,2025,Neutral,1,4,1,2,0,0,0.3486238532110092,0.4098360655737705
+2025-05-14,United Arab Emirates,Scotland,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",United Arab Emirates,bat,Scotland,2025,Neutral,1,2,5,10,0,0,0.3486238532110092,0.5714285714285714
+2025-05-16,Scotland,Netherlands,Utrecht,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,field,Scotland,2025,Neutral,3,5,1,3,0,1,0.5714285714285714,0.4098360655737705
+2025-05-17,United States of America,Canada,Lauderhill,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",United States of America,bat,United States of America,2025,Neutral,4,4,2,1,1,1,0.5571428571428572,0.37037037037037035
+2025-05-19,Oman,Canada,Lauderhill,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Oman,bat,Oman,2025,Neutral,3,3,0,2,1,1,0.5151515151515151,0.37037037037037035
+2025-05-21,Ireland,West Indies,Dublin,"Castle Avenue, Dublin",West Indies,field,Ireland,2025,Neutral,2,4,3,7,0,1,0.4024390243902439,0.34591194968553457
+2025-05-23,Canada,Oman,Lauderhill,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Canada,bat,Oman,2025,Neutral,2,3,2,1,0,0,0.37037037037037035,0.5151515151515151
+2025-05-25,West Indies,Ireland,Dublin,"Castle Avenue, Dublin",Ireland,field,West Indies,2025,Neutral,4,3,7,4,0,1,0.34591194968553457,0.4024390243902439
+2025-05-25,United States of America,Canada,Lauderhill,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",United States of America,bat,United States of America,2025,Neutral,4,1,3,1,1,1,0.5571428571428572,0.37037037037037035
+2025-05-27,United States of America,Oman,Lauderhill,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Oman,field,United States of America,2025,Neutral,4,4,2,5,0,1,0.5571428571428572,0.5151515151515151
+2025-05-29,England,West Indies,Birmingham,"Edgbaston, Birmingham",West Indies,field,England,2025,England,0,4,12,6,0,1,0.5895953757225434,0.34591194968553457
+2025-06-01,West Indies,England,Cardiff,"Sophia Gardens, Cardiff",England,field,England,2025,England,3,1,6,13,1,0,0.34591194968553457,0.5895953757225434
+2025-06-02,Scotland,Nepal,Dundee,"Forthill, Dundee",Nepal,field,Nepal,2025,Neutral,3,1,3,4,1,0,0.5714285714285714,0.5185185185185185
+2025-06-03,West Indies,England,London,"Kennington Oval, London",England,field,England,2025,England,2,2,6,14,1,0,0.34591194968553457,0.5895953757225434
+2025-06-04,Netherlands,Nepal,Dundee,"Forthill, Dundee",Netherlands,bat,Nepal,2025,Neutral,4,2,2,1,0,0,0.4098360655737705,0.5185185185185185
+2025-06-06,Scotland,Netherlands,Dundee,"Forthill, Dundee",Netherlands,field,Scotland,2025,Neutral,2,3,2,3,0,1,0.5714285714285714,0.4098360655737705
+2025-06-08,Scotland,Nepal,Dundee,"Forthill, Dundee",Scotland,bat,Scotland,2025,Neutral,3,3,3,5,1,1,0.5714285714285714,0.5185185185185185
+2025-06-10,Nepal,Netherlands,Dundee,"Forthill, Dundee",Netherlands,field,Nepal,2025,Neutral,3,2,2,2,0,1,0.5185185185185185,0.4098360655737705
+2025-06-12,Scotland,Netherlands,Dundee,"Forthill, Dundee",Scotland,bat,Netherlands,2025,Neutral,4,1,3,3,0,0,0.5714285714285714,0.4098360655737705
+2025-07-02,Sri Lanka,Bangladesh,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Sri Lanka,2025,Sri Lanka,3,0,11,8,1,1,0.41899441340782123,0.5107913669064749
+2025-07-05,Bangladesh,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",Bangladesh,bat,Bangladesh,2025,Sri Lanka,0,4,8,12,1,1,0.5107913669064749,0.41899441340782123
+2025-07-08,Sri Lanka,Bangladesh,Kandy,Pallekele International Cricket Stadium,Sri Lanka,bat,Sri Lanka,2025,Sri Lanka,4,1,12,9,1,1,0.41899441340782123,0.5107913669064749
+2025-08-08,West Indies,Pakistan,Tarouba,"Brian Lara Stadium, Tarouba, Trinidad",Pakistan,field,Pakistan,2025,Neutral,1,0,3,8,1,0,0.34591194968553457,0.5123456790123457
+2025-08-10,Pakistan,West Indies,Tarouba,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,field,West Indies,2025,Neutral,1,1,9,3,1,0,0.5123456790123457,0.34591194968553457
+2025-08-12,West Indies,Pakistan,Tarouba,"Brian Lara Stadium, Tarouba, Trinidad",Pakistan,field,West Indies,2025,Neutral,1,1,4,9,0,1,0.34591194968553457,0.5123456790123457
+2025-08-19,South Africa,Australia,Cairns,"Cazaly's Stadium, Cairns",Australia,field,South Africa,2025,Neutral,1,1,16,5,0,1,0.5828220858895705,0.5705882352941176
+2025-08-22,South Africa,Australia,Mackay,"Great Barrier Reef Arena, Mackay",South Africa,bat,South Africa,2025,Neutral,2,1,17,5,1,1,0.5828220858895705,0.5705882352941176
+2025-08-24,Australia,South Africa,Mackay,"Great Barrier Reef Arena, Mackay",Australia,bat,Australia,2025,Neutral,1,3,5,18,1,1,0.5705882352941176,0.5828220858895705
+2025-08-27,Canada,Namibia,King City,"Maple Leaf North-West Ground, King City",Namibia,field,Namibia,2025,Neutral,0,1,0,2,1,0,0.37037037037037035,0.5
+2025-08-29,Sri Lanka,Zimbabwe,Harare,Harare Sports Club,Zimbabwe,field,Sri Lanka,2025,Neutral,4,2,10,5,0,1,0.41899441340782123,0.29357798165137616
+2025-08-31,Zimbabwe,Sri Lanka,Harare,Harare Sports Club,Sri Lanka,field,Sri Lanka,2025,Neutral,2,4,5,11,1,0,0.29357798165137616,0.41899441340782123
+2025-08-31,Canada,Scotland,King City,"Maple Leaf North-West Ground, King City",Scotland,field,Scotland,2025,Neutral,0,3,2,0,1,0,0.37037037037037035,0.5714285714285714
+2025-09-02,England,South Africa,Leeds,"Headingley, Leeds",South Africa,field,South Africa,2025,England,3,3,8,10,1,0,0.5895953757225434,0.5828220858895705
+2025-09-02,Namibia,Canada,King City,"Maple Leaf North-West Ground, King City",Canada,field,Namibia,2025,Neutral,2,0,3,0,0,1,0.5,0.37037037037037035
+2025-09-04,Scotland,Namibia,King City,"Maple Leaf North-West Ground, King City",Scotland,bat,Scotland,2025,Neutral,3,3,6,1,1,1,0.5714285714285714,0.5
+2025-09-04,South Africa,England,London,"Lord's, London",England,field,South Africa,2025,England,3,3,11,8,0,1,0.5828220858895705,0.5895953757225434
+2025-09-07,England,South Africa,Southampton,"The Rose Bowl, Southampton",South Africa,field,England,2025,Neutral,3,4,8,12,0,1,0.5895953757225434,0.5828220858895705
+2025-10-18,Bangladesh,West Indies,Dhaka,"Shere Bangla National Stadium, Mirpur",West Indies,field,Bangladesh,2025,Bangladesh,1,2,14,5,0,1,0.5107913669064749,0.34591194968553457
+2025-10-19,India,Australia,Perth,Perth Stadium,Australia,field,Australia,2025,Australia,5,2,18,18,1,0,0.673469387755102,0.5705882352941176
+2025-10-23,India,Australia,Adelaide,Adelaide Oval,Australia,field,Australia,2025,Australia,4,2,18,19,1,0,0.673469387755102,0.5705882352941176
+2025-10-23,Bangladesh,West Indies,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,bat,Bangladesh,2025,Bangladesh,2,2,15,5,1,1,0.5107913669064749,0.34591194968553457
+2025-10-25,Australia,India,Sydney,Sydney Cricket Ground,Australia,bat,India,2025,Australia,3,3,20,18,0,0,0.5705882352941176,0.673469387755102
+2025-10-26,England,New Zealand,Mount Maunganui,"Bay Oval, Mount Maunganui",New Zealand,field,New Zealand,2025,New Zealand,3,4,11,7,1,0,0.5895953757225434,0.6271186440677966
+2025-10-26,United States of America,Nepal,Dubai,Dubai International Cricket Stadium,Nepal,field,United States of America,2025,Neutral,5,3,2,4,0,1,0.5571428571428572,0.5185185185185185
+2025-10-28,United Arab Emirates,United States of America,Dubai,Dubai International Cricket Stadium,United States of America,field,United States of America,2025,Neutral,1,5,2,7,1,0,0.3486238532110092,0.5571428571428572
+2025-10-29,England,New Zealand,Hamilton,"Seddon Park, Hamilton",New Zealand,field,New Zealand,2025,New Zealand,2,4,11,8,1,0,0.5895953757225434,0.6271186440677966
+2025-10-30,Nepal,United Arab Emirates,Dubai,"ICC Academy, Dubai",Nepal,bat,United Arab Emirates,2025,Neutral,3,1,9,6,0,0,0.5185185185185185,0.3486238532110092
+2025-11-01,Nepal,United States of America,Dubai,"ICC Academy, Dubai",United States of America,field,United States of America,2025,Neutral,2,5,4,3,1,0,0.5185185185185185,0.5571428571428572
+2025-11-01,England,New Zealand,Wellington,"Sky Stadium, Wellington",New Zealand,field,New Zealand,2025,New Zealand,1,5,11,9,1,0,0.5895953757225434,0.6271186440677966
+2025-11-03,United States of America,United Arab Emirates,Dubai,Dubai International Cricket Stadium,United Arab Emirates,field,United States of America,2025,Neutral,5,2,8,2,0,1,0.5571428571428572,0.3486238532110092
+2025-11-04,South Africa,Pakistan,Faisalabad,"Iqbal Stadium, Faisalabad",Pakistan,field,Pakistan,2025,Neutral,3,1,5,11,1,0,0.5828220858895705,0.5123456790123457
+2025-11-05,Nepal,United Arab Emirates,Dubai,"ICC Academy, Dubai",United Arab Emirates,field,United Arab Emirates,2025,Neutral,1,1,9,7,1,0,0.5185185185185185,0.3486238532110092
+2025-11-06,Pakistan,South Africa,Faisalabad,"Iqbal Stadium, Faisalabad",Pakistan,bat,South Africa,2025,Neutral,2,2,12,5,0,0,0.5123456790123457,0.5828220858895705
+2025-11-08,South Africa,Pakistan,Faisalabad,"Iqbal Stadium, Faisalabad",South Africa,bat,Pakistan,2025,Neutral,3,2,6,12,0,0,0.5828220858895705,0.5123456790123457
+2025-11-11,Pakistan,Sri Lanka,Rawalpindi,Rawalpindi Cricket Stadium,Sri Lanka,field,Pakistan,2025,Pakistan,2,4,12,3,0,1,0.5123456790123457,0.41899441340782123
+2025-11-14,Sri Lanka,Pakistan,Rawalpindi,Rawalpindi Cricket Stadium,Pakistan,field,Pakistan,2025,Pakistan,3,3,3,13,1,0,0.41899441340782123,0.5123456790123457
+2025-11-16,New Zealand,West Indies,Christchurch,"Hagley Oval, Christchurch",West Indies,field,New Zealand,2025,New Zealand,5,2,7,1,0,1,0.6271186440677966,0.34591194968553457
+2025-11-16,Sri Lanka,Pakistan,Rawalpindi,Rawalpindi Cricket Stadium,Pakistan,field,Pakistan,2025,Pakistan,3,4,3,14,1,0,0.41899441340782123,0.5123456790123457
+2025-11-19,West Indies,New Zealand,Napier,"McLean Park, Napier",New Zealand,field,New Zealand,2025,New Zealand,2,5,1,8,1,0,0.34591194968553457,0.6271186440677966
+2025-11-22,West Indies,New Zealand,Hamilton,"Seddon Park, Hamilton",West Indies,bat,New Zealand,2025,New Zealand,1,5,1,9,0,0,0.34591194968553457,0.6271186440677966
+2025-11-30,India,South Africa,Ranchi,"JSCA International Stadium Complex, Ranchi",South Africa,field,India,2025,Neutral,3,2,15,9,0,1,0.673469387755102,0.5828220858895705
+2025-12-03,India,South Africa,Raipur,"Shaheed Veer Narayan Singh International Stadium, Raipur",South Africa,field,South Africa,2025,Neutral,3,1,16,9,1,0,0.673469387755102,0.5828220858895705
+2025-12-06,South Africa,India,Visakhapatnam,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,field,India,2025,Neutral,2,2,10,16,1,0,0.5828220858895705,0.673469387755102
+2026-01-11,New Zealand,India,Vadodara,"Kotambi Stadium, Vadodara",India,field,India,2026,Neutral,5,3,9,16,1,0,0.6271186440677966,0.673469387755102
+2026-01-14,India,New Zealand,Rajkot,"Niranjan Shah Stadium, Rajkot",New Zealand,field,New Zealand,2026,Neutral,4,4,17,9,1,0,0.673469387755102,0.6271186440677966
+2026-01-18,New Zealand,India,Indore,"Holkar Cricket Stadium, Indore",India,field,New Zealand,2026,Neutral,4,3,10,17,0,1,0.6271186440677966,0.673469387755102
+2026-01-22,Sri Lanka,England,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,Sri Lanka,2026,Sri Lanka,2,1,4,8,1,1,0.41899441340782123,0.5895953757225434
+2026-01-24,Sri Lanka,England,Colombo,"R Premadasa Stadium, Colombo",Sri Lanka,bat,England,2026,Sri Lanka,2,1,5,8,0,0,0.41899441340782123,0.5895953757225434
+2026-01-27,England,Sri Lanka,Colombo,"R Premadasa Stadium, Colombo",England,bat,England,2026,Sri Lanka,1,1,9,5,1,1,0.5895953757225434,0.41899441340782123
+2026-03-11,Pakistan,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,field,Bangladesh,2026,Bangladesh,4,3,3,4,1,0,0.5123456790123457,0.5107913669064749
+2026-03-13,Pakistan,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",Bangladesh,field,Pakistan,2026,Bangladesh,4,4,3,5,0,1,0.5123456790123457,0.5107913669064749
+2026-03-15,Bangladesh,Pakistan,Dhaka,"Shere Bangla National Stadium, Mirpur",Pakistan,field,Bangladesh,2026,Bangladesh,3,4,5,4,0,1,0.5107913669064749,0.5123456790123457
+2026-04-04,Namibia,Oman,Windhoek,"Namibia Cricket Ground, Windhoek",Oman,field,Oman,2026,Neutral,3,3,7,3,1,0,0.5,0.5151515151515151
+2026-04-08,Oman,Scotland,Windhoek,"Namibia Cricket Ground, Windhoek",Scotland,field,Oman,2026,Neutral,3,4,1,6,0,1,0.5151515151515151,0.5714285714285714
+2026-04-10,Oman,Namibia,Windhoek,"Namibia Cricket Ground, Windhoek",Namibia,field,Namibia,2026,Neutral,4,3,4,7,1,0,0.5151515151515151,0.5
+2026-04-12,Namibia,Scotland,Windhoek,"Namibia Cricket Ground, Windhoek",Namibia,bat,Scotland,2026,Neutral,3,3,1,7,0,0,0.5,0.5714285714285714
+2026-04-17,New Zealand,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",New Zealand,bat,New Zealand,2026,Bangladesh,4,4,18,3,1,1,0.6271186440677966,0.5107913669064749
+2026-04-20,New Zealand,Bangladesh,Dhaka,"Shere Bangla National Stadium, Mirpur",New Zealand,bat,Bangladesh,2026,Bangladesh,4,3,19,3,0,0,0.6271186440677966,0.5107913669064749
+2026-04-23,Bangladesh,New Zealand,Chattogram,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",New Zealand,field,Bangladesh,2026,Neutral,3,3,4,19,0,1,0.5107913669064749,0.6271186440677966
+2026-04-25,Nepal,United Arab Emirates,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",United Arab Emirates,field,Nepal,2026,Neutral,1,2,9,8,0,1,0.5185185185185185,0.3486238532110092
+2026-04-27,United Arab Emirates,Oman,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Oman,field,United Arab Emirates,2026,Neutral,2,3,3,6,0,1,0.3486238532110092,0.5151515151515151
+2026-04-29,Oman,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Oman,bat,Oman,2026,Neutral,2,1,5,3,1,1,0.5151515151515151,0.5185185185185185
+2026-05-01,Nepal,United Arab Emirates,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,bat,Nepal,2026,Neutral,1,3,10,8,1,1,0.5185185185185185,0.3486238532110092
+2026-05-03,United Arab Emirates,Oman,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",United Arab Emirates,bat,United Arab Emirates,2026,Neutral,2,3,4,6,1,1,0.3486238532110092,0.5151515151515151
+2026-05-05,Nepal,Oman,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,bat,Nepal,2026,Neutral,2,2,3,6,1,1,0.5185185185185185,0.5151515151515151
+2026-05-12,Scotland,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Scotland,bat,Scotland,2026,Neutral,3,3,4,5,1,1,0.5714285714285714,0.5185185185185185
+2026-05-14,Scotland,United States of America,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",United States of America,field,Scotland,2026,Neutral,4,5,5,3,0,1,0.5714285714285714,0.5571428571428572
+2026-05-16,United States of America,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",United States of America,bat,Nepal,2026,Neutral,4,3,4,4,0,0,0.5571428571428572,0.5185185185185185
+2026-05-18,Scotland,Nepal,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Scotland,bat,Nepal,2026,Neutral,4,3,5,5,0,0,0.5714285714285714,0.5185185185185185
+2026-05-20,Scotland,United States of America,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",Scotland,bat,United States of America,2026,Neutral,3,3,6,3,0,0,0.5714285714285714,0.5571428571428572
+2026-05-22,Nepal,United States of America,Kirtipur,"Tribhuvan University International Cricket Ground, Kirtipur",United States of America,field,Nepal,2026,Neutral,4,3,5,4,0,1,0.5185185185185185,0.5571428571428572
+2026-05-30,Australia,Pakistan,Rawalpindi,Rawalpindi Cricket Stadium,Pakistan,field,Pakistan,2026,Pakistan,3,3,14,5,1,0,0.5705882352941176,0.5123456790123457
+2026-06-02,Australia,Pakistan,Lahore,"Gaddafi Stadium, Lahore",Pakistan,field,Australia,2026,Pakistan,3,3,14,6,0,1,0.5705882352941176,0.5123456790123457
